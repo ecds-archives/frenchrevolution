@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="chap_1005">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Chapeaux á vendre, opuscule dédiée á M. Le Chapelier: electronic edition</title>
+        <author>anonyme</author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Michael Kazanjian</name>
+        <name/></respStmt>
+      </titleStmt>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia  30322</addrLine>
+        </address><availability>
+          <p>2004 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</p>
+        </availability><date>2004</date><idno type="ark">http://pid.emory.edu/ark:/25593/rr</idno></publicationStmt>
+      <seriesStmt>
+        <title>French Revolution Pamphlet Collection</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Chapeaux á vendre, opuscule dédiée á M. Le Chapelier.</title>
+          <pubPlace/>
+          <date>1790</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p>This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</p>
+        <p>Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling.  For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</p>
+      </editorialDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <date>1799</date>
+      </creation>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>2004</date><label>staff</label><name>Michael Kazanjian</name>Sgml tags inserted in compliance with TEI guidelines using TEI P3</change></revisionDesc></teiHeader>
+  <text xml:id="chap_1004">
+    <front xml:id="chap_1001">
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Chapeaux á vendre, opuscule dédiée á M. Le Chapelier.</titlePart>
+        </docTitle>
+        <epigraph>
+          <q>&gt;Puisqu'il faut faire argent de tout<lb/>
+Autant de nos chapeaux que de nos boucles.</q>
+        </epigraph>
+        <docImprint>A PARIS<lb/>
+De l'imprimerie des Gens sans tête à l'Assemblée Nationale.</docImprint>
+        <docDate>M. D C C. X C.</docDate>
+      </titlePage>
+    </front>
+    <pb n="2"/>
+    <pb n="3"/>
+    <body xml:id="chap_1002">
+      <div1 xml:id="chap_01" type="misc">
+        <p>CHAPEAUX A VENDRE.</p>
+        <p rend="rule center"/>
+        <p>Si peu de gens ont des têtes qui valent aujourd'hui, que dès lors les Chapeaux deviennent inutiles. Nous nous sommes décidés à faire un inventaire <hi rend="italic">patriotique</hi> de tous ceux que l'on pourroit vendre au profit de l'état.</p>
+        <p>Je ne vous parlerai pas du castor du gros Vicomte : la balle qui lui a froissé le front nous prouve que le plomb n'est pas incompatible avec cette tête, après laquelle tout le monde crie, on ne sait trop pourquoi, car elle n'est pas sans mérite. Un plaisant me disoit, il y a quelques jours, qu'il la trouvoit si solide qu'il en avoit retenu le crâne, après la mort de ce seigneur de l'ancien régime, pour faire le chapiteau d'un alambic. Mort ou vif, répondit un garçon, ce crâne ne peut donc changer sa destination.</p>
+        <p>Nous voudrions bien faire bénéficier la caisse
+<pb n="4"/>
+nationale, du feutre bourdalisé de notre ami J. F. Maury. Mais ce chien d'Aristocrate montre à lui seul plus de tête que tous les Jacobins ensemble. Ou prétend même qu'il est une des principales causes du patriotisme qui fait briller ce club respectable, dont il est le stimulant, &amp; dont nous avons trouvé presque tous les chapeux à vendre. Comment, Messieurs, tous ces hommes fameux, <hi rend="italic">pères de notre liberté</hi>, n'auroient selon vous pas de quoi porter un chapeau ? non : tête de linotte, tête de perroquet, grand écho raisonnant au loin, toujours étourdissant &amp; toujours inutile, soufflet d'orgue sans organiste, &amp;c. &amp;c. tout cela n'a pas besoin de chapeaux &amp; nous les adjugeons au profit de la nation.</p>
+        <p>Mirabeau, le grand meneur, tenoit beaucoup à son chapeau, &amp; chacun de nous répugnoit aussi à l'en priver ; <hi rend="italic">c'est une si bonne tête</hi> ! Cependant les besoins de l'état sont si urgens, que nous devenions pressans; lorsqu'un Anglais, témoin de nos instances, nous dit : il ne le donnera pas ; ce chapeau est plus précieux que vous ne l'imaginez ; il est doublé de Renard <ref target="#note001">(I)</ref>.</p>
+        <p rend="rule center"/>
+        <note anchored="true" xml:id="note001">(I) Fox, en Anglais veut dire Renard. Cet insulaire, en parlant du chapeau doublé de poil de RENARD, fait sans doute allusion à tout l'argent qu'a gagné l'honnête, le fameux, l'intéressant et très intéressé Mirabeau avec Fox, Ministre Anglais, soit dans l'affaire où ce d'Orléans s'est montré comme un sot, soit par sa motion pour l'affranchissement des Nègres, qui ne lui a cependant, dit-on, valu que cent mille francs, et qui devoit lui en valoir quinze cent mille, s'il eÛt pu réussir à la faire passer.</note>
+        <pb n="5"/>
+        <p>Nous ne doutions pas effectivement que ce feutre ne couvrit le plus fin des animaux, &amp; le voyant toujours éluder adroitement tous nos argumens, nous allions quitter la partie, quand la <hi rend="italic">vertueuse</hi> Madame le Jay entra. Elle s'approcha mystérieusment de son tendre amant, &amp; lui dit, assure-t'on, à l'oreille, qu'elle l'aimoit mieux en bonnet de nuit. Ce que n'avoit pu faire notre éloquence, ce que n'avoit pu lui-même gagner sur sa belle ame <hi rend="italic">le plus patriote des Députés</hi>, deux beaux yeux, quatre mots d'une charmante bouche, l'obtinrent en un instant. Exaltons la sensibilité de ce généreux citoyen, &amp; remplaçons le chapeau que nous venons de conquérir, par une couronne civique ; aussi bien c'est la mode ; elle fiéroit autant à un Mirabeau qu'à un grand
+<pb n="6"/>
+Inquisiteur de Paris, dit Membre glorieux du sanguinaire &amp; odieux tribunal du Comité des recherches. Arrêtons un moment, &amp; bornons notre enthousiasme ; couronné ou non ,de l'homme nous ne tenons que le chapeau, &amp; la fameuse doublure, le compère ne la prodigue pas, il souvient que tous les jours ne sont pas égaux, &amp; la garde pour se mettre à l'abri des tems de crise. Enfin , c'est toujours un chapeau de plus, &amp; qui prouvera que les meilleures têtes ont leurs foiblesses.</p>
+        <p>Pour ne point avoir de foiblesses, pour conserver sa tête, &amp; ne pas s'exposer à voir fort chapeau à l'encan, il n'est qu'un moyen ; Mounier, Lally, Bergasse, &amp; tant d'autres, nous l'ont prouvé. Partir ou perdre le moule avec le chapeau, c'étoit l'alternative où se trouvoient ces grands hommes. Ils sont partis. En vain d'Orléans a suivi le même exemple; en partant il n'a pu emporter ce que jamais il ne posséda, &amp; la caisse patriotique est enrichie de son chapeau, de celui de ses dignes fils, auxquels on pourroit même joindre celui de sa femme &amp; de son beau-père, s'ils en valoient la peine.</p>
+        <p>Nous voulions joindre , à la précieuse collection dont nous venons de parler, le <hi rend="italic">fameux</hi><pb n="7"/>
+chapeau, du général plus <hi rend="italic">fameux</hi> encore par la prise des Annonciades. Mais quel fut en entrant chez lui notre étonnement de le trouver affublé d'une <hi rend="italic">guimpe</hi>, envain nous voulumes lui parler, il ne répondoit que par ces mots , <hi rend="italic">vive Jésus</hi>, oui <hi rend="italic">ma sœur</hi>, nous ne savions à quoi attribuer cette étonnante métamorphose, quand une des religieuses, sortie de S. Antoine, qui nous dit être Madame de Verte-Allure, auteur d'un journal, <hi rend="italic">intitulé l'étoile du matin, ou les petits mots de Madame de Verte-Allure</hi>, journal qui n'est pas sans mérite, &amp; que l'on devroit chercher à connoître, nous raconta qu'une sorcière du Périgord, pour venger son sexe, de l'indécence <hi rend="italic">patriotique</hi> qu'avoit commise ce député, l'avoit condamné la <hi rend="italic">guimpe</hi>, jusqu'à ce que par reconnoissance du bien qu'il veut aux négresses, il ait consenti d'épouser la douairière <hi rend="italic">Madame Enfoux</hi> que le bruit de ses exploits avoit malgré son grand âge rendue éperduement amoureuse de ce général imberbe.</p>
+        <p>Nous nous dédommageâmes amplement des refus que nous avions éprouvés, car en passant devant le palais, nous trouvâmes dans nos anciens Sénateurs, le plus généreux dévouement. Chacun d'eux s'empressoit à qui mieux mieux,
+<pb n="8"/>
+de nous offrir son bonnet; les présidens mêmes nous donnèrent leurs mortiers ; les Ducs &amp; Pairs, tous les attributs de leur grandeur passée. Nous crumes d'abord ces cadeaux de peu de valeur, mais un antiquaire nous dit que, malgré leur inutilité présente, on pourroit en tirer bon parti dans les cabinets d'antiques, en y joignant, pour completer la collection, les chapeaux de nos Cardinaux, &amp; même un grand nombre des mîtres chancelantes de nos Évêques, sans oublier leurs crosses, avec lesquels enfin ils ne cosseront plus personne. Nous solliciterons aussi nos défunts Seigneurs les Maréchaux de France, à porter à la même vente leurs inutiles bâtons.</p>
+        <p rend="rule center"/>
+        <p>
+          <hi rend="italic">La suite à l'ordinaire prochain.</hi>
+        </p>
+      </div1>
+    </body>
+    <back xml:id="chap_1003"><!-- <div1 id="chap_figures">
+<p><figure entity="chap00" n="1"><figDesc>Image of page 1</figDesc></figure></p>
+<p><figure entity="chap02" n="2"><figDesc>Image of page 2</figDesc></figure></p>
+<p><figure entity="chap04" n="4"><figDesc>Image of page 4</figDesc></figure></p>
+<p><figure entity="chap06" n="6"><figDesc>Image of page 6</figDesc></figure></p>
+<p><figure entity="chap08" n="5"><figDesc>Image of page 8</figDesc></figure></p>
+</div1> --></back>
+  </text>
+</TEI>

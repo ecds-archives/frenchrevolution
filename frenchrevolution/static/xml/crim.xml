@@ -1,0 +1,2928 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="crim_1005">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>LES CRIMES DE LA NOBLESSE, OU LE RÉGIME FÉODAL: electronic edition</title>
+        <author>la Citoyenne VILLENEUVE [Cizos-Duplessis, F. (pseud.)]</author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Michael Kazanjian</name>
+        <name/></respStmt>
+      </titleStmt>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia  30322</addrLine>
+        </address><availability>
+          <p>2003 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</p>
+        </availability><date>2003</date><idno type="ark">http://pid.emory.edu/ark:/25593/zz</idno></publicationStmt>
+      <seriesStmt>
+        <title>French Revolution Pamphlet Collection</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>LES CRIMES DE LA NOBLESSE, OU LE RÉGIME FÉODAL.</title>
+          <pubPlace>Paris</pubPlace>
+        </bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p>This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</p>
+        <p>Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling.  I also omitted page signatures: A2 from p. 3, B from p. 9, B2 from p. 11, C from p. 17, C2 from p. 19, D from p. 25, D2 from p. 27, E from p. 33, E2 from p. 35, F from p. 41, F2 from p. 43, G from p. 49, G2 from p. 51, H from p. 57, H2 from p. 59 and I from p. 65. For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</p>
+      </editorialDecl>
+    </encodingDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>2003</date><label>staff</label><name>Michael Kazanjian</name>Sgml tags inserted in compliance with TEI guidelines using TEI P3</change></revisionDesc></teiHeader>
+  <text xml:id="crim_1004">
+    <front xml:id="crim_1001">
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">LES CRIMES DE LA NOBLESSE, OU LE RÉGIME FÉODAL,</titlePart>
+          <titlePart type="main">PIECE EN CINQ ACTES, EN PROSE, A GRAND SPECTACLE ; </titlePart>
+        </docTitle>
+        <byline>PAR LA CITOYENNE VILLENEUVE.</byline>
+        <docEdition>Représentée sur divers Théâtres de la Commune de Paris.<lb/>
+Prix, 30 sols.</docEdition>
+        <docImprint><name type="place">A PARIS, Chez BARBA, Libraire, rue Gît-le-Cœur,
+no. 15 ;</name> Et <name type="place">chez MARCHAND, maison Egalité, galerie neuve, no. 9</name></docImprint>
+        <docDate>SECONDE ANNÉE DE LA RÉPUBLIQUE.</docDate>
+        <pb n="1"/>
+      </titlePage>
+      <div1 xml:id="crim_pers" type="Personnages">
+        <pb n="2"/>
+        <list type="simple">
+          <head>PERSONNAGES.</head>
+          <item>LE DUC DE FORSAC, <hi rend="italic">tyran</hi>.</item>
+          <item>SOPHIE, sa fille, <hi rend="italic">jeune premiere</hi>.</item>
+          <item>ANSELME, aumônier du Duc, <hi rend="italic">troisième rôle</hi>.</item>
+          <item>ALONZE, Ecuyer du Duc, <hi rend="italic">rôle de convenance</hi>.</item>
+          <item>DUMON, Intendant du Duc, <hi rend="italic">second père</hi>.</item>
+          <item>FRANK, Domestique du Duc, <hi rend="italic">second comique</hi>.</item>
+          <item>PATRICE, Concierge du château, <hi rend="italic">premier comique</hi>.</item>
+          <item>HENRI père, Fermier, <hi rend="italic">premier père</hi>, (autrefois dit père noble.)</item>
+          <item>HENRI fils, amant de Sophie, <hi rend="italic">jeune premier</hi>.</item>
+          <item>AGATHE, fille d'Henri, <hi rend="italic">seconde amoureuse</hi>.</item>
+          <item>CHARLES, amant d'Agathe, <hi rend="italic">second amoureux</hi>.</item>
+          <item>GERTRUDE, Gouvernante de Sophie, <hi rend="italic">mère</hi>, (autrefois dit mère noble.)</item>
+          <item>UN PAYSAN, parlant.</item>
+          <item>TROUPE DE PAYSANS.</item>
+          <item>GARDES DE FORSAC.</item>
+        </list>
+        <stage type="business">
+          <p>Nota. <hi rend="italic">La force dec caractère et les nuances de Henri fils exigent que ce soit</hi> le premier rôle <hi rend="italic">qui le joue, à moins que son physique ne soit trop âgé : alors ce doit être le</hi> jeune premier.</p>
+        </stage>
+        <stage type="location">La Scène se passe au fond du Béarn.</stage>
+        <p rend="rule center"/>
+        <p>En cédant mon ouvrage à l'impression, je me suis réservé le droit de traiter avec les Directeurs de Spectacles des Départemens.</p>
+        <p>
+          <hi rend="italic">Paris, ce onzième jour de Floréal, l'an 2 de la République une et indivisible.</hi>
+        </p>
+        <signed><hi rend="italic">Signé</hi>, la Citoyenne VILLENEUVE</signed>
+      </div1>
+    </front>
+    <pb n="3"/>
+    <body xml:id="crim_1002">
+      <div1 xml:id="crim_a1" n="1" type="Acte">
+        <head>ACTE PREMIER</head>
+        <div2 xml:id="crim_a1s1" n="1" type="Scene">
+          <head>SCÈNE PREMIÈRE.</head>
+          <stage type="location">Le théâtre représente un salon du chateau de Forsac.</stage>
+          <sp>
+            <speaker>FORSAC</speaker>
+            <stage type="business">FORSAC <hi rend="italic">seul, assis près d'une table.</hi></stage>
+            <p>LES remords en vain me tourmentent..... en vain l'image de mon épouse, morte au fond d'un cachot, me poursuit sans cesse en me reprochant ma cruauté : rien ne peut m'empêcher d'accomplir ma vengeance. Ma fille, mon unique espérance, ose aimer !.... qui ?.... un homme sans nom, sans état, sans fortune ! Son amour outrage ses ayeux et son père ! Fille imprudente, tu paieras cher ta folle passion ! et le malheureux qui te l'inspira, privé de sa raison, le sera bientôt de sa liberté  Tu crus qu'en père idolâtre je sacrifierois l'orgueil de mon rang à ton amour, et que la fille de tes maîtres deviendrot ton épouse !.... Jamais. Que plutôt la foudre tombe sur celle qui t'es si chère ! je puis la voir expirer, mais non s'avilir. Je ne connois d'autres sentimens que la vengeance, si-tôt qu'on résiste à mes volontés.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a1s2" n="2" type="Scene">
+          <head>SCÈNE II</head>
+          <p>FRANK, FORSAC.</p>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Ah ! te voilà, Frank ?... A-t-on exécuté mes ordres? ces braconniers ont-ils subi leur sort ? La mort étoit due à leur insolence.</p>
+          </sp>
+          <pb n="4"/>
+          <sp>
+            <speaker>FRANK.</speaker>
+            <p>Ils ne sont plus, Seigneur. Mais vos paysans murmurent : ils oseront tout. Je crains qu'éclairés par le malheur....</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Il faut les en accabler. Sous ce poids, l'ame abattue n'a plus son énergie. 0n se plaint, on gémit ; mais on tremble et l'on obéit.</p>
+          </sp>
+          <sp>
+            <speaker>FRANK.</speaker>
+            <p>Le désespoir n'a point de bornes, en vous pourriez, Seigneur, être victime du leur.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Je ne crains point leur impuissante rage. Faites ce que je vais vous dire. Les parens de ce fou de Henri se hasardent à tenir des propos qui m'offensent, ils me nomment tyran ! Eh bien, je le serai. Je veux voir le chef de cette insolente famille ; et s'il osoit me résister.....</p>
+          </sp>
+          <sp>
+            <speaker>FRANK.</speaker>
+            <p>La douleur l'égare sans doute. Son fils, le seul appui de sa vieillesse osa aimer votre fille ; osais sa démence le punit assez. Il est mort pour ses parens..... pardonnez, Seigneur, de légers murmures que leur arrache le malheur.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC</speaker>
+            <stage type="delivery">, <hi rend="italic">d'un ton de voix terrible</hi>.</stage>
+            <p>Vous les plaignez !..... vous ! vous êtes leur complice.</p>
+          </sp>
+          <sp>
+            <speaker>FRANK.</speaker>
+            <p>Seigneur, croyes.....</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Il suffit Souvenez-vous des ordres que je vous ai donnés ce matin. Que les dîmes soient payées ; que tout braconnier soit puni sur la champ : point de grace. Que mon intendant, qui fait l'homme de bien, sache que je veux être craint et obéi, que telle est ma volonté.</p>
+          </sp>
+          <sp>
+            <speaker>FRANK.</speaker>
+            <p>Le voici lui-même, suivi de votre aumônier. <stage type="business">(<hi rend="italic">Il sort.</hi>)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a1s3" n="3" type="Scene">
+          <head>SCÈNE III.</head>
+          <p>FORSAC, DUMON, ANSELME.</p>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Seigneur, un paysan, courbé sous le poids des années et du malheur, implore par ma voix la grace ne ne point</p>
+            <pb n="5"/>
+            <p>faire de corvée : il est bien foible. Si vous daigniez le voir.... </p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Non : j'ai bien besoin d'écouter toutes ces jérémiadcs ? Ce seroit à n'en point finir si je voilois vous croire..... Eh bien, s'il ne peut les faire, ses enfans y suppléeront.</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Seigneur, il n'en avoit qu'un, et il en est privé.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Tant pis pour lui.</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>C'est vous qui lui ravîtes ce soutien dc ses vieux jours.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Apparemment qu'il m'offensa.</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Seigneur, pressé par le besoin, il fut à la chasse pour nourrir son père malade : il eut le malheur d'être pris, et subit la mort : en vain je vous implorai pour lui, jamais vous ne voulÛtes m'entendre.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Et j'eus tout, selon vous ?</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Oui, Seigneur ; et dressai-je vous déplaire .....</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Vous êtes bien insolent !</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Monsieur Dumon aime à protéger ?</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Non, Monsieur, mais j'aime à servir l'humanité.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Vous approuvez les braconniers ?</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Je les plaint bien sincérement.  Eh quoi ! ces malheureux verront ravager leurs champs par le gibier, détruire en un moment le fruit de tant de peines, et il n'oseront s'armer contre cette oppression ? Privés de tout, pressés par la faim on les force encore respecter les destructeurs de leurs travaux ! Je gémis et m'indigne de voir le riche, ne manquant de rien, faire un crime aux pauvres de défendre sa propriété et de se procurer le nécessaire.</p>
+          </sp>
+          <pb n="6"/>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Mais savez-vous que vous êtes philosophe, M. Dumon !</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Monsieur, je suis homme, je plaide la cause des infortunés ; et ce devroit être votre emploi. Enfin, Seigneur, que dirai-je à ce bon vieillard ?</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Vous lui direz que peu m'importe, de quelle façon les corvées soient faites ; mais que je prétends n'en exempter personne,</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Mais si ses forces s'y refusent ?</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Qu'il paie pour les faire.</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Et si sa pauvreté ne le lui permet pas ?</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Si, si : vos observations m'excèdent. Qu'il vende son champ.</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Non, Seigneur, il ne le vendra pas. Je possède bien peu ; mais je ne le souffrirois point ; je paierois pour lui et croirois soulager mon père.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Vous êtes bien généreux ! ne seroit-ce point à mes dépens ?</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Je vous pardonne de me soupçonner. Mais, Seigneur, mes comptes sont en règle : je vous les rendrai et me retirerai de chez vous aussi pauvre que lorsque j'y entrai.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Vos gages vous mettoient à même d'épargner. Vous devriez avoir des fonds.</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Ils sont placés à un bien haut intérêt !</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Comment?</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Chez tous les malheureux que j'ai pu soulager.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Vous vous piquez d'être bienfaisant, d'être aimé ?</p>
+          </sp>
+          <pb n="7"/>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Eh ! qui dans la nature n'est pas jaloux de l'être?</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Moi, Monsieur, je ne puis me compromettre avec un homme sans nom, j'imagine.</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Que je vous plains, et combien je rends grace au ciel de n'être pas né noble ! Je puis aimer, je puis être aimé sans rougir ; et je ne changerois pas ce beau droit pour tous ceux des plus grands seigneurs de l'univers.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <stage type="business">(<hi rend="italic">Frank paroît dans le fond.</hi>)</stage>
+            <p>Votre façon de penser me déplaît, je vous en avertis. </p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Je puis me retirer, Seigneur, mais non vous la sacrifier.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Dans deux heures, soyez prêt à rendre vos comptes.</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Il suffit : je n'y manquerai pas, je vous jure.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>C'en est assez : sortez.</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Ah ! tâchons, pendant le peu de temps que j'ai encore à rester dans ces lieux, d'empêcher quelques crimes. <stage type="business">(<hi rend="italic">Il sort</hi>.)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a1s4" n="4" type="Scene">
+          <head>SCÈNE IV.</head>
+          <p>FORSAC, ANSELME, FRANK.</p>
+          <sp>
+            <speaker>FORSAC, <hi rend="italic">à Frank</hi>.</speaker>
+            <p>Qu'un fasse descendre ma fille. <stage type="business">(<hi rend="italic">Frank sort</hi>.)</stage> Anselme, d'après vos conseils je veux voir si l'amour qu'elle a pour Henri est aussi puissant qu'on le dit. Quoi qu'il en soit, il faut qu'elle y renonce sur l'heure, ou je saurai l'y réduire à force de tourmens.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME,</speaker>
+            <stage type="delivery"><hi rend="italic">avec hypocrisie</hi>.</stage>
+            <p>Parlez-lui, Seigneur ; effrayez-là : mais souvenez-vous que vous êtes père.</p>
+          </sp>
+          <pb n="8"/>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Vous êtes trop bon, Anselme. Cette ingrate est indigne de pitié.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME, </speaker>
+            <stage type="delivery"><hi rend="italic">à part</hi>.</stage>
+            <p>Mais qu'elle est digne d'amour !</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>La voici: laisse-moi seul avec elle.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Je me retire. <stage type="business">(<hi rend="italic">Il sort en regardant tendrement Sophie.</hi>)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a1s5" n="5" type="Scene">
+          <head>SCÈNE V.</head>
+          <p>FORSAC, SOPHIE.</p>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Approchez, fille indigne et téméraire ; venez abjurer l'erreur qui vous séduit. Vous devez haïr l'homme qui, oubliant votre rang, osa, malgré la bassesse du sien, vous déclarer un amour outrageant.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Moi, mon père ! je haïrois cet infortuné ! il m'aime, est-ce un crime si grand ?</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>La fille de ses maîtres ne dcvait être pour lui qu'un objet de respect.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Henri n'a point de titres ; il n'est pas riche, il est vrai : mais l'honneur, la probité, les vertus, voilà son apanage, et cela vaut bien, je crois, le nom de mes ancêtres.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Savez-vous à quel point votre audace peut me porter ? savez-vous ce que ma colère réserve à ceux qui m'outragent ?</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Je sais que vous pouvez tout. Vous m'avez bannie de votre cœur, la triste Sophie n'est plus pour vous qu'un objet de haine.  Mais dussiez-vous prononcer l'arrêt de ma mortt, ah ! mon père, à vos pieds je fais l'aveu de mon amour : oui, je vous l'atteste, Henri, l'infortuné Henri m'est plus cher que la vie ! Je lui dois pour prix de ses maux, un amour sans</p>
+            <pb n="9"/>
+            <p>sans bornes, une constance à toute épreuve. Il est l'époux que mon cœur a choisi, et jamais votre fille n'en aura d'autre. Daignez souscrire à mes vœux : mon père, laissez-vous fléchir.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC, <hi rend="italic">la repoussant</hi>.</speaker>
+            <p>Va monstre que le Ciel me donna dans sa colère, je saurai te punir ! Ame vile, tu verras périr l'objet de tes vœux ! Puisse le spectre ensanglanté de ton amant, te poursuivre sans cesse ! puisse-tu l'entendre gémir sous les voÛtes ténébreuses du cachot que je te dessine ! et puisse la malédiction d'un père te poursuivre jusqu'à ton denier soupir! <stage type="business">(<hi rend="italic">Il va pour sortir</hi>.)</stage></p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE,</speaker>
+            <stage type="delivery"><hi rend="italic">au désespoir</hi>.</stage>
+            <p>Mon père, arrêtez, écoutez : ah ! ne soyez pas inflexible: faites-moi tout souffrir ; mais épargnez les jours du malheureux Henri ; ou, dans mon désespoir, je ne sais....</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Insensée. tu ne fais qu'accroître ma rage : dans peu tu verras si mes menaces sont vaines.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>C'en est trop, et je ne vous connois plus. Quoi ! l'auteur de mes jours a-t-il le droit de les abréger ? peut-il commander à mes sentimens ? Non, l'amour est libre. J'aime Henri, et tous les tourmens ne pourront me faire changer. Jugez combien il m'est cher, puisque je brave jusqu'à la haine de mon père.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Fille indigne ! tu paieras cher cet amour criminel : je veux que les supplices...</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Rien ne peut m'effrayer. Le malheureux que j'aime, privé de sa raison, ne saura pas que son amie, victime de l'amour, souffre tout pour lui. Le ciel, dans son malheur, lui épargnera du moins la connoissance de son sort.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Il est encore sensible, on peut le tourmenter ; et sois sure...</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>O vous que je ne peux nommer mon père, vous que je voudrois chérir et qui voulez ma mort, daignez accorder à mes derniers vœux la grace de mon amant ! Il n'est point coupable, non, il ne l'est point. C'est moi qui la première connus l'amour ;</p>
+            <pb n="10"/>
+            <p>c'est moi qui encourageai  le sien. Je sentis qu'il m'étoit impossible de vivre sans lui. Je fus la seule criminelle ; que je sois la seule victime immolée à votre colère.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>C'est trop me braver : la raison n'a plus d'empire sur toi. Vas, tu n'es plus pour lui qu'un objet d'horreur et de mépis. Mais je dois un exemple, il sera terrible ! Ton sort épouvantera les siècles à venir, et tous les enfans qui voudroient, comme toi, se soustraire à l'autorité paternelle. <stage type="business">(<hi rend="italic">Il sort</hi>.)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a1s6" n="6" type="Scene">
+          <head>SCÈNE VI.</head>
+          <sp>
+            <speaker>SOPHIE,</speaker>
+            <stage type="business"><hi rend="italic">seule</hi>.</stage>
+            <p>Ah ! qui plus que moi l'auroit respectée, cette autorité, si le ciel m'avoit accordé un père qui m'eÛt aimée ! Mais depuis mon enfance, menacée sans cesse, abattue sous le poids du malheur, le cœur de mon Henri, son cœur seul sut répondre au mien ! O ma mère ! vous que je perdis avant d'avoir pu vous connoître, combien je vous aurois chérie ! Victme de la jalousie de votre époux, vous mourÛtes à la fleur de vos ans, au fond d'un cachot. Votre malheureuse Sophie subira bientôt le même sort, et c'est à présent l'objet de tous ses vœux.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a1s7" n="7" type="Scene">
+          <head>SCÈNE VII.</head>
+          <p>SOPHIE, GERTRUDE.</p>
+          <sp>
+            <speaker>GERTRUDE, </speaker>
+            <stage type="business"><hi rend="italic">accourant avec précipitation</hi>.</stage>
+            <p>Ah ! qu'avez-vous dit à votre père ? La colère anime son regard. Il vient de rencontrer Henri, qui rode sans cesse autour du chàteau. Il lui a fait dire de se retirer. L' infortuné, tout occupé de vous, n'entendoit rien, prononçoit votre nom, et n'obéissoit point. Votre père plein de fureur a couru sur ce malheureux, l'a maltraité, frappé, et l'a forcé à sortir de sa léthargie. Il l'a fiat conduire chez son père les mains liées. Tous les habitans l'entourent, tous s'intéressent à son sort et blâment hautement son père.  Qui peut l'avoir porté à cet acte d'inhumanité ?</p>
+          </sp>
+          <pb n="11"/>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>L'orgueil et la haine. Ma bonne, tu viens de déchirer mon cœur. Le sort que l'on fait éprouver à celui qui m'est si cher, met le comble à mes maux. O mon père ! vous n'avez pas besoin d'inventer des tourmens ; encore une horreur pareille et votre fille ne sera plus..... Ma bonne, bientôt la mort.....</p>
+          </sp>
+          <sp>
+            <speaker>GERTRUDE.</speaker>
+            <p>Quel sombre désespoir s'empare de vous ! Vous voulez mourir ? grand dieu, réserves-tu ce chagrin à ma vieillesse ! Ma fille, n'affligez point celle qui vous chérit, elle touche à la fin de sa carrière, elle n'a plus que vous qui l'attache à la vie. Par pitié pour elle, calmez votre douleur.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Je t'afflige ! Tu pleures, ma bonne ! Plus de fermeté. Le tombeau est le terme où doit se terminer toutes mes peines : si tu m'aime, desire de m'y voir bientôt descendre.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a1s8" n="8" type="Scene">
+          <head>SCÈNE VIII.</head>
+          <p>FRANK, SOPHIE, GERTRUDE.</p>
+          <sp>
+            <speaker>FRANK, </speaker>
+            <stage type="delivery"><hi rend="italic">à Sophie</hi>.</stage>
+            <p>Madame, votre père vous ordonne de vous retirer dans votre appartement. (<stage type="delivery"><hi rend="italic">à Gertrude</hi>.)</stage> Vous pouvez la suivre.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>0 ma bonne ! je ne reverrai donc plus Henri ! (<hi rend="italic">elle sort avec Gertrude</hi>.)</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a1s9" n="9" type="Scene">
+          <head>SCÈNE IX.</head>
+          <sp>
+            <speaker>FRANK. </speaker>
+            <stage type="business"><hi rend="italic">seul</hi>.</stage>
+            <p>Mon maître veut être obéi sans replique ; jai toujours fait ses volontés : mais sa haine pour sa fille me révolte. Malheureux enfant, quel sort on te destine ! Ton innocence, tes graces, t'en promettoient un plus doux.  Mais je m'attendris, et j'en suis étonné ; car c'est la première fois de ma vie. Allons allons, point de scrupule. Je ne sais pourquoi le ciel ne m'a pas fait naître haut et puissant seigneur suzerain, car 'avois toutes les qualités nécessaires</p>
+            <pb n="12"/>
+            <p>pour cela. Je suis brutal, orgueilleux, bête, méchant, vindicatif et ivrogne; que faut-il de plus? rien je crois. Ah ! Voici Alonze.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a1s10" n="10" type="Scene">
+          <head>SCÈNE X.</head>
+          <p>ALONZE, FRANK.</p>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>A quoi t'amuses-tu donc ? Ignores-tu que Monseigneur a des ordres à te donner ?</p>
+          </sp>
+          <sp>
+            <speaker>FRANK.</speaker>
+            <p>Allons, il faut courir. Qu'y a-t-il de nouveau ? est-ce encore quelqu'arrêt de mort, quelque famille à emprisonner, quelque braconnier à pendre ?</p>
+          </sp>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>Il te convient bien de raisonner ! Obéis, c'est ton lot.</p>
+          </sp>
+          <sp>
+            <speaker>FRANK.</speaker>
+            <p>Et pourquoi cela, s'il vous plaît ? Est-ce ma faute à moi si je ne suis que Frank tout court, et si mes ancêtres n'ont pas eu l'esprit de tuer et de voler pour se donner un nom ? Je ne puis rien à cela.</p>
+          </sp>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>Tais-toi, butor, il seroit curieux de te voir avec toute la décoration d'un noble.</p>
+          </sp>
+          <sp>
+            <speaker>FRANK.</speaker>
+            <p>Parbleu, c'est donc bien lourd à porter tout cet attirail là ! Allez, je mentirois tout aussi bien qu'un autre.</p>
+          </sp>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>Allons, vas raisonner dans l'antichambre, en attendant quelques commissions.</p>
+          </sp>
+          <sp>
+            <speaker>FRANK.</speaker>
+            <p>Allons. <stage type="business">(<hi rend="italic">Il va pour sortir, Henri père l'arrête</hi>.)</stage></p>
+          </sp>
+          <pb n="13"/>
+        </div2>
+        <div2 xml:id="crim_a1s11" n="11" type="Scene">
+          <head>SCÈNE XI</head>
+          <p>HENRI père, FRANK, ALONZE</p>
+          <sp>
+            <speaker>HENRI père </speaker>
+            <stage type="delivery"><hi rend="italic">à Frank</hi>.</stage>
+            <p>Pourrai-je à votre maitre ? </p>
+          </sp>
+          <sp>
+            <speaker>FRANK.</speaker>
+            <p>Tenez, voilà le seigneur Alonze, son premier confident : adressez-vous à lui. <stage type="business">(<hi rend="italic">Il sort</hi>.)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a1s12" n="12" type="Scene">
+          <head>SCÈNE XII.</head>
+          <p>HENRI père, ALONZE.</p>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>Que cherchez-vous ici ? L'ignorez-vous que Monseigneur vous en veut, et que vous êtes menacé ?</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>C'est pour cela que je viens.</p>
+          </sp>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>C'étoit le cas de fuir, plutôt.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Moi, fuir ! croyez-vous que je craigne un homme ?</p>
+          </sp>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>Il est tout-puissant ; il ne doit compte de ses actions à personne ; il se croit offensé, il se fera justice.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Avant ce temps je pourrai me la faire moi-même, si l'on m'y force.</p>
+          </sp>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>Vieillard imprudent ! chez lui vous osez .....</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Oui, j'ose avoir droit ; le dire, le prouver devant tous les despotes de l'univers. J'ai à parler à celui-ci, faites-le venir.</p>
+          </sp>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>Mais tu veux donc périr ?</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Que t'importe ?</p>
+            <pb n="14"/>
+            <p>Ciel ! le voici. Fuis, il en est temps encore.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Il suffit : laissez-nous.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a1s13" n="13" type="Scene">
+          <head>SCÈNE XIII.</head>
+          <p>FORSAC, HENRI père.</p>
+          <sp>
+            <speaker>FORSAC </speaker>
+            <stage type="business"><hi rend="italic">entre en rêvant, sans voir Henri père</hi>.</stage>
+            <p>Il est temps de punir ma fille et d'accomplir ma vengeance. Le sort en est jetté, elle périra. Mais dissimulons jusqu'au moment qui doit .....</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père, </speaker>
+            <stage type="business"><hi rend="italic">allant à Forsac</hi>.</stage>
+            <p>Monsieur, j'ai à me plaindre de vous. Mon pauvre Henri m'a été ramené lié, garotté ! On dit même que vous vous êtes porté à des extrémités qui vous déshonorent et m'offensent.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Vous êtes bien osé ! Votre fils, que je voulus bien protéger, dont je fis mon secrétaire, qui pouvoit être mon favori .....</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Le ciel l'a du moins préservé de ce malheur. Ce même ciel m'a puni de l'avoir mis près d'un Grand ; il pouvoit se corrompre et leur ressembler. Mais je ne vous connoissois pas encore pour si méchant. La santé délicate de Houri ne lui permettant pas de faire le métier honorable de son père, je crus devoir le placer chez vous, pour que des occupations douces amusassent ses loisirs. Graces au ciel, il a conservé ses vertus, et je ne les mettrai plus à de si rudes épreuves. Mais revenons au sujet qui m'amène. Mons fils est malheureux ; l'amour et vos duretés ont aliéné sa raison. Souvent elle l'abandonne, et, non content de le voir souffrir, vous ajoutez à ses maux l'insulte et les mauvais traitemens ! Vous êtes-vous promis que son père le souffriroit ?</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Insolent vieillard !</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Point d'injures ; ce sont des excuses que vous me devez.</p>
+          </sp>
+          <pb n="15"/>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Si je n'écoutois que ma colère..... </p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Elle ne m'effraie point. Mes jours sont en votre puissance ; mais les vôtres sont aussi en la mienne. Je suis las d'essuyer vos caprices, et de voir tous nos malheureux habitans baisser le front sous la hache du despotisme. Tremblez ! la mesure est à son comble. L'homme va reprendre sa dignité, et plonger tous les tyrans dans la nuit éternelle.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Hola, gardes !</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a1s14" n="14" type="Scene">
+          <head>SCÈNE XIV.</head>
+          <p>FORSAC, HENRI père, ANSELME, GARDES.</p>
+          <sp>
+            <speaker>ANSELME, </speaker>
+            <stage type="business">
+              <hi rend="italic">entrant par le côté opposé aux Gardes, </hi>
+            </stage>
+            <stage type="delivery"><hi rend="italic">bas à Forsac</hi>.</stage>
+            <p>Ah ! Seigneur, que faites-vous ? De la prudence. Tous les habitans ont suivi cet homme : ils disent qu'ils viendront le chercher jusqu'ici, s'ils ne le voient bientôt reparoître.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC <hi rend="italic">à Anselme</hi>.</speaker>
+            <p>Dissimulons ; je saurai retrouver ma victime. <stage type="delivery">(<hi rend="italic">aux Gardes</hi>.)</stage> Sortez.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a1s15" n="15" type="Scene">
+          <head>SCÈNE XV.</head>
+          <p>FORSAC, HENRI père, ANSELME.</p>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Tu le vois, je t'épargne. Rends graces à la bonté de ton maître.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Vous, mon maître ? je n'en-connois point sur la terre. Les bas valets qui vous servent, vos satellites farouches, voilà ceux qui peuvent vous regarder pour maître. Mais le père Henri travaille, arrose la terre de ses sueurs et nourrit sa famille, malgré que vous lui arrachiez les trois-quarts du fruit de ses travaux : loi barbare qui fai gémir l'humanité ! Mais s'il est forcé de s'y soumettre,</p>
+            <pb n="16"/>
+            <p>le comptez-vous pour cela parmi vos esclaves ? Vous avez tort ! je ne connois au-dessus de moi que l'Être suprême, qui fait mÛrir mes moissons et bénit mes travaux.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>D'un mot je puis t'anéantir, et je ne sais qui contient ma rage.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>La peur.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>La peur ? moi, tout-puissant ici ! moi .......</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Eh, qu'importe ! vous n'avez jamais vu d'homme. Qui vous entoure ? des esclaves épouvantés, qui frémissent sans cesse, qui jamais n'ont eu la bonté et le courage de vous montrer vos torts ; qui, toujours courbés devant vous, applaudissent à toutes vos fautes, et par-là vous en font commettre de nouvelles. Moi seul, je vous dis la vérité ; elle vous épouvante, vous offense. La mort, dites-vous, sera le prix de ma hardiesse ! Je l'attends : un jour je serai vengé. Eh ! pussai-je être la dernière victime de votre barbarie ! puisse ma Patrie, au prix du peu de jours qui me restent, être délivrée de tous ceux qui vous rassemblent, et qui sont partout les fléaux de l'humanité !</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Votre audace est grande ! mais je respecte votre âge : je ne suis point aussi barbare que vous le croyez. C'est beaucoup, je crois, que de vous laisser sortir librement et de vous pardonner.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Point de grace ; je ne viens pas en implorer. Je vous demande le repos. N'insultez point au malheur de mon fils :s'il a osé aimer votre fille, il est bien puni de ce prétendu crime ; car c'est le nom que votre orgueil donne à son amour. Laissez cet infortuné, que son père le console, s'il est possible ; laissez-le jouir en paix de ce triste, mais doux sentiment, que votre ame ne peut connoître.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Je le plains : mais sous les murs de mon château il ose prononcer le nom de ma fille, instruire tout le monde de son amour.</p>
+          </sp>
+          <pb n="17"/>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Personne n'ignore ici qu'ils s'aiment. Tous parlent de Henri, et pleurent sur son sort ; tous plaignent Sophie de vous avoir pour père : le ciel, il est vrai, en devoit un autre à ses vertus.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>C'en est assez, je pense ; mais ne continuez pas. Je veux bien oublier tout ce que vous m'avez dit.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Tant pis pour vous. <stage type="business">(<hi rend="italic">Il sort</hi>.)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a1s16" n="16" type="Scene">
+          <head>SCÈNE XVI.</head>
+          <p>FORSAC, ANSELME.</p>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Oui, Seigneur, il étoit dangereux de punir en ce moment ce insolent vieillard.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Je ne m'étonne plus de son audace. Ah ! dussai-je périr, il la paiera chère!</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>De la prudence : le People commence à sentir sa force ; il ne croit plus à nos repliques. En vain j'ai menacé d'excommunier les plus mutins ; ils n'en ont fait que rire. La religion étoit jadis en nos mains un puissant mobile ; mais s'ils voient une fois que nous les avons trompés, vous et moi, Seigneur, nous sommes perdus. Hélas ! que sont devenus les temps où nous donnions et reprenions les empires.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Rassurez-vous, père Anselme ; tout n'est pas désespéré. Effrayons les perfides : que ce fou de Henri et sa famille soient enlevés cette nuit à la flaveur des ténèbres, et plongés dans un souterrain. Les paysans ne les voyant plus, n'oseront se soulever ; eux seuls les excitent : on les croira cachés pour se soustraire à ma vengeance. Allons, et que le soleil ne se lève point sans qu'ils soient punis.</p>
+          </sp>
+          <p>FIN DU PREMIER ACTE.</p>
+          <pb n="18"/>
+        </div2>
+      </div1>
+      <div1 xml:id="crim_a2" n="2" type="Acte">
+        <head>ACTE II.</head>
+        <stage type="location">
+          <hi rend="italic">Le théâtre représente jardin.</hi>
+        </stage>
+        <div2 xml:id="crim_a2s1" n="1" type="Scene">
+          <head>SCÈNE PREMIÈRE.</head>
+          <sp>
+            <speaker>HENRI fils </speaker>
+            <stage type="location"><hi rend="italic">seul ; il est assis sur un banc de gazon, et a un bouquet à la main</hi>.</stage>
+            <p>Ah ! mon cœur est moins oppressé..... J'ai dormi..... j'étois heureux.... tranquille.... un calme salutaire a succédé au tourment qui m'agitoit..... Ces fleurs que j'ai cueillies pour ma Sophie, ont son éclat et sa fraîcheur : la rose est sa vivante image..... ôtons les épines ; elles blesseroient mon amie en approchant de son cœur  Ah ! qu'elles soient toutes pour moi. Ecartons d'elle jusqu'à la moindre souffrance..... Et son père ?.... qu'il est cruel !.... Mais, non : s'il aime Sophie, il ne peut..... Que dis-je ?.... Il peut tout oser..... La nature ne parle point à son cœur..... il se refuse au plus doux sentiment..... l'amour paternel. Il a vu les larmes de sa fille, et l'a repoussée. Dans sa fureur il auroit détruit ce Chef-d'oeuvre de la nature..... sans moi il alloit l'immoler..... Dieu !.... à ce souvenir ma raison..... Hélas ! le peu qui m'en reste m'abandonne ....Victime de son orgueil, je lui pardonnerois tout s'il savoit être père..... Mais elle ne vient point consoler son ami !.... A quoi me servent ces vœux  ?.... Je l'appelle.....  elle vient..... et je ne la reconnois pas.....  Elle fuit..... je l'appelle encore..,... et les jours se passent dans l'attente, le désespoir et les larmes.<lb/><stage type="business">(<hi rend="italic">Il tombe dans rêverie</hi>.)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a2s2" n="2" type="Scene">
+          <head>SCÈNE II.</head>
+          <p>SOPHIE, HENRI fils.</p>
+          <sp>
+            <speaker>SOPHIE, </speaker>
+            <stage type="business"><hi rend="italic">sans voir Henri</hi>.</stage>
+            <p>Mon père paroît adouci. Il me permet de venir ici pour me dissiper, dit-il. Ah, ces lieux me sont bien chers ! C'est ici qu Henri me fit laveu de son amour ; et ce souvenir....</p>
+            <pb n="19"/>
+            <p>Mais, n'est-ce point lui que j'apperçois sous ces arbres ? il s'est sans doute échappé de chez son père. L'amour le conduit ici pour y recevoir les derniers adieux de son amie... Approchons.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils <hi rend="italic">sortant de sa rêverie</hi>.</speaker>
+            <p>Qui trouble ma solitude ? Jeune insensée, que cherchez-vous ici ? avez-vous aimé ?</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE,</speaker>
+            <stage type="delivery"><hi rend="italic">à part</hi>.</stage>
+            <p>Il me méconnoît toujours. (<stage type="delivery"><hi rend="italic">à Henri</hi>) Oui, et j'aime encore de toute mon ame.</stage></p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>En ce cas, respectez ma douleur.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Je ne viens point la troubler ; je desire, en la partageant, la soulager.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>La puissance des dieux ne va point jusques-là. Vous n'avez pas connu mon amie, celle qu'un père immola dans sa fureur ; ma Sophie, mon bien, ma vie, tout mon être, celle qui d'un regard animoit la nature, celle que le ciel me destina et que l'orgueil me ravit !</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Votre Sophie vit encore ; elle vous chérit : un jour vcndra.....</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Jamais, jamais. Les jours de joie et de bonheur se sont écoulés rapidement ; ceux de la douleur seront éternels.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Non : espérez.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Que j'espère !.. moi !.. Mais répondez : connoissez-vous celle que j'aime?</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Oui, beaucoup.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Dites-lui que son ami meurt loin d'elle ; dites-lui que sa raison l'abandonne.... que bientôt le tombeau renfermera ce cœur qui ne bat que pour elle .... dites-lui.... Ah ! ne lui dites rien.... N'affligez point son ame sensible.... Cachez-lui mon état ; elle en mourroit. C'est bien assez, grand dieu, d'une victime !
+(<hi rend="italic">Il tombe dans accablement</hi>.)</p>
+          </sp>
+          <pb n="20"/>
+          <sp>
+            <speaker>SOPHIE </speaker>
+            <stage type="delivery"><hi rend="italic">à part</hi>.</stage>
+            <p>Ce spectacle affreux déchire mon cœur. Ah ! mon père, quel mal vous me faites ! (<stage type="delivery"><hi rend="italic">à Henri.</hi>)</stage> 
+Henri, reconnois ton amie,</p>
+          </sp>
+          <sp>
+            <speaker>HENRI </speaker>
+            <stage type="delivery"><hi rend="italic">se parle en riant</hi>.</stage>
+            <p>Demain je me parerai ; c'est la fête de celle j'aime. Dès laurore, je m'occuperai d'elle. Mon bouquet est fait..... Et ma chanson....(<hi rend="italic">il se fouille.</hi>) ma chanson ?... je dois l'avoir : elle étoit bien tendre, bien touchante !.... La voici.... Non.... c'est de la main du barbare Forsac. C'est l'ordre qu'il m'envoya lorsqu'il eut découvert notre amour.... Ce sont ses menaces.... «<hi rend="italic">insolent qui ose aimer ma fille, je te chasse.... Fuis, si tu ne vuex sa mort et la tienne... Au fond d'un cachot je....</hi>». (<hi rend="italic">égaré</hi>.)  Un cachot !... des fers !... l'amant de Sophie !... Dieu ! où suis-je ! Monstre, punis-moi d'avoir un cœur sensible ; fais-moi périr dans les tourmens pour avoir adoré la vertu et les graces : mais respecte les jours de cette infortunée, ou dans ma fureur je te
+poignarde, et délivres la terre d'un tyran plus cruel et plus à craindre que les monstres d'Afrique ! Oui, je veux ....</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Arrête : tu te perds, et ne me sauve point.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI </speaker>
+            <stage type="delivery"><hi rend="italic">furieux</hi>.</stage>
+            <p>Je n'écoute rien : j'ai la force et le courage. Un barbare m'offense, et je ne m'en vengerois pas ? La loi de la nature me crie : « repousse l'insulte et la tyrannie».</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Cher ami ! respecte l'auteur de mes jours ; calme-toi.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI.</speaker>
+            <p>L'auteur de tes jours ! Qui es-tu? Je ne te connois pas. C'est au barbare Forsac que j'en veux ; et tu n'es pas la malheureuse Sophie : le ciel en courroux ne t'as pas fait naître d'un tel père. Bonne fille, dont la douceur est peinte sur tous les traits, éloigne-toi , fuis le despote ; sa vue est un mortel poison pour les cœurs sensibles ; son regard, jusqu'à son sourire, est féroce ; ses caresses sont des assassinats, et il ne donne jamais que des ordres sanguinaires. Fuis, mon enfant, tes graces, ta jeunesse ne pourroient l'interesser : <stage type="delivery">(<hi rend="italic">en pleurant</hi>)</stage> abandonnes un malheureux à son désespoir.</p>
+            <pb n="21"/>
+            <p>Eh ! que peux-tu pour moi ? Me rendras-tu ma Sophie, ma raison et mon repos ?</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Infortuné ! vois mes larmes se mêler aux tiennes. Va, je suis à plaindre autant et plus que toi !... Mais, crois-moi, fuis le père de ta Sophie ; s'il te trouvoit ici....</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Que pourroit-il me faire? me tuer !... Oui, il me tueroit, et toi aussi : il aime le sang ; il se nourrit de celui des malheureux. Et tiens, je te le dis en confidence, il a peut-être déjà dévoré sa fille.... Si je le savois.... ces deux mains, le déchirant par morceaux, iroient la chercher jusques dans son barbare cœur.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Cher ami, ta Sophie vit ; on a respecté ses jours. Calme-toi ; tu la verras : elle t'adore, et son seul désespoir est de savoir que tu ne la connois plus.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Eh, mon enfant, c'est encore l'ouvrage de son père ! Il m'a ravi la raison, mais non mon amour : il est là. (<hi rend="italic">en mettant la main sur son cœur</hi>. ) Ma tête est malade, je le sens : mais ce n'est qu'ici ; car, près de mon père, je raisonne, je connois, et n'en sens que plus vivement toute l'étendue de mes maux. Mais je t'arrête ici. Va, ton ami t'attend peut-être. Qu'il doit souffrir, éloigné de toi ! Va, cher enfant ; et si tu rencontre ma Sophie, dis-lui que Henri est ici ; qu'elle se hâte, le temps presse. Je voudrois fuir avec elle dans quelque forêt : elle m'y suivra. Qu'a-t-elle de plus cher que son ami ? Dis-lui qu'un moment plus tard on peut nous surprendre. Va, et fais ma commission.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Infortuné ! reconnoîtrois-tu ta Sophie ?</p>
+          </sp>
+          <sp>
+            <speaker>HENRI.</speaker>
+            <p>L'amour me doit ce prodige. Fais-la venir, et.....</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Ciel ! j'entends du bruit. Si c'étoit mon père..... Ah ! tout mon corps frissonne.</p>
+          </sp>
+          <pb n="22"/>
+        </div2>
+        <div2 xml:id="crim_a2s3" n="3" type="Scene">
+          <head>SCÈNE III.</head>
+          <p>SOPHIE, GERTRUDE, HENRI fils;</p>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Ah ! c'est toi, ma bonne. Emmène ce malheureux ; reconduis-le à se parens : si l'on nous surprenoit.....</p>
+          </sp>
+          <sp>
+            <speaker>GERTRUDE.</speaker>
+            <p>Imprudente ! il y va de votre vie et de la sienne. Après ce qui s'est passé, tout est à craindre. Venez, Henri, suivez-moi.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Je crois que c'est la bonne Gertrude ! Ah ! parle-moi de Sophie : dis-moi..... Oh ! je te reconnois bien.</p>
+          </sp>
+          <sp>
+            <speaker>GERTRUDE.</speaker>
+            <p>Suivez moi, le temps presse.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>0ù me conduis-tu ? Près de mon amie ? Ah ! courons.</p>
+          </sp>
+          <sp>
+            <speaker>GERTRUDE.</speaker>
+            <p>Oui, vous la verrez : venez.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Tu me tends la vie ! (<stage type="delivery"><hi rend="italic">à Sophie.</hi></stage>) Et toi, viens-tu avec nous ? Viens, tu verras celle que j'aime : elle est belle, bonne et sage autant que toi.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Hélas ! je ne puis te suivre.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Ah ! tu l'attends, ton ami ? Eh bien, si-tôt qu'il sera venu, emmène-le chez mon père ; vous serez bien reçus tous les deux.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Oui, je te le promets ; j'irai.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Ah ! bon : tu verses un baume salutaire sur ma blessure. Je voudrois... tiens, en te quittant, même pour chercher Sophie, je sens qu'il manque quelque chose à mon cœur. Mais tu viendras, tu nie l'as promis : tu viendras ?</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Oui : mais va promptement.</p>
+          </sp>
+          <pb n="23"/>
+          <sp>
+            <speaker>GERTRUDE (<hi rend="italic">entraînant Henri</hi>.)</speaker>
+            <p>Suivez-moi.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI, </speaker>
+            <stage type="business"><hi rend="italic">s'échappant et courant à Sophie</hi>.</stage>
+            <p>Tu viendras ? ne m'oublies pas. <stage type="business">(<hi rend="italic">Il lui baise tendrement la main ; Gertrude l'entraîne.</hi>)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a2s4" n="4" type="Scene">
+          <head>SCÈNE IV.</head>
+          <sp>
+            <speaker>SOPHIE <hi rend="italic">seule.</hi>.</speaker>
+            <p>O ciel ! vois l'excès de mes maux, et sauve-moi du désespoir. Pourquoi suis-je née ? est-ce donc pour souffrir sans cesse ? Détourne l'orage qui s'élève sur nos têtes. Le calme apparent de mon père me fait frémir : ses entretiens secrets avec son aumônier, que je connois pour un monstre, tout m'alarme, et me fait craindre pour mon Henri et pour son père.... Mais qui porte ici ses pas ? C'est Ansèlme : son aspect ne feroit qu'irriter ma douleur. <stage type="business">(<hi rend="italic">elle va pour sortir.</hi>)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a2s5" n="5" type="Scene">
+          <head>SCÈNE V.</head>
+          <p>ANSELME, SOPHIE.</p>
+          <sp>
+            <speaker>ANSELME </speaker>
+            <stage type="business"><hi rend="italic">arrêtant Sophie</hi>.</stage>
+            <p>Arrêtez, belle Sophie : pourquoi me fuyez-vous ?</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>L'heure de promenadc que mon père m'avoit accordée est passée, et je me retire : souffrez....</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Vous me devez cette heure-la, et je crois qu'elle n'a pas été la plus malheureuse de la journée.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE </speaker>
+            <stage type="delivery"><hi rend="italic">à part</hi>.</stage>
+            <p>Ciel ! auroit-il apperçu Henri ? (<hi rend="italic">haut</hi>.) Je ne sais ce que vous voulez dire.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Vous m'entendez fort bien. Henri étoit ici : je le savois avant que vous y vinssiez ; et c'est pour cela que j'ai sollicité près de votre père cette heure précieuse. Charmante Sophie ! l'excès de votre amour m'a touché, et je veux être votre protecteur.</p>
+          </sp>
+          <pb n="24"/>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Il est dur d'en avoir besoin près d'un père.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Ecoutez. Cachez votre amour pour Henri ; laissez croire à votre père que vous pourrez l'oublier : répondez à mes desirs, et tout ira bien.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Je ne vous comprends pas.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Je vais m'expliquer. Je vous aime, belle Sophie : mais je vous aime avec fureur. Depuis long-temps mes regards et mes soupirs ont dÛ vous l'apprendre. Votre cœur, je le sais, n'est plus en votre puissance : mais rendez-moi possesseur de tant de beautés que j'idolâtre, et je vous réponds des jours de Henri, de sa liberté et de la vôtre. Votre père a toute confiance en moi : nous pourrons par-là....</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Homme vil ! scélérat infâme ! fuis. Tu veux protéger mon amour, dis-tu, et tu m'offres ton appui au prix de mon honneur ! Tu veux m'avilir, tromper ton bienfaiteur, me dégrader, et faire d'une fille vertueuse une prostituée, digne de toi. Vas, tu me fais horreur, et de ce pas je cours tout avouer à mon père.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Il ne vous croira pas. Tremblez d'attirer ma haine : c'est moi qui le gouverne ; vous ne pourrez échapper à ma vengeance. Méritez mes bontés ou la mort.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Où sont tes bourreaux, monstre ? je les attends. Tous leurs supplices n'égaleront jamais pour moi celui de te voir.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>C'est trop me braver, ingrate ! Je voulais ton bonheur ; je t'aimois: je te déteste. Ta mère, ainsi que toi, fut victime dc son orgueil. Elle ne voulut point céder à mes vœux : je l'accsai près de ton père ; il la fit enfermer et périr d'un supplice lent que je te destine et que tu subiras.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Grand Dieu ! la foudre est-elle donc inutile en tes mains ?</p>
+          </sp>
+          <pb n="25"/>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Ce ciel que vous implorez ne me fait pas peur : je ne connois que mes passions. Malheur à vous.... (<hi rend="italic">appercevant Forsac.</hi>)  J'apperçois le Duc : sa fille pourroit... Il faut ici un coup de maître.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a2s6" n="6" type="Scene">
+          <head>SCÈNE VI.</head>
+          <p>FORSAC, SOPHIE, ANSELME.</p>
+          <sp>
+            <speaker>ANSELME, </speaker>
+            <stage type="business">
+              <hi rend="italic">allant, au-devant de Forsac.</hi>
+            </stage>
+            <p>Approchez, Seigneur : venez nous juger. Votre fille m'accuse de l'aimer : elle prétend que ma jalousie est la cause des remontrances que je lui fais sur sa folle passion. Vous me connoissez, et devez savoir si l'amour a sur moi quelque empire.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC</speaker>
+            <stage type="delivery">
+              <hi rend="italic">à Sophie.</hi>
+            </stage>
+            <p>Vous osez l'accuser !.... Mais rien ne m'étonne : vous avez perdu toute honte. La religion, la pudeur, toutes les vertus ont fui de ton cœur corrompu ; il n'y reste plus que la crime, et je te crois capable de tout.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Mon père, écoutez-moi : me jugerez-vous donc toujours sans m'entendre ?.... Ce monstre....</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Ingrate ! c'est à lui que tu dois la vie, la liberté ; et tu l'accuses !.... Ce matin, outré de ton insolent amour, je voulois t'enfermer vivante dans un tombeau : il vient à moi, implore ta grace, embrasse mes genoux, les arrose de ses larmes ; il fléchit ma colère, désarme mon bras : et pour sa récompense tu l'outrages et le calomnies !.... je vous l'avois dit, Anselme, ma fille est un monstre indigne de vos bontés et des miennes.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Seigneur, calmez-vous : je dois lui pardonner. Jo voulois la sauver ; mais je sens qu'il est impossible. Si j'avois prévu qu'elle fÛt ici avec son amant, et qu'elle reçÛt si mal mes conseils, je les lui aurois épargnés.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Quoi ! Henri a reparu chez moi dans ces lieux ?</p>
+          </sp>
+          <pb n="26"/>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Mon père, vous saurez tout.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Ils se juroient un amour éternel. J'ai blâmé hautement une telle conduite, j'ai menacé de vous en avertir : voilà mon crime.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Ne le croyez pas : le scélérat vouloit protéger nos amours au prix de l'honneur de votre fille. Il se vante lui-même d'avoir fait périr ma mère, en l'accusant à tort. Henri ne fut point mandé par moi ; Henri fut conduit par l'amour : le hasard me l'a fait rencontrer. Mon père, ayez pitié de moi : pouvez-vous me sacrificier à la vengeance d'un perfide ?</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Seigneur, votre fille m'accuse ; je n'aurai point la bassesse de chercher à me justifier : je me retire.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC </speaker>
+            <stage type="delivery">
+              <hi rend="italic">à Anselme.</hi>
+            </stage>
+            <p>Demeurez. Et toi, monstre, fille indigne de mon sang, va subir ton arrêt.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Vous pouvez penser......</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>II suffit. Alonze.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a2s7" n="7" type="Scene">
+          <head>SCÈNE VII.</head>
+          <p>FORSAC, ANSELME, SOPHIE, ALONZE, Gardes.</p>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>Seigneur ?</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Conduisez-la dans le cachot de la grande tour. Que le premier qui voudroit lui parler, ou pénétrer jusqu'à elle, périsse sur le champ. Allez. <stage type="business">(<hi rend="italic">Alonze fait un mouvement pour emmener Sophie.</hi>)</stage></p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE, </speaker>
+            <stage type="business">
+              <hi rend="italic">tombant aux pieds de son père.</hi>
+            </stage>
+            <p>Mon père, je ne suis point coupable : j'en atteste ce ciel, qui bientôt sera mon juge. Ah ! Seigneur, craignez de vous repentir trop tard d'un arrêt si cruel. Mais au moins bornez là votre vengeance, et que Henri.....</p>
+          </sp>
+          <pb n="27"/>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Oses-tu bien encore prononcer son nom ? Sors de ma présence. Qu'on l'emmène.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Ciel ! protège mon Henri, inspire ses parens, et fais-leur fuir les cruels qui veulent ma mort. <stage type="business">(<hi rend="italic">On l'emmène</hi>.)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a2s8" n="8" type="Scene">
+          <head>SCÈNE VIII.</head>
+          <p>FORSAC, ANSELME.</p>
+          <sp>
+            <speaker>ANSELME, avec hypocrisie.</speaker>
+            <p>COMBIEN je gémis sur vos maux ! croyez que je les partage. Il est bien cruel pour un bon père d'en venir à tant d'extrémités ; mais je sens qu'il le faut. Qui sait si cette fille coupable n'eÛt un jour attenté à votre vie ?</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Je le craignis, Anselme. Je ne sais ; mais de noirs pressentimens m'assiégent. Je frémis à la vue d'un seul de mes vassaux : il me semble voir par-tout le poignard levé sur moi. Jusqu'à mcs gardes, tout m'est suspect.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Rassurez-vous : quelques actes d'autorité les feront baisser plus que jamais le front sous votre joug. Tout est prêt : cette nuit tous les parens de Henri et lui-même seront en votre pouvoir. Une fois ces séditieux punis, le calme renaîtra.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a2s9" n="9" type="Scene">
+          <head>SCENE IX.</head>
+          <p>FORSAC, GERTRUDE, ANSELME.</p>
+          <sp>
+            <speaker>GERTRUDE.</speaker>
+            <p>Ah ! Seigneur, que viens-je d'apprendre ? On entraîne votre fille dans cachot ! Qu'a donc fait cette infortunée? Ah ! rendez-la-moi. J'ai pris soin de son enfance ; elle me fut confiée. Rendez-la-moi, vous dis-je, ou je meurs à vos pieds que j'arrose de mes larmes.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Votre hardiesse est grande. Ai-je des comptes à vous rendre ? Votre élève a mérité son sort : elle n'est plus ma fille.</p>
+          </sp>
+          <pb n="28"/>
+          <sp>
+            <speaker>GERTRUDE.</speaker>
+            <p>Elle sera la mienne: rendez-la-moi. Quoi ! parce qu'elle est sensible, elle paiera de sa vie un amour malheureux ! Anselme, joignez-vous à moi : il faut fléchir l'ame d'un père.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Monseigneur doit agir ainsi : bonne femme, vous ne connoissez pas les raisons qui l'y forcent ; respectez ses volontés.</p>
+          </sp>
+          <sp>
+            <speaker>GERTRUDE, <hi rend="italic">avec fureur.</hi></speaker>
+            <p>Monstre que l'efer créa dans sa colère ! tigre altéré du sang de l'innocent ! loin d'être le protecteur de Sophie, tu l'accuses ! Va, je connois maintenant ton ame atroce ! Ce matin encore, tu feignois de la plaindre ; et c'étoit pour mieux l'accabler ! Mais de quel droit son père oso-t-il disposer de ses jours ? Tyran que je déteste ! rends-moi mon enfant; elle est à moi. Mes soins, mon amitié pour elle, voilà mes titres ; ils sont plus sacrés que les tiens, dès que tu en abuses. Laisse-moi fuir dans quelque désert avec elle. Rends-lui sa liberté, ou, n'écoutant que ma douleur, j'oserai tout pour briser les chaînes dont on charge ma Sophie ; et dussai-je périr de ta main meurtrière, dans mon désespoir je demanderai vengeance à l'univers. Va, il est encore des ames sensibles ! nous saurons la délivrer et te punir.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Hola ! gardes.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a2s10" n="10" type="Scene">
+          <head>SCENE X.</head>
+          <p>ALONZE, FORSAC, GERTRUDE, ANSELME, GARDES.</p>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Qu'on saisisse cette femme. Vous m'en répondrez sur votre vie.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Et qu'on la lie ; car la bonne femme a perdu l'esprit, et sa folie est à craindre. La sÛreté de Monseigneur exige .....</p>
+          </sp>
+          <sp>
+            <speaker>GERTRUDE.</speaker>
+            <p>Scélérat !...</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Vous le voyez ; son mal va lui reprendre.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Exécutez mes ordres. Anselme, suivcz-moi.</p>
+          </sp>
+          <pb n="29"/>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Oui, Seigneur. (<hi rend="italic">Il sort avec Forsac.</hi>)</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a2s11" n="11" type="Scene">
+          <head>SCÈNE XI.</head>
+          <p>GERTRUDE, ALONZE, GARDES.</p>
+          <sp>
+            <speaker>GERTRUDE.</speaker>
+            <p>Hélas ! la même prison que ma Sophie. Ce triste bienlait me sera donc refusé! Imprudente, qu'ai-je fait ! C'étoit le secours des habitans du village qu'il falloit demander, et non venir implorer des barbares ! Mais qui peut supposer un père assez cruel pour immoler son enfant sans retour ! Et vous, dignes satellites d'un tel monstre, vous avez beau servir sa rage sanguinaire, vous n'en êtes pas moins exposés à ses coups. C'est une justice du ciel, et vous méritez la colère des dieux, puisque vous vous prêtez à de pareils forfaits. Les flateurs seuls sont les tyrans.</p>
+          </sp>
+          <sp>
+            <speaker>ALONZE, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">avec dureté.</hi>
+            </stage>
+            <p>Croyez-vous que nous sommes ici pour vous attendre ?</p>
+          </sp>
+          <sp>
+            <speaker>GERTRUDE.</speaker>
+            <p>Monstre ! je te suis. Ciel ! veille sur l'infortunée Sophie. Abrèges le peu de jours qui me restent ; mais soutiens son ame : donne-lui la force et le courage nécessaires pour supporter tant de malheurs. <stage type="business">(<hi rend="italic">Elle sort avec les Gardes.</hi></stage></p>
+          </sp>
+          <p>FIN DU SECOND ACTE.</p>
+          <pb n="30"/>
+        </div2>
+      </div1>
+      <div1 xml:id="crim_a3" n="3" type="Acte">
+        <head>ACTE III.</head>
+        <stage type="location">Le théâtre représente une chambre rustique.</stage>
+        <div2 xml:id="crim_a3s1" n="1" type="Scene">
+          <head>SCENE PREMIERE.</head>
+          <p>HENRI père, HENRI fils, CHARLES, AGATHE.</p>
+          <p>
+            <stage type="business">(<hi rend="italic"> HENRI père est assis, et 1it ; HENRI fils est dans un coin, accablé de douleur ; AGATHE file au rouet ; CHARLES travaille à faire un panier d'osier.</hi>)</stage>
+          </p>
+          <sp>
+            <speaker>HENRI père, </speaker>
+            <stage type="business">
+              <hi rend="italic">posant son livre.</hi>
+            </stage>
+            <p>HENRI, mon ami, viens donc ici, près de ton père.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils, </speaker>
+            <stage type="business">
+              <hi rend="italic">approchant.</hi>
+            </stage>
+            <p>Ah ! oui, car je ne suis bien que là.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Cesses de t'affliger, mon enfant ; plus de courage. Ne vois-tu pas que nous t'aimons tous ? Les sentimens de la nature remplaceront ceux de l'amour.</p>
+          </sp>
+          <sp>
+            <speaker>AGATHE.</speaker>
+            <p>Mon bon petit frère, tu chérissois tant ton Agathe ! seroit-elle bannie de ton cœur ?</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Non, jamais. Je vous aime de toutes les forces qui me restent : mais ....</p>
+          </sp>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Et ton ami, celui qui partagea les jeux de ton enfance, veux-tu donc l'affliger  sans cesse en te livrant à la douleur ? Ecartes de ton cœur, cher ami, le noir qui s'en empare : ta raison n'est pas entièrement détruite, cesses de le croire ; elle ne t'abandonna jamais parmi nous. Eh bien, ne nous quittes plus ; je suivrai par-tout tes pas ; je déroberai quelques instans à l'amour, et les consacrerai sans regret à l'amitié.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Non, mon cher Charles, n'abandonnes pas celle qui t'est</p>
+            <pb n="31"/>
+            <p>chère : tu souffrirois trop dans son absence. Si tu savois combien : est cruel d'être séparé de son amie !</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Mon fis, tu dois à ton père de prendre assez sur toi pour chercher à vaincre ta passion.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Jamais, jamais, mon père.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Ce sera l'affaire du temps, mon ami, et l'effet de nos soins. Tu n'es ici entouré que de bonnes gens : ne va pas chercher les méchans qui, sans pitié, aigrissent tes maux. Ne quittes pas ton vieux père ; que ses derniers jours ne soient point empoisonnés par le chagrin de te voir perdu pour lui sans retour.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Oh ! si je pouvois oublier celle..... Mais je vous afflige ! je n'en parlerai plus.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Parlons-en, mon Henri ; je. ne veux point gêner ton ame. Je l'aime aussi, ton amie ; elle étoit digne de ton cœur. Mais le ciel ne te l'a pas destinée : qui peut aller contre sa volonté ?</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Oh ! oui ; je n'ai que de l'amour. Elle est riche, puissante ; et voilà mon malheur.</p>
+          </sp>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Fatales distinctions ! que de maux ne causez-vous pas ! L'amour unit deux cœurs ; l'orgueil brise ses douces chaînes, et des parens barbares sacrifient tout au préjugé.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Ah ! si son père n'eÛt voulu que son bonheur, qu'il eÛt été satisfait ! Mais le barbare .....</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>C'est un monstre que le ciel punira. Chaque jour de nouveaux crimes..... (<hi rend="italic">On frappe.</hi>) Agathe, vois qui ce peut être. (<hi rend="italic">Il va à Henri, et le caresse.</hi>) Mon ami, allons, du courage !</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Hélas !</p>
+          </sp>
+          <pb n="32"/>
+        </div2>
+        <div2 xml:id="crim_a3s2" n="2" type="Scene">
+          <head>SCENE II.</head>
+          <p><hi rend="italic">Les précédens</hi>, DUMON.</p>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Bonjour, père Henri. Je viens vous voir et vous annoncer que je quitte le service du duc dc Forsac : je n'y suis pas resté long-temps, comme vous voyez.</p>
+          </sp>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Et pourquoi?</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Ce matin, j'ai voulu plaider la cause d'un infortuné. La dureté du desposte m'a révolté : j'ai osé laisser voir mon indignation, et l'on m'a chassé.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Et que deviendront les malheureux qui recevoient de vous des secours si nécessaires ? Dumon, il ne reste donc plus de vertus dans cet infernal château ?</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Sa malheureuse fille et la femme qui soigna son enfance l'habitent encore : mais je crains pour elles un sort plus rigoureux que le mien ; j'ai vu faire des préparatifs qui me font tout craindr.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils, <hi rend="italic">dans un égarement furieux.</hi></speaker>
+            <p>Vous parlez de Sophie ! existe-t-elle encore ? Si ses jours sont en danger, armons nos bras..... Viens, Charles ; mourons en l'arrachant des mains du tigre qui la retient. Mon ame, abattue par la douleur, retrouvera son énergie pour punir le monstre quil la persécute. Viens.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Arrêtes, mon fils ; gardes ton courage : le temps n'est pas encore venu de punir les tyrans ; mais il approche. Le ciel se lasse de leurs forfaits ; tous nos habitans murmurent. Qui, dans ce village, ne pleure un enfant, un frère, une amie, une sœur, toutes victimes immolées au barbare Forsac ! C'est la cause générale qui doit nous servir de guide. Oui, nous terrasserons tous les brigands titrés dont trop long-temps nous fÛmes les esclaves : oui,</p>
+            <pb n="33"/>
+            <p>oui, nous rentrerons dans tous nos droits ; mon cœur me l'annonce.</p>
+          </sp>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Quel jour de fête pour nous, si tous les hommes, ne faisant plus qu'un peuple de frères, ne connoissoient d'autres distinctions que celles du vice à la vertu !</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Mes amis, las de servir de lâches tyrans, ne pouvant lus flatter, il faut que je les fuie. Je viens vous demander de l'emploi. Fils d'un laboureur, je retourne à mon premier état ; je n'en connois pas de plus beau, si ce n'est celui de défendre sa Patrie.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Cher Dumon, je vous accepte. Je vous estimai toujours ; je sens qu'il me sera facile de vous chérir.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">à Dumon.</hi>
+            </stage>
+            <p>Mon cœur est encore sensible à l'amitié : cela soulage ma blessure .... Ma tête se dégage .... je la reconnoîtrois si je la voyois en ce moment. Mon cher Dumon, nous parlerons d'elle ensemble ; vous connoissez ses vertus et mes malheurs.</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Oui, jeune infortuné, vous verserez vos larmes dans mon sein ; elles seront recueillies par l'amitié : peut-être un jour pourra-t-elle les tarir.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">à Agathe.</hi>
+            </stage>
+            <p>Eh bien, ma fille, à quoi penses-tu donc ? Et notre souper ? et préparer un lit à M. Damon ? Vas donc, mon enfant.</p>
+          </sp>
+          <sp>
+            <speaker>AGATHE.</speaker>
+            <p>Ah ! de bon cœur.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Et toi, Charles, va voir si tous les garçons de ferme ont ce qu'il leur faut. Nous ne sommes pas leurs maîtres, mais leurs frères et leurs amis. Je veux que tout le monde soit content ici. Laissons aux Grands le plaisir barbare d'être crants ; quant à nous, mon garçon, il'inspirons jamais qu'amour et confiance.</p>
+          </sp>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Allons, viens, ma chère Agathe. <stage type="business">(<hi rend="italic">Ils sortent.</hi></stage></p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Moi, je vais ranger quelques affaires, et je reviens.</p>
+          </sp>
+          <pb n="34"/>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Nous vous attendrons.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a3s3" n="3" type="Scene">
+          <head>SCÈNE III.</head>
+          <p>HENRI père, HENRI fils.</p>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>MON cher Henri, nous voici seuls. Ton ame est donc plus calme ?</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Oui, mon père ; je sens que ma rason revient à chaque instant.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Si j'en étois sÛr, je te ferois un cadeau bien précieux, à condition et sous promesse expresse de ne plus aller seul, sur-tout du côté du château.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Je vous le promets, pourvu que tous les jours je sache des nouvelles de mon amie. Je ne demande qu'à l'entrevoir une fois seulement, mon père ; je la reconnoîtrois.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">à part.</hi>
+            </stage>
+            <p>Essayons de lui rendre ce portrait que ma prudence crut devoir lui dérober dans les premiers momens de son désespoir. Cette peinture, en l'occupant, en l'attendrissant, peut lui ramener tout-à-fait la raison. <stage type="delivery">(<hi rend="italic">haut.</hi>)</stage> Ecoute, mon fils..... Te souvient-il d'avoir possédé un petit portrait bien joli, qui ressembloit .....</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Oh! oui ; mais je l'ai perdu. Hélas ! c'étoit une consolation bien précieuse qui me fut encore ravie.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Ecoute, et sur-tout sois prudent. On pourroit peut-être le retrouver : mais je crains qu'une émotion trop vive ne te replonge dans l'état....</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Oh! non, non, mon père. Le bonheur ne peut me faire mal.... J'en fus si long-temps privé ! Dites-moi, quel sacrifice exige-t-on de moi pour me rendre ce trésor ? Je me soumets à tout.</p>
+          </sp>
+          <pb n="35"/>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>J'exige seulement de toi, que tu le reçoive tranqullement.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils,</speaker>
+            <stage type="delivery"><hi rend="italic">vivement</hi>.</stage>
+            <p>Vous l'avez donc, mon père ? Oh ! donnez-le-moi.... Je suis calme.... Ne laissez pas souffrir plus long-temps le malheureux Henri, quand vous pouvez faire son bonheur !... Donnez.... oh ! donnez vite.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père, </speaker>
+            <stage type="business">
+              <hi rend="italic">tirant doucement le portrait de sa poche.</hi>
+            </stage>
+            <p>Tu me promets du sang-froid, de la sagesse ?</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Ah! je vous promets mon sang, ma vie, tout mon être. Si vous ne voulez ma mort.... donnez-le-moi, mon père.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Tiens, le voilà.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils,</speaker>
+            <stage type="business">
+              <hi rend="italic">hors de lui, baise le portrait, le fait baiser à son père, et mille autres extravagances.</hi>
+            </stage>
+            <p>Le voilà. Oui.... c'est elle... voilà ses yeux.... sa bouche.... ce front ou règne la pudeur. O douce amie !... là.... sur on cœur.... tu ne me quitteras jamais.... (<stage type="delivery"><hi rend="italic">à son père.</hi>)</stage> Mais vois donc celle que j'aime .... j'en suis possessur.... il faudra m'arracher la vie avant de me l'ôter.... Dieux !... <stage type="business">(<hi rend="italic">il baise le portrait.</hi>)</stage> Oui, voilà son image .... <stage type="business">(<hi rend="italic">prenant son père pour Forsac.</hi>)</stage> Mais rends-moi celle qu'il représente, barbare Forsac ! tu me l'as ravie ! elle est à moi..., c'est mon épouse .... crains mon désespoir !.. <stage type="business">(<hi rend="italic">il tombe dans la rêverie.</hi>)</stage></p>
+          </sp>
+          <sp>
+            <speaker>HENRI père,</speaker>
+            <stage type="delivery">
+              <hi rend="italic">à part.</hi>
+            </stage>
+            <p>Imprudent! en voulant adoucir sa peine je l'ai fait retomber dans son délire. (<hi rend="italic">haut</hi>.) Henri, mon fils, entends la voix de ton père, de ton ami.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI, </speaker>
+            <stage type="business">
+              <hi rend="italic">toujours au coin du théâtre, et occupé du portrait.</hi>
+            </stage>
+            <p>St, st, écoute : elle va parler : silence !... O bon ami, ta Sophie t'aime toujours.... entends-tu ? c'est a moi qu'elle dit cela...... tu m'aimes? Ah ! oui : je n'en doutai jamais.... chérie de ton Henri jusqu'à la mort, tu seras son idole, ses dieux !</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Mon Henri, rappelle ta raison : est-ce donc là ce que tu m'avois promis ! Ton ame, je le sens, étoit trop foible pour une telle épreuve.</p>
+          </sp>
+          <pb n="36"/>
+          <sp>
+            <speaker>HENRI </speaker>
+            <stage type="business">
+              <hi rend="italic">revenant doucement.</hi>
+            </stage>
+            <p>Ah! c'est vous, mon père ?... Voilà ma Sophie.... la voilà..... oui, je la reconnois bien.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Oui, mon ami : et c'est à moi que tu la dois. Mais m'avois promis de la recevoir tranquillement.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Mon ame n'a pu suffire à l'excès de ma joie .... mais je me calme, je le sens.... Tenez, maintenant que je la regarde de sang-froid, je lui trouve de la ressemblance avec la jeune fille qui m'a parlé ce matin : hors que cette dernière étoit triste. Les roses ne coloroient point ses joues ; la douleur sembloit avoir terni l'éclat de sa beauté. Ah! ma Sophie, c'étoit peut-être vous ?... j'aurois été à vos côtés ?... je vous aurois parlé sans vous connoître ?... O ma raison.... ma raison !à votre défaut l'amour ne devoit-il pas m'éclairer  ?</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Cher Henri ! que ce portrait qui m'a fait frémir un instant soit le calmant de ta passion, qu'il te tienne lieu de celle que tu chéris.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Oui, mon père, il allégera ma souffrance, et...</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Mais, qui vient ici? </p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a3s4" n="4" type="Scene">
+          <head>SCÈNE IV.</head>
+          <p>HENRI père, HENRI fils, ANSELME.</p>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Ah ! c'est vous, Monsieur ?</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Oui, respectable vieillard !</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils, </speaker>
+            <stage type="location">
+              <hi rend="italic">bas à son père.</hi>
+            </stage>
+            <p>Je cours montrer ma Sophie à Charles, à ma soeur. Mon père ; débarrassez-vous de la visite de ce prêtre, sa vue me fait mal.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Va, mon ami. <stage type="business">(<hi rend="italic">Henri fils sort.</hi>)</stage></p>
+          </sp>
+          <pb n="37"/>
+        </div2>
+        <div2 xml:id="crim_a3s5" n="5" type="Scene">
+          <head>SCÈNE V</head>
+          <p>HENRI père, ANSELME.</p>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Monsieur, peut-on savoir ce qui vous amène chez moi?</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>D'abord le plaisir de vous voir : ensuite l'intérêt que vous m'inspirez.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Au fait.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>M'y voici. Monseigneur vous aime.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Lui ?</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Oui : malgré les duretés que vous lui avez dites ce matin, il vous estime.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Il le doit. Quant à son amitié, qu'il la reprenne, elle me feroit rougir.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Ecoutez, père Henri : oubliez tout ; venez ce soir au chateau ; Monseigneur vous attend avec toute votre famille ; vous y serez bien reçu : enfin, il est puissant ; il vaut mieux lui céder que de l'irriter encore.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Sachez, une fois pour toutes, que je ne le crains point, que je méprise ses bontés ; et dites-lui bien que le bourreau de mon fils, celui de mes concitoyens, ne sera jamais qu'un monstre à mes yeux.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">à part.</hi>
+            </stage>
+            <p>Cet homme m'en impose! <stage type="delivery">(<hi rend="italic">haut.</hi>)</stage> J'avois pense que vous vous rendriez au desir de Monseigneur, et je me faisois une fête de vous voir réconciliés ; car, je vous le répète, je suis 1'admirateur de la vertu.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Eh, bien, vous devriez la pratiquer.</p>
+          </sp>
+          <pb n="38"/>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Mon état me l'ordonne, et....</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Mais vous n'en tenez compte.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Vous n'avez pas grand respect pour les ministres des autels.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Non, lorsqu'ils vous ressemblent.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Je croyois être mieux reçu de vous, en vous apportant des paroles de paix.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Je n'y crois point, venant de votre part : il n'est pas d'accord entre moi et les despotes. Adieu, Monsieur ; je crois que vous n'avez plus rien à nous dire. J'espère que vous allez vous retirez ; je respecte mon dieu, mais je n'aime point voir les prêtres qui le déshonorent.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">à part.</hi>
+            </stage>
+            <p>Si j'avois pu le faire consentir à venir au château, tout se seroit passé sans bruit, et j'étois vengé. Il faudra employer la force, je le vois. <stage type="delivery"><hi rend="italic">haut</hi>)</stage> Je sors, et vais dire à Monseigneur que vous refusez ses offres.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Oui : dites-lui que nous ne pouvons nous entendre, et que la père Henri n'estime que les honnêtes gens.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Il suffit : je me retire. <stage type="business">(<hi rend="italic">Il sort.</hi>)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a3s6" n="6" type="Scene">
+          <head>SCÈNE VI.</head>
+          <sp>
+            <speaker>HENRI père, </speaker>
+            <stage type="business">
+              <hi rend="italic">seul.</hi>
+            </stage>
+            <p>Ame vile ! va porter ma réponse à ton maitre : l'hypocrisie te rend plus odieux. Il venoit ici sonder mon ame, me tendre quelque piège, le fourbe ! Ah ! je le méprise encore plus que Forsac. Grand dieu ! toi qui mis tous les hommes sur la terre pour s'aimer, pour te bénir, ton dessein n'étoit pas que des fainéans, que des moines sacriléges osassent, en ton nom, allumer les</p>
+            <pb n="39"/>
+            <p>guerres civiles, désoler les familles et porter par-tout le mensonge, l'erreur, le crime et la mort. Un bon citoyen, dont l'ame compatit aux maux des infortunés, un père de famille, entouré de tous ses enfans qu'il rend heureux, et qui, dans leur joie, te bénissent sans cesse : voilà l'homme qui t'honore, te sert et mérite tes bontés.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a3s7" n="7" type="Scene">
+          <head>SCÈNE VII.</head>
+          <p>HENRI père, HENRI fils, CHARLES, AGATHE.</p>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Ah ! vous voici, mes enfans ?</p>
+          </sp>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Mon père, un journalier demandoit l'avance de sa semaine ; sa femme est en couche : il avait besoin d'argent ; je lui en ai donné sans vous consulter.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Pour obliger, mon cher Charles, tu as toujours mon aveu. Ne perds pas un moment lorsque l'occasion s'en présente ; elle et rare pour les bons cœurs.</p>
+          </sp>
+          <sp>
+            <speaker>AGATHE.</speaker>
+            <p>Le père Mathurin est tombé malade  ; il ne peut continuer son travail.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Il faut le remplacer et lui payer ses journées. Ne le punissons pas d'être malheureux.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>O mon père, combien je vous chéris !</p>
+          </sp>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Respectable vieillard ! vous qui m'avez protégé depuis mon enfance, vous à qui je dois l'existence, combien je suis fier de vous appartenir ! Demain, la main de mon Agathe va resserrer les nœuds qui m'unissent à vous.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père, </speaker>
+            <stage type="business">
+              <hi rend="italic">les rassemblant autour de lui.</hi>
+            </stage>
+            <p>Mes enfans, soyez toujours bons, et vous serez toujours heureux. Charles, tu perdis ton père et ta mère à l'âge où l'on ne peut se passer d'eux. Je t'adoptai, et le ciel m'a béni en te</p>
+            <pb n="40"/>
+            <p>donnant en partage toutes les vertus. Ma fille t'aime, J'ai vu avec plaisir croître son amour. Je ne demandois à son époux que la probité, les mœurs et l'amour du travail : tu possèdes tout cela, elle est à toi : soyez l'un à l'autre. Et toi, mon Henri, enfant chéri et malheureux, viens contre mon cœur,  il te servira d'asyle. Tous les jours que le ciel me comptera seront employés à te consoler de tes maux. Que ne puis-je te donner le bonheur qui t'a fui ! Mais tu pourras le retrouver encore. L'espérance est un baume salutaire qui doit cicatriser tes blessures, et sois sÛr que ton père fera tout pour souloger ta peine, et ramener le calme dans ton ame.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a3s8" n="8" type="Scene">
+          <head>SCÈNE VIII.</head>
+          <p><hi rend="italic">Les précédens</hi>, DUMON.</p>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Ah ! c'est Dumon.</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>J'ai bien tardé à revenir ; mais je me suis trouvé arrêté par les cris d'un malheureux qui demandoit des secours. Thomas, ce bon père de famille, vient d'être maltraité au château de Forsac. Le tyran s'est emparé de son champ pour faire bâtir dessus ; il prétend qu'il lui appartient. Thomas s'est présente chez lui, pour lui demander au moins quelques dédommagemens ; le barbare l'a fait chasser par ses valets. Thomas a voulu resister : il a été maltraité, au point qu'il a eu besoin de secours pour regagner sa chaumière ; Je lui ai prêté mon bras et 1'ai rendu à sa triste famille.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Qui donc délivrera la terre d'un tel monstre ?</p>
+          </sp>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>La nature outragée, les amis de l'humanité.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Charles, mon ami, en attendant le moment heureux qui nous en délivrera, il faut soulager les malheureuses victimes de sa ferocité. Le ciel plaça les bons sur la terre, pour réparer les crimes des méchans. Tiens, prends cette bourse, elle fut destinée</p>
+            <pb n="41"/>
+            <p>à faire un cadeau à ton Agathe ; portes-la au malheureux Thomas ! voilà le présent de noce que tu dois faire à ma fille. Va soulager un infortuné avec cet argent : je te réponds qu'elle ne s'en plaindra pas.</p>
+          </sp>
+          <sp>
+            <speaker>AGATHE.</speaker>
+            <p>Je ne me plaindrai que de n'être pas assez fortunée pour y ajouter quelque chose.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Cher Dumon ! vous nous procurez le plaisir de faire une bonne action, je vous en estime davantage.</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Mes amis, je suis gêné pour le moment, et suis par-là privé d'obliger ce malheureux.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Allons, Charles, cours chez Thomas ; il ne faut pas perdre un instant pour faire le bien. Nous allons attendre ton retour pour nous mettre à table.</p>
+          </sp>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Soupez toujours, mon père ; il est bien tard. Je n'ai jamais faim quand je cours au plaisir. <stage type="business">(<hi rend="italic">Il sort.</hi>)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a3s9" n="9" type="Scene">
+          <head>SCÈNE IX.</head>
+          <p>HENRI père, HENRI fils, DUMON, AGATHE.</p>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>ALLONS, ma fille, le couvert.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Je vais t'aider, ma petite sœur.</p>
+          </sp>
+          <p>
+            <stage type="location">
+              <hi rend="italic">Ils préparent la table. Henri fait voir le portrait à sa sœur, le baise tout en faisant son ouvrage.)</hi>
+            </stage>
+          </p>
+          <sp>
+            <speaker>DUMON, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">bas au père Henri.</hi>
+            </stage>
+            <p>Je suis inquiet de Sophie. Je ne sais ; mais le bruit court que son père l'a fait enfermer dans la tour : cette innocente créateure lui servira-t-elle aussi de vistime ? Tout est en fermentation dans le château. J'avois encore une clef que je voulois rendre : j'ai demandé la bonne Gertrude, et n'ai pu la voir : tout augmente mes soupçons.</p>
+          </sp>
+          <pb n="42"/>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Gardez-vous de les laisser paroître devant mon fils. Demain je roderai du côté du chateau ; et si cette malheureus nouvelle se confirme, nous délivrerons l'innocence ; il est temps de  s'armer contre l'oppression ! mais sur-tout silence devant mon Henri.</p>
+          </sp>
+          <sp>
+            <speaker>AGATHE.</speaker>
+            <p>Mon père, tout est prêt.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Allons, mes enfens. <stage type="business">(<hi rend="italic">on frapp très-fort</hi>.)</stage> Qui vient si tard ? Ce ne peut être Charles. Vois.
+<stage type="business">(<hi rend="italic">Agathe prend une lumière et revient toute effrayée, suivie d'Alonze et de ses gardes. Alonze ferme la porte à la clef.</hi>)</stage></p>
+          </sp>
+          <sp>
+            <speaker>AGATHE </speaker>
+            <stage type="delivery">
+              <hi rend="italic">en criant de la coulisse.</hi>
+            </stage>
+            <p>Ah, mon père ! 1es gardes du Duc de Forsac ! Ciel ! qu'allons nous devenir ?</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a3s10" n="10" type="Scene">
+          <head>SCÈNE X.</head>
+          <p><hi rend="italic">Les précédens</hi>, ALONZE, Gardes.</p>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>Suivez-moi sans résistance ; sans bruit : il y va de votre vie.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Barbare ! quels sont nos crimes ? Oses-tu bien ?....</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Mon père, exterminons ces monstres ! Nous ne sommes point en forces, mais le courage y suppléera. <stage type="business">(<hi rend="italic">II fait un mouvement pour aller sur les gardes qui bouchent la porte. Alonze leur ordonee de le mettre en joue ; les autres apprêtent seulement leurs armes.</hi>)</stage></p>
+          </sp>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>Rends-toi, ou sinon...</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Tigre altéré de sang ! contentes ta fureur ! mais crains la vengeance du ciel ! Je t'attends et te suis. Vas, monstre, les habitans sauront me redemander. Donnes à ton maître un conseil digne de toi, et dis-lui de se défaire de toutes les ames sensibles qui défendront ma cause.</p>
+          </sp>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>Monseigneur sait que vous excitez les paysans à la révolte : vous avez retiré chez vous cet homme qu'il a chassé. Tout prouve un complot dont vous êtes l'auteur.</p>
+          </sp>
+          <pb n="43"/>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Le supplice des méchans est la crainte ; et son ame en est dévorée, malgré sa puissance. Ma vie est entre ses mains, il l'a proscrite, je suis innocent et tranquille.</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <p>Dieux ! ma présence seroit cause.....</p>
+          </sp>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>Allons, marchons.</p>
+          </sp>
+          <sp>
+            <speaker>AGATHE.</speaker>
+            <p>Et personne pour nous secourir ! (<stage type="delivery"><hi rend="italic">à Alonze,</hi></stage><stage type="business"><hi rend="italic">se jetant à ses genoux.</hi>)</stage>
+Ah ! Monsieur respectez ce veillard : voyez ce jeune infortuné. Prenez pitié de mes larmes ; je suis à vos pieds pour demander grace.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Ne t'avilis point, ma fille : nous ne sommes point coupables.</p>
+          </sp>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>Suivez-moi.</p>
+          </sp>
+          <sp>
+            <speaker>AGATHE, </speaker>
+            <stage type="business">
+              <hi rend="italic">courant vers la porte.</hi>
+            </stage>
+            <p>Au secours ! au secours !</p>
+          </sp>
+          <p>
+            <stage type="business">(<hi rend="italic">Alonze l'arréte, lui ferme la bouche avec son mouchoir, et la met entre les mains des gardes.</hi>)</stage>
+          </p>
+          <sp>
+            <speaker>HENRI fils </speaker>
+            <stage type="business">
+              <hi rend="italic">furieux, prend une chaise et court pour en assemmer Alonze. Les gardes le couchent en joue de nouveau.</hi>
+            </stage>
+            <p>Scélérat ! ta vie va payer tant d'outrages.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Arrêtes, mon fils : veux-tu me donner le chagrin de te voir périr sous mes yeux ? Rends-toi ; n'exposes pas tes jours.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils, <hi rend="italic">avec nue colère concentrée.</hi></speaker>
+            <p>Oui, mon père..... je me rends..... C'est au château qu'on nous conduit..... Eh bien, venez..... vous serez vengé..... Henri n'êut-il plus qu'une heure à vivre (<stage type="delivery"><hi rend="italic">à Alonze.</hi></stage>) Conduisez-moi au tyran. Marchons.</p>
+          </sp>
+          <sp>
+            <speaker>AGATHE.</speaker>
+            <p>Ah ! mon cher Charles, quelle sera ta douleur !</p>
+          </sp>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>Silence, ou vous êtes morts. <stage type="business">(<hi rend="italic">Les gardes les emmènent : Alonze sor le dernier.</hi>)</stage></p>
+          </sp>
+          <p>FIN DU TROISIÈME ACTE.</p>
+          <pb n="44"/>
+        </div2>
+      </div1>
+      <div1 xml:id="crim_a4" n="4" type="Acte">
+        <head>ACTE IV.</head>
+        <stage type="location">
+          <hi rend="italic">Le théâtre représent un cachot affreux. Sur l'un des deux côtés de la scène est un cercueil de plomb, posé sur deux blocs de pierre. Au milieu, au fond de la scène, on voit un soupirail garni de barreaux de fer. Egalement au fond, de l'autre côté di cercueil, on voit une porte surmontée d'une petite fenêtre en œil de bœuf. Une lampe sépulchrale éclaire foiblement.</hi>
+        </stage>
+        <div2 xml:id="crim_a4s1" n="1" type="Scene">
+          <head>SCENE PREMIÈRE.</head>
+          <sp>
+            <speaker>SOPHIE </speaker>
+            <stage type="location">
+              <hi rend="italic">seule, assise par terre, la tête appuyée sÛr le cercueil.</hi>
+            </stage>
+            <p>Voici donc l'asyle qu'un père me donn !.... voici donc les lieux où doivent se terminer mes tristes jours !..... Si jeune, hélas ! devois-je m'attendre..... Mais ce tombeau me dit assez qu'il n'est plus d'espoir.....O ma mère ! ta cendre insensible est arrosée de mes larmes. Tu reposes dans la nuit éternelle..... le Ciel t'a sans doute payé le prix de tes vertus..... Tournes sur ta malheureuse fille un regard de bonté ; relèves son courage abattu par l'excès de ses maux..... Ton époux..... hélas ! mon père, nous a choisies pour victimes..... Mais mon Henri..... grand Dieu ! prolonges son égarement..... Recouvrer sa raison dans ce moment, seroit pour lui le comble du malheur..... Ah, mon père ! pourquoi me forces-tu à te haïr ? II m'eut été si doux de t'aimer ! <stage type="business">(<hi rend="italic">On entent une voix plaintive dans le souterrain, don't on apperçoit le soupirail.</hi>)</stage></p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils, </speaker>
+            <stage type="business">
+              <hi rend="italic">toujours dans le souterrain.</hi>
+            </stage>
+            <p>Hélas ! hélas !</p>
+          </sp>
+          <pb n="45"/>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>N'entends-je pas une voix ? <stage type="business">(<hi rend="italic">elle écoute.</hi>)</stage> Rien.... La terreur, le besoin la douleur, tout m'accable.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Qui que vous soyez, ayez pitié de moi.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">vivement.</hi>
+            </stage>
+            <p>Je ne me suis point trompée ; on demande du secours.....? Eh ! je n'en puis donner.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Personne ne répond.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Cherchons d'où peuvent venir ces plaintes. <stage type="business">(<hi rend="italic">Elle cherche et s'arrête près du soupirail.</hi>)</stage></p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Mon père !</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Cette voix semble sortir de ce souterrain. <stage type="business">(<hi rend="italic">Elle se couche presqu'à terre, prête l'oreille à la grille, la figure tournée du côté du public.</hi>)</stage></p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>C'est trop souffrir : mourons.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">vivement.</hi>
+            </stage>
+            <p>Infortuné, qui que tu sois, n'attentes point à tes jours ; on prend pitié de tes tourmens. (<stage type="delivery"><hi rend="italic">à part.</hi>)</stage> Ah ! sauvons-le, s'il se peut, du désespoir.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Qui parle-1à ? .... qui répond au malheureux Henri ?</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Henri, dit-il ? Je me meurs. <stage type="business">(<hi rend="italic">Elle tombe tout-à-fait à terre.</hi>)</stage></p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>On ne parle plus.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE, </speaker>
+            <stage type="business">
+              <hi rend="italic">revenant à elle.</hi>
+            </stage>
+            <p>Ciel ! ai-je bien entendu ?.... Henri !.... il se pourroit.....</p>
+          </sp>
+          <pb n="46"/>
+        </div2>
+        <div2 xml:id="crim_a4s2" n="2" type="Scene">
+          <head>SCÈNE II (I).</head>
+          <p>SOPHIE, HENRI <hi rend="italic">dans le souterrain</hi>, PATRICE.</p>
+          <sp>
+            <speaker>PATRICE </speaker>
+            <stage type="business">
+              <hi rend="italic">à la petite fenêtre, descendant un panier avec une corde.</hi>
+            </stage>
+            <p>Mademoiselle ! Mademoiselle ! répondez.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE, </speaker>
+            <stage type="delivery">
+              <hi rend="italic"> bas à Henri.</hi>
+            </stage>
+            <p>Attends, malheureux : dans un instant je reviens. <stage type="business">(<hi rend="italic">Elle se relève et va du côté de Patrice.</hi>)</stage> Qui m'appelle ?</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">presque bas.</hi>
+            </stage>
+            <p>C'est moi, le concierge. Voici le pain et l'eau que votre père m'a ordonné de vous apporter pour votre nourriture : mais mon ame est déchirée de vous voir tant soufrir ; j'y ai joint quelques petites provisions et un flacon d'excellent vin.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Patrice, tu prends pitié de mes maux : il n'est donc que mon père d'inflexible !</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE.</speaker>
+            <p>Parlez bas. Il m'est défendu, sous peine de la vie, de causer avec vous : si l'on m'entendoit.....</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Ah ! mon ami, fuyez ; ne vous exposez pas.</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE.</speaker>
+            <p>Du courage ! Je pourrai peut-être vous être utile : soyez sÛr que je n'en manquerai pas l'occasion ; et si je parviens à me procurer les clefs des cachots .....</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Eh ! qui me sauvera du courroux d'un père ?</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE.</speaker>
+            <p>Silence ! J'entends quelqu'un dans la cour : dans une heure au plus vous me reverrez. <stage type="business">(<hi rend="italic">Il se retire et ferme la fenêtre.</hi>)</stage></p>
+          </sp>
+          <stage type="business">(I) Toutes les scenes du caveau doivent se jouer à demi-voix, excepté celle du père.</stage>
+          <pb n="47"/>
+        </div2>
+        <div2 xml:id="crim_a4s3" n="3" type="Scene">
+          <head>SCÈNE III.</head>
+          <p>SOPHIE, HENRI fils.</p>
+          <stage type="business">(<hi rend="italic">Pendant la scène précédente, Henri a gravi jusqu'au soupirail : on le voit se tenant aux barreaux.</hi>)</stage>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>CIEL ! une femme !</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">avec la plus vive surprise.</hi>
+            </stage>
+            <p>Te voilà.....  et comment.....</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">presque égaré.</hi>
+            </stage>
+            <p>Es-tu ma Sophie ? es-tu celle pour qu je souffre et supporte encore la vie ?</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Oui, je suis ton amie. Je vis pour t'adorer, te plaindre et te consoler.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Oui : je te vois, je te reconnois. L'excès du malheur, loin d'égarer tout-à-fait ma raison, me l'a rendue pour souffrir davantage. Mon père, ma sœur et Dumon sont au pouvoir du barbare Forsac. Tu gémis dans un cachot, et ces grilles me séparent de toi !....  Elles tomberont sous mes efforts, ou je me brise contre elles <stage type="business">(<hi rend="italic">Il secoue les barreaux avec violence.</hi>)</stage></p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Mon ami, si tu m'aimes, calme-toi espère. Le concierge vient de me  parler, malgré la défense de mon père : il m'a promis de me sauver. Il sera facile de l'engager d'en faire autant pour toi. Ah ! si tu ne veux ma mort, chasse le désespoir loin de ton ame.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Ma Sophie, oui, pour toi seule je supporterai la vie.....Mais je me sens affoiblir..... Les efforts que j'ai faits pour gravir jusqu'ici ont épuisé mes forces.... D'ailleurs le besoin..... Ciel ! je n'en puis plus..... mes pieds n'ont pas d'appui..... mes mains seules me soutiennent. Si j'échappe ces barreaux, je tombe au fond du souterrain.</p>
+          </sp>
+          <pb n="48"/>
+          <sp>
+            <speaker>SOPHIE, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">vivement.</hi>
+            </stage>
+            <p>Amour, inspires-moi ce que je dois faire..... Ciel !.... s'il alloit tomber..... Donnons-lui de ce vin..... Eh, il ne peut lâcher cette grille sans risques..... Dieu ! rien ne s'offre à mon esprit. <stage type="business">(<hi rend="italic">Elle porte ses regards sur elle, apperçoit sa ceinture, fait un cri de joie, et la défait précipitamment.</hi>)</stage> Oui, Henri, mon ami, du courage !... Tâche de te soutenir d'une main, de l'autre repasse-moi le bout de cette ceinture-là.....  <stage type="delivery">(<hi rend="italic">avec une joie concentrée</hi>.)</stage> deux fois autour de ton corps..... je vais la fixer à ces barreaux, et y faire un nœud  solid..... <stage type="business">(<hi rend="italic">Après l'avoir fixée aux barreaux.</hi>)</stage> Maintenant je suis tranquille.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Ah ! ma Sophie.... mon amie .....</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE : </speaker>
+            <stage type="business">
+              <hi rend="italic">elle va chercher le panier, le pose auprès d'elle ; et s'assied à terre, près du soupirail.</hi>
+            </stage>
+            <p>A présent, prends quelque chose pour te fortifier. Ah ! bon Patrice, quel prix dans ce moment je mets à tes bienfaits !</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils, </speaker>
+            <stage type="business">
+              <hi rend="italic">lâchant la grille.</hi>
+            </stage>
+            <p>Donnes.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Oh ! ne lâches pas ces barreaux..... je crains..... ne les lâches pas, te dis-je. Ma main va porter à ta bouche la nourriture qui t'est nécesaire. <stage type="business">(<hi rend="italic">Elle passe le col de la bouteille au travers des barreaux, et fait boire Henri ; ensuite elle le fait manger..... A chaque bouchée il lui baise la main.</hi>)</stage> Doucement ; trop de précipitation te seroit funeste.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Et toi, mon amie, allons, prends quelque chose.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Je ne puis.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Tu veux donc m'affliger ?</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Non je vais t'obéir. <stage type="business">(<hi rend="italic">Elle mange et fait boire Henri.</hi>)</stage></p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>O ma Sophie ! que ton père fasse apprêter ses supplices ; il ne m'ôtera pas cet instant de bonheur qui compense toutes mes peines.</p>
+          </sp>
+          <pb n="49"/>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Mon ami, cette attitude est bien pénible : tu dois souffrir.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Près de toi ! non, non..... je sens renaître mes forces, mon courage. Et ce que t'a dit Patrice ?....
+(<hi rend="italic">On entend un bruit de clefs.</hi>)</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Ciel ! j'entends du bruit. Si l'on venoit ici..... Mon ami, redescends dans le souterrain. Je vais tenir un bout de cette ceinture ; elle est longue, elle te servira d'échelle : je te la rejetterai pour remonter ; ne risquons pas d'être surpris.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Tu le veux ? j'obéis : mais rejette-la bientôt.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Oui : mais dépêchons-nous.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils, </speaker>
+            <stage type="business">
+              <hi rend="italic">baisant la main de Sophie.</hi>
+            </stage>
+            <p>Bientôt.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Si-tôt que je serai seule.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils, </speaker>
+            <stage type="business">
+              <hi rend="italic">glissant le long de la ceinture.</hi>
+            </stage>
+            <p>Adieu, adieu.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE, </speaker>
+            <stage type="business">
+              <hi rend="italic">laissant filer la ceinture, et paroissant employer toutes ces forces pour aider Henri à descendre.</hi>
+            </stage>
+            <p>Tiens-toi bien.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils, </speaker>
+            <stage type="business"><hi rend="italic">dans le fond du soutterain</hi>.</stage>
+            <p>Je suis hors de danger.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Silence ! ne parle pas que ne je ne t'appelle.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Oui.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a4s4" n="4" type="Scene">
+          <head>SCÈNE IV.</head>
+          <sp>
+            <speaker>SOPHIE </speaker>
+            <stage type="business">
+              <hi rend="italic">seule, baisant sa ceinture.</hi>
+            </stage>
+            <p>Echarpe précieuse! tu ne me quitteras qu'à la mort. <stage type="business">(<hi rend="italic">Elle remet précipitamment sa ceinture, cache le panier et la bouteille derrière le cercueil : ensuite avec son mouchoir, elle balaye les miettes de pain restées près de la grille. Cette pantomime doit s'exécuter rapidement.</hi>)</stage> Otons tout cela : cachons-le-bien : qu'il ne reste</p>
+            <pb n="50"/>
+            <p>aucun vestige qui puisse instruire nos tyrans. <stage type="business">(<hi rend="italic">Lorsqu'elle a fini elle va du côté de la porte</hi>.)</stage> Me serois-je trompée ? Je n'ententd plus rien..... Ecoutons..... Un bruit de clefs..... On ouvre..... Grand dieu ! que me veut-on ?.... Si l'en alloit me faire changer dc cachot..... Jamais !..... On me poignarderoit plutôt dans celui-ci.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a4s5" n="5" type="Scene">
+          <head>SCÈNE V.</head>
+          <p>SOPHIE, FORSAC, deux Gardes <hi rend="italic">portant des flambeaux.</hi></p>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Je viens te voir pour la dernière fois. Il n'est plus deux partis pour toi : le couvent ou la mort ; choisis.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>La mort.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Ton fol entêtement sera puni ; tu n'expireras qu'après avoir vu périr ton amant. II est en ma puissance ; il est près de toi. Je l'ai placé là pour que tu puisses l'entendre gémir saris pouvoir le soulager. Il doit périr de faim ; je te réserve le même sort..... tu ne peux le voir ton Henri ; il ne peut parvenir jusqu'à toi ; mais les cris que lui arracheront le désespoir et la rage viendront frapper ton oreille. Ce supplice doit être affreux ! J'en goÛte d'avance une secrète joie ! Tu voulus déshonorer mon nom, rien au monde ne m'est plus cher que cela, et je saurai venger les outrages que l'on veut y faire. Henri et ses parens sont tous en ma puissance.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Seigneur, je suis prête à recevoir la mort mais délivrez ces malheureux,  c'est moi seule qui vous outrageai.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Ils sont coupables ainsi que toi : ton amour pour Henri enhardit leur insolence. Point de qrace.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>En ce cas, épargnez-moi, Seigneur, le récit des horreurs que vous voulez commettre, et laissez-moi du moins expirer en paix.</p>
+          </sp>
+          <pb n="51"/>
+        </div2>
+        <div2 xml:id="crim_a4s6" n="6" type="Scene">
+          <head>SCÈNE VI.</head>
+          <p><hi rend="italic">Les précédens</hi>, ANSELME.</p>
+          <sp>
+            <speaker>ANSELME, </speaker>
+            <stage type="business"><hi rend="italic">accourant</hi>.</stage>
+            <p>SEIGNEUR, les paysans s'attroupent sur la place : ils demandent Henri et sa famille ; Charles est à leur tête ; le malheur a voulu qu'il ne fut pas chez sa future, lorsqu'on les a arrêtés : il paroît dans un désespoir farouche, qui me fait tout craindre. Il faudroit faire périr tout de suite, Henri et son père : dans tous les cas vous serez vengé.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE, </speaker>
+            <stage type="delivery"><hi rend="italic">hors d'elle-même.</hi>.</stage>
+            <p>Monstre ! exécrable assassin ! que n'ai-je en mas mains une arme meurtrière ; avcc quelle joie je la plongerois dans ton sein et renverrois aux enfers ton ame atroce !.... donner cet infernal conseil !....Fuis, scélérat ! délivres mes derniers momens de l'horreur de te voir : va-t-en.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Vous me connoissez mal : je voudrois votre bonheur.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Le tigre !</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">à Anselme.</hi>
+            </stage>
+            <p>Laissez cette forcenée : des soins plus pressans nous appellent. Je suis sÛr de ceux-ci : allons contenir les autres, et punir les plus mutins. <stage type="business">(<hi rend="italic">Il sort.</hi>)</stage></p>
+          </sp>
+          <sp>
+            <speaker>ANSELME, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">bas à Sophie, en passant devant elle.</hi>
+            </stage>
+            <p>Vous n'avez pas voulu me croire, il ne tenoît qu'a vous....</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">avec fierté.</hi>
+            </stage>
+            <p>Sors : je sais mourir. <stage type="business">(<hi rend="italic">Il sort.</hi>)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a4s7" n="7" type="Scene">
+          <head>SCÈNE VII.</head>
+          <sp>
+            <speaker>SOPHIE </speaker>
+            <stage type="business"><hi rend="italic">seule</hi>.</stage>
+            <p>HÉLAS ! que dire à mon Henri ? Ne portons point la mort dans son ame : cachons-lui..... Ciel ! si Patrice ne peut rien, s'il cesse d'apporter des secours..... la vengeance de mon père s'accomplira.... Eh ! quand il nour fourniroit de quoi exister, au bout de quelques jours, mon père étonné de nous voir encore, auroit</p>
+            <pb n="52"/>
+            <p>des soupçons, les éclairciroit, et Patrice paicroit de sa vie, sa générosité .... N'exposons pas cet honnête homme à périr !.... c'est un reproche terrible que nous aurions à nous faire, et qui nous sauveroit pas.... Allons.... parlons lui.... Hélas ! c'est sans doute pour la dernière fois. <stage type="business">(<hi rend="italic">Elle va à la grille et appelle.</hi>)</stage> Henri..... Ciel ! il ne répond pas.... Henri !....Henri !....</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a4s8" n="8" type="Scene">
+          <head>SCÈNE VIII.</head>
+          <p>SOPHIE, HENRI fils <stage type="location"><hi rend="italic">dans le souterrain.</hi></stage></p>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Me voici : tu as été bien long-temps sans m'appeller : couché sur la terre, je m'étois endormi ...... Descends l'échelle.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE</speaker>
+            <stage type="business">
+              <hi rend="italic"> allant our ôter sa ceinture.</hi>
+            </stage>
+            <p>Oui.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>As-tu de bonnes nouvelles a m'apprendre ?</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Hélas ! <stage type="business">(<hi rend="italic">on entend un bruit de clefs.</hi>)</stage> Ciel ! on vient : un moment.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Que je suis malheureux !</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Ne t'afflige pas. Attends. <stage type="business">(<hi rend="italic">Elle se retire.</hi>)</stage> On entre.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a4s9" n="9" type="Scene">
+          <head>SCÈNE IX.</head>
+          <p>SOPHIE, GERTRUDE, PATRICE.</p>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="business">
+              <hi rend="italic">faisant entrer Gertrude.</hi>
+            </stage>
+          </sp>
+          <sp>
+            <speaker>SOPHIE,</speaker>
+            <p> O ciel ! ma bonne ! quoi, c'est vous ?</p>
+          </sp>
+          <sp>
+            <speaker>GERTRUDE </speaker>
+            <stage type="business">
+              <hi rend="italic">l'embrassant.</hi>
+            </stage>
+            <p>Ma fille, ma Sophie ! je vous revois ! La mort seule peut maintenant nous désunir.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Ah, ma mère ! mon amie ! par quel prodige suis-je dans vos bras ?</p>
+          </sp>
+          <sp>
+            <speaker>GERTRUDE, </speaker>
+            <stage type="business">
+              <hi rend="italic">montrant Patrice.</hi>
+            </stage>
+            <p>Voilà mon sauveur, celui de Dumon et de toute la famille</p>
+            <pb n="53"/>
+            <p>de Henri. Votre ami seul, hélas ! reste sous la main de Forsac.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE <hi rend="italic">vivement.</hi></speaker>
+            <p>Non, non : nous pourrons le sauver (<hi rend="italic">Indiquant le souterrain.</hi>) Ma bonne, il est là, dans ce souterrain : je lui ai parlé.....O Patrice ! je n'espère qu'en toi.</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">avec chaleur et rapidité.</hi>
+            </stage>
+            <p>Oui, oui, espérez. Votre père, en sortant d'ici, a couru défendre l'entrée du parc aux paysans qui' s'y présentent en foule. Troublé par la terreur, il a laissé ses clef qu'il ne quitte jamais. Moi seul m'en apperçu et je m'en suis emparé : celle du cachot de votre ami doit s'y trouver ; je vole le délivrer. Si-tôt après je vous conduirai dans un lieu sÛr, où nous attendrons la faveur de la nuit, pour nous éloigner de cet infernal château.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Mon ami, accepte cette bourse, pour prix de tes services.</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE.</speaker>
+            <p>De l'or pour une bonne action ! croyez-vous que cela se paie ? Je ne demande pour récompense que de vous suivre.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Je ne t'abandonnerai jamais. Cours au malheureux Henri.</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE.</speaker>
+            <p>Oui ; mais ne vous effrayez pas ; nous sommes seuls dans l'intérieur du château : tout est occupé au dehors.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Va, mon ami. <stage type="business"><hi rend="italic">(Patrice sort.)</hi></stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a4s10" n="10" type="Scene">
+          <head>SCÈNE X.</head>
+          <p>SOPHIE, GERTRUDE, HENRI <stage type="location"><hi rend="italic">dans le souterrain</hi>.</stage></p>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>AH ! ma bonne, annoncons notre bonheur à Henri, venez. <stage type="business">(<hi rend="italic">Elle s'approche dc la grille, et parle à Henri.</hi>)</stage> Mon ami, le bon Patrice a les clefs, il nous délivrera, et va t'ouvrir. Courage, mon ami, il ne peut tarder.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI. </speaker>
+            <p>Ciel ! seroit-il possible ! mais mon père, ma sœur,, le malheureux Dumon.... Sophie, je ne puis fuir et les laisser. Sauves</p>
+            <pb n="54"/>
+            <p>tes jours ! mets en sÛreté ce que j'ai de plus cher ! reçois mes adieux .... L'amour en vain m'appelle, la nature me retient ici.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Ton père est libre, ma bonne est dans mes bras : elle peut te l'assurer ; je ne veux pas te tromper.</p>
+          </sp>
+          <sp>
+            <speaker>GERTRUDE, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">rapidement.</hi>
+            </stage>
+            <p>Oui, mon cher Henri, Forsac m'avoit fait enfermer dans une chambre de la tour ; là j'attendois la mort. Vers le soir, j'entends du bruit, c'étoit Alonze et plusieurs gardes, conduisant votre famille et le brave Dumon. Il ouvre et les fait entrer près de moi : restez ici, leur dit-il, pendant qu'on prépare vos cachots, bientôt on vous y conduira. Nous avons passé cette nuit à gémir sur vous et sur Sophie. Patrice, possesseur des clefs, nous vient chercher et nous conduit dans cette tourelle. Votre père vouloit vous aller chercher, mais Patrice lui en a fait voir le danger, et lui a promis de vous trouver et de vous remettre dans ses bras. Moi, n'écoutant rien, je l'ai suivi jusqu'ici. Je ne pouvois attendre ma Sophie, et je viens la sauver ou périr avec elle.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI.</speaker>
+            <p>Ai-je bien entendu ? Grand Dieu ! donne-moi la force de supporter la joie.... Sophie, on ouvre mon cachot.</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="location">
+              <hi rend="italic">dans le souterrain.</hi>
+            </stage>
+            <p>Suivez-moi, vite.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI.</speaker>
+            <p>C'est toi, bon Patrice ?... Ma Sophie, je vais te voir.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE, </speaker>
+            <stage type="business">
+              <hi rend="italic">se jettant à genoux.</hi>
+            </stage>
+            <p>Il est sorti !.... Juste Dieu ! voilà le plus grand de tes bienfaits.</p>
+          </sp>
+          <sp>
+            <speaker>GERTRUDE.</speaker>
+            <p>Ma fille, si nous pouvons fuir cette nuit, éloignons-nous de ces tyraus pour jamais.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Être obligée d'abandonner les lieux qui m'ont vu naître, pour sauver mes jours de la fureur d'un père : quel destin !</p>
+          </sp>
+          <pb n="55"/>
+        </div2>
+        <div2 xml:id="crim_a4s11" n="11" type="Scene">
+          <head>SCÈNE XI.</head>
+          <p>SOPHIE, PATRICE, GERTRUDE <stage type="business"><hi rend="italic">entraînant Sophie.</hi></stage></p>
+          <sp>
+            <speaker>GERTRUDE.</speaker>
+            <p>VOTRE ami est en bas, il nous attend. Je n'ai pas voulu qu'il me suive, dans la crainte que le plaisir de vous voir ne vous fît rester ici plus long-temps que je ne veux. Nous sommes seuls à présent : mais d'un moment à l'autre, on ne sait ce qui peut arriver.... Nous ne serons hors de danger que cette nuit.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE, </speaker>
+            <stage type="business">
+              <hi rend="italic">entraînant sa bonne.</hi>
+            </stage>
+            <p>Allons, viens, ma bonne.</p>
+          </sp>
+          <sp>
+            <speaker>GERTRUDE </speaker>
+            <stage type="delivery">
+              <hi rend="italic">vivement, en sortant.</hi>
+            </stage>
+            <p>Grand Dieu ! veilles sur nous ; ne souffre pas que nous retombions entre les mains de nos bourreaux.</p>
+          </sp>
+          <p>FIN DU QUATRIÈME ACTE.</p>
+          <pb n="56"/>
+        </div2>
+      </div1>
+      <div1 xml:id="crim_a5" n="5" type="Acte">
+        <head>ACTE V.</head>
+        <stage type="location">
+          <hi rend="italic">Le théâtre représente un château-fort, avec pont-levis, tourelle : deux canons sont braqués sur le pont pour en défendre l'accès. Il doit y avoir à la droite des acteurs une poterne ou porte de secours, éloignée du corps du château.</hi>
+        </stage>
+        <div2 xml:id="crim_a5s1" n="1" type="Scene">
+          <head>SCÈNE PREMIÈRE.</head>
+          <p>FORSAC, ANSELME, Gardes.</p>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Mes vassaux se sont retirés Anselme, tout paroît calme ; mais ne nous y fions pas : ils peuvent avoir été chercher des secours dans les hameaux voisins..... tout est à craindre dans ce moment.... Quelle peine n'avons-nous pas eue pour défendre l'entrée de ce château ! S'ils reviennent, je le sens, tout est perdu..... Je périrai... mais je ne périrai que vengé. Que ma fille et tous mes prisonniers ne puissent m'échapper ! Vous savez que j'ai une ample provision de poudre : faites tout disposer pour qu'on y mette le feu ; que l'on fasse sauter ce château, si-tôt que l'on ne verra plus d'espoir. Il m'eÛt été plus doux de faire une mort lente à mes victimes ; mais, si je ne le puis, qu'au moins ils périssent sous ces ruines.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Vous serez obéi, Seigneur. Mais le souterrain qui de la chapelle conduit à la forêt, peut vous servir d'asyle, si vos jours étoient menacés.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Non ; je périrai en me vengeant. Ma rage est au comble..... Allez, et voyez si tout est encore tranquille.</p>
+          </sp>
+          <stage type="business">(<hi rend="italic">Anselme sort.</hi>)</stage>
+          <pb n="57"/>
+        </div2>
+        <div2 xml:id="crim_a5s2" n="2" type="Scene">
+          <head>SCÈNE II.</head>
+          <sp>
+            <speaker>FORSAC </speaker>
+            <stage type="business"><hi rend="italic">seul, avec une rage concentrée</hi>.</stage>
+            <p>Oui, le désespoir est dans mon cœur. La soif du sang me tourmente : je voudrois nie baigner à loisir dans celui de tous ceux qui résistent à mes volontés. Oh ! si je parviens à les effrayer, si je peux les vaincre, qu'ils paieront cher leur insolence. Je n'écouterai rien.... dans ma fureur.... et....</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a5s3" n="3" type="Scene">
+          <head>SCÈNE III.</head>
+          <p>FORSAC, ALONZE.</p>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>SEIGNEUR, les paysans n'ont point renoncé à l'attaque du château : ils s'arment de ce qu'ils rencontrent sous leurs mains. Les femmes, les enfans, tous suivent Charles : il les excite de nouveau à venger sa famille. On voit descendre des montagnes les habitans des environs, qui paroissent venir prêter main-forte à ceux-ci. Venez, Seigneur ; fuyez : qui sait si dans leur fureur ils respecteront vos jours.</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Alonze, vous suivrez exactement les ordres qu'Anselme vous donnera. Je vais rentrer visiter mes gardes, et me mettre à leur tête. Vous, à l'entrée du parc, défendez-en l'approche. Allez. <stage type="business">(<hi rend="italic">Forsac rentre dans le château, Alonze dans la coulisse.</hi>)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a5s4" n="4" type="Scene">
+          <head>SCÈNE IV.</head>
+          <p>CHARLES, Paysans : <stage type="business"><hi rend="italic">ils entrent par le côté opposé à la poterne.</hi></stage></p>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Mes amis, le jour de la vengeance est arrivé. Vous m'avez tous promis de repousser la tyrannie : s'il en est parmi vous qui ne sentent point l'ame assez élevée pour punir Forsac, qu'ils</p>
+            <pb n="58"/>
+            <p>se retirent ; car nous voulons vaincre ou périr. La vie n'est qu'un tourment quand on la passe dans l'esclavage, l'opprobre et les larmes. Osons montrer notre force. Défendons la cause des innocens qu'un monstre immole sans cesse à sa barbare rage. Voyez le désespoir habiter nos chaumières : moi seul, je réclame en ce moment un père, un frère, une épouse, un ami ; et nous les obtiendrons du courage : voilà ce qu'il nous faut pour vaincre.</p>
+          </sp>
+          <sp>
+            <speaker>UN PAYSAN.</speaker>
+            <p>Compte sur nous : je te réponds d'eux comme de moi-même.</p>
+          </sp>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Il suffit. Allons rejoindre nos amis, et revenons en force détruire cette forteresse, antre affreux du despotisme..... Voici quelqu'un ; retirons-nous.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a5s5" n="5" type="Scene">
+          <head>SCÈNE V.</head>
+          <p>PATRICE, CHARLES, Paysans.</p>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="business">
+              <hi rend="italic">sortant par la poterne, prend garde d'être vu par les sentinelles qui sont sur la tour.</hi>
+            </stage>
+            <p>Arrêtez, écoutez-moi.</p>
+          </sp>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Tu sers Forsac ; tu dois être un perfide.</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE.</speaker>
+            <p>Non, je ne le suis pas : écoutez-moi ; c'est au nom de Henri que je vous en supplie.</p>
+          </sp>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Au nom de mon frère, de mon ami : ah ! parle, approche.</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="business">
+              <hi rend="italic">toujours contre la poterne, et parlant presque bas.</hi>
+            </stage>
+            <p>Je ne puis avancer ; les gardes me verroient : mon intelligence avec vous causeroit ma mort. Mais apprenez que votre père, votre Agathe, Henri, Sophié, tous enfin sont hors de leurs cachots : c'est moi qui leur ai ouvert. Ils n'ont encore pu sortir du château ; nous attendons que la nuit nous favorise. Mais qui sait si le Duc ne s'appercevra de rien ? S'il alloit visiter ses prisons ! Ciel ! je frémis d'y penser seulement. Ah ! courez, armez-vous, sauvez ce qui vous est cher : ne perdez pas un instant.</p>
+          </sp>
+          <pb n="59"/>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Mon ami, quel service ! Ah ! crois qu'il restera à jamais gravé dans mon cœur. Mes enfans, courons rejoindre nos habitans : marchons. <stage type="business">(<hi rend="italic">Ils sortent précipitamment.</hi>)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a5s6" n="6" type="Scene">
+          <head>SCENE VI.</head>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="business">
+              <hi rend="italic">seul.</hi>
+            </stage>
+            <p>S'il étoit possible de faire évader mes prisonniers par cette petite porte..... Mais c'est pour traverser la cour..... Et ces gardes..... Comment faire ?.... Voyons toujours si le Duc est encore en ces lieux. S'il pouvoît être absent, ses satellites l'auroient suivi, et l'on pourroit risquer..... Ciel ! le père Anselme..... Rentrons sans qu'il nous apperçoive : c'est un méchant bien à craindre. <stage type="business">(<hi rend="italic">Il va pour rentrer.</hi>)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a5s7" n="7" type="Scene">
+          <head>SCENE VII.</head>
+          <p>ANSELME, PATRICE.</p>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Patrice ! Patrice ! écoutes-moi, mon cher ami.</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="delivery"><hi rend="italic">à part</hi>.</stage>
+            <p>Je ne puis l'éviter. S'il alloit me questionner ! moi qui ne suis pas habitué à mentir comme lui, je me troublerois.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Eh bien, viens donc ; j'ai à te parler.</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="delivery"><hi rend="italic">à part</hi>.</stage>
+            <p>Remettons-nous. <stage type="delivery">(<hi rend="italic">haut.</hi>)</stage> Que- voulez-vous, père Anselme ?</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Qu'as-tu donc aujourd'hui ? tu rodes sans cesse ; tu parois inquiet ?</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE.</speaker>
+            <p>Moi ? mais pas du tout. Et de quoi donc que je le serois ? je n'ai point fait de mal.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Tu n'étois pas ce matin avec les gens de Monseigneur, pour repousser les paysans.</p>
+          </sp>
+          <pb n="60"/>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">confidemment.</hi>
+            </stage>
+            <p>Tenez, voulez-vous que je vous le dise ? Je ne suis pas guerrier, moi : pendant tout le train, je gardois l'intérieur .</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Les prisonniers ?</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="delivery"><hi rend="italic">à part</hi>.</stage>
+            <p>Ciel ! se seroit-il apperçu..... Ah ! nous sommes perdus.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME, </speaker>
+            <stage type="delivery"><hi rend="italic">à part</hi>.</stage>
+            <p>Tâchons de le mettre dans mes intérêts. (<hi rend="italic">haut.</hi>) Je te crois le cœur sensible, et tu pourras.....</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="delivery"><hi rend="italic">vivement</hi>.</stage>
+            <p>Moi ? pas du tout, je vous assure.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Et pourquoi t'en défendre ? Moi, qui te parle, je souffre de voir la belle Sophie périr au fond d'un cachot.</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="delivery"><hi rend="italic">à part</hi>.</stage>
+            <p>O mon dieu ! Il a vu quelque chose. Il veut me faire jaser : tenons-nous ferme. <stage type="delivery">(<hi rend="italic">haut.</hi>)</stage> Ah,
+dame ! elle a fâché son père. Il dit toujours qu'il est le maître, et il lui fait voir.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Mon ami, je veux la sauver. Son père ne se méfie point de moi : sous quelques prétextes, je vais lui demander la clef du cachot de Sophie ; il une la confiera.... et.....</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="delivery"><hi rend="italic">à part</hi>.</stage>
+            <p>Tout va se découvrir : je suis au supplice.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>A la faveur d'un déguisement que je tiens tout prêt, elle pourra fuir ces lieux. J'ai besoin de tes soins pour l'engager à sortir, et pour la conduire dans l'endroit que je t'indiquerai. Dis-lui que son amant est en liberté : ne crains rien ; je prends tout sur moi : je resterai pour éloigner les soupçons. Mon cher Patrice, je te l'avoue, j'aime Sophie, et je paierai ton silence et es soins au poids de l'or.
+<stage type="business">(<hi rend="italic">Pendant le couplet suivant, Anselme observe de tous côtés.</hi></stage></p>
+          </sp>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="delivery"><hi rend="italic">à part</hi>.</stage>
+            <p>Ah ! je me doutois bien que ce n'étoit pas la pitié qui pouvoit faire agir un prêtre. Comment me tirer de là ? Allons, un coup</p>
+            <pb n="61"/>
+            <p>de maitre. Accrochons l'or du moine. Disons-lui que je l'ai cette clef : conduisons-le au cachot, faisons-l'y entrer le premier par politesse, et si-tôt qu'il y sera, fermons la porte à double tour : il criera tant qu'il voudra, du diable si on l'entend ; et s'il n'y a que moi pour lui ouvrir, il y sera long-temps. (<hi rend="italic">haut.</hi>) Ecoutez, écoutez, père Anselme ; j'a aussi un secret à vous dire, qui vous rendra bien content et qui facilitera votre projet. (<hi rend="italic">mystérieusement) Il n'est pas besoin de Monseigneur : je l'ai la clef.</hi></p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Tu l'as? Et comment ?</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE.</speaker>
+            <p>Paix donc, parlons bas. Ce matin M. le Duc sortant d'auprès de sa fille, m'a dit, après que vous l'avez eu quitté : <stage type="delivery">(<hi rend="italic">prenant un ton ridiculement noble.</hi>)</stage> Patrice, Sophie est une ingrate ! je la renonce pour ma fille. Mais le cœur d'un père...... qui voit celle qui reçut la vie...... d'un père. (<stage type="delivery"><hi rend="italic">à part.</hi>)</stage> O mon dieu ! je ne sais plus ce que je dis.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Au fait.</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE.</speaker>
+            <p>Enfin, m'a-t-il dit, porte-lui quelques secours. Demain je déciderai de son sort.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>O mon ami ! courons la sauver. (<stage type="delivery"><hi rend="italic">à part.</hi>)</stage> Sophie, tu me devras la vie ; je t'aurai en ma puissance, et nous verrons. <stage type="delivery">(<hi rend="italic">haut.</hi>)</stage> Viens.</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE.</speaker>
+            <p>J'ai été droit avec vous, et vous m'avez promis....</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Sois sÛr de ma reconnoissance !</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE.</speaker>
+            <p>Donnez toujours quelque chose d'avance.</p>
+          </sp>
+          <sp>
+            <speaker>ANSELME.</speaker>
+            <p>Tiens. (<hi rend="italic">il lui donne une bourse.</hi>)</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="delivery"><hi rend="italic">à part</hi>.</stage>
+            <p>J'ai bien fait d'accrocher cela. Il pourroit bien ne me jamais payer du petit service que je vais lui rendre. <stage type="delivery">(<hi rend="italic">haut</hi>)</stage> Allons, venez <stage type="business">(<hi rend="italic">Ils entrent par la poterne ; Patrice fait passer Anselme devant.</hi>)</stage></p>
+          </sp>
+          <pb n="62"/>
+        </div2>
+        <div2 xml:id="crim_a5s8" n="8" type="Scene">
+          <head>SCENE VIII.</head>
+          <p>FORSAC, ALONZE, <stage type="business">sur une des tourelles.</stage></p>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>CES audacieux ne paroissent point encore, Alonze. Sans les prières d'Anselme, je serois vengé de ma fille.</p>
+          </sp>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>Il est prudent d'attendre, Seigneur, et....:</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC.</speaker>
+            <p>Souvenez-vous des ordres qu'Anselme vous a donnés.</p>
+          </sp>
+          <sp>
+            <speaker>ALONZE.</speaker>
+            <p>Seigneur, j'apperçois les paysans ; ils se portent de ce côté : je vais à mon poste. <stage type="business">(<hi rend="italic">il se retire.</hi>)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a5s9" n="9" type="Scene">
+          <head>SCENE IX.</head>
+          <p>FORSAC, CHARLES, troupes de paysans, Garde des Forsac, <stage type="location"><hi rend="italic">garnissant le château et le pont-levis.</hi></stage></p>
+          <sp>
+            <speaker>CHARLES, </speaker>
+            <stage type="delivery"><hi rend="italic">à Forsac</hi>.</stage>
+            <p>Monstre ! rends les infortunés qui sont en ta puissance : ordonne qu'ils sortent, ou ta vie.....</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC, </speaker>
+            <stage type="delivery">
+              <hi rend="italic">à ses gardes.</hi>
+            </stage>
+            <p>Feu. <stage type="business">(<hi rend="italic">il se retire.</hi>)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a5s10" n="10" type="Scene">
+          <head>SCÈNE X.</head>
+          <p>CHARLES, Paysans, Gardes de Forsac.</p>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Le barbare se soustrait à nos coups. Nous saurons le retrouver. <stage type="business">(<hi rend="italic">Les paysans attaquent le château, se rendent maîtres des canons, qu'ils braquent sur les tours. Les gardes lèvent le pont-levis. Feu continuel.</hi>)</stage></p>
+          </sp>
+          <pb n="63"/>
+        </div2>
+        <div2 xml:id="crim_a5s11" n="11" type="Scene">
+          <head>SCENE XI.</head>
+          <p><hi rend="italic">Les précédens</hi>, PATRICE, DUMON, GERTRUDE.</p>
+          <sp>
+            <speaker>PATRICE </speaker>
+            <stage type="location">
+              <hi rend="italic">à la poterne.</hi>
+            </stage>
+            <p>Attendez. Bon : ce sont nos gens, ils ont l'avantage. Je cours chercher Sophie et tous nos prisonniers, le moment est favorable. Dans un instant vous me reverrez......</p>
+          </sp>
+          <sp>
+            <speaker>DUMON.</speaker>
+            <stage type="business">
+              <hi rend="italic">tenant Gertrude sous les bras.</hi>
+            </stage>
+            <p>Qu'ils viennent tout de suite.<stage type="business">(<hi rend="italic">il conduit Gertrude jusqu'à l'avant-scène.</hi>)</stage></p>
+          </sp>
+          <sp>
+            <speaker>GERTRUDE.</speaker>
+            <p>Ah ! je n'aurai de tranquillité que lorsque réunis.... <stage type="business">(<hi rend="italic">il se fait une explosion du côté de la poterne. Gertrude tombe évanouie dans les bras de Dumon.</hi>)</stage></p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a5s12" n="12" type="Scene">
+          <head>SCENE XII.</head>
+          <p>HENRI fils, HENRI père, SOPHIE, FORSAC, CHARLES, DUMON, GERTRUDE, Paysans.</p>
+          <p>
+            <stage type="location">(<hi rend="italic">A travers les décombres on voit Henri fils tenant son père d'une main et sa maîtresse de l'autre ; Charles et quelques paysans vont à son secours. Forsac, qui s'étoit mis en embuscade, voyant que ses victimes lui sont échappées, accourt, se saisit de Sophie qu'il arrache des mains de son amant, qui trop occupé de son père, n'y prend pas garde, l'entraîne jusqu'à l'avant-scène. Charles qui s'en est apperçu court après lui, et au moment où il lève le bras pour poignarder sa fille, il lui enfonce son épée dans le corps.</hi></stage>
+          </p>
+          <sp>
+            <speaker>FORSAC, </speaker>
+            <stage type="business">
+              <hi rend="italic">levant le poignard.</hi>
+            </stage>
+            <p>Tu périras du moins.</p>
+          </sp>
+          <sp>
+            <speaker>CHARLES, </speaker>
+            <stage type="business">
+              <hi rend="italic">le prévenant.</hi>
+            </stage>
+            <p>Meurs, scélérat!</p>
+          </sp>
+          <sp>
+            <speaker>FORSAC, </speaker>
+            <stage type="business">
+              <hi rend="italic">en tombant.</hi>
+            </stage>
+            <p>O rage !</p>
+          </sp>
+          <pb n="64"/>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Mon père! Ciel ! <stage type="business">(<hi rend="italic">elle tombe évanouie.</hi>)</stage></p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Ma Sophie !</p>
+          </sp>
+          <sp>
+            <speaker>GERTRUDE, </speaker>
+            <stage type="business">
+              <hi rend="italic">qui est revenue à elle pendant tout le mouvement.</hi>
+            </stage>
+            <p>Ma fille !</p>
+          </sp>
+          <sp>
+            <speaker>CHARLES, </speaker>
+            <stage type="business">
+              <hi rend="italic">effrayé, ne voyant point Agathe.</hi>
+            </stage>
+            <p>Ciel ! mon père. Agathe : je ne la vois point. Grand dieu ! courons.</p>
+          </sp>
+        </div2>
+        <div2 xml:id="crim_a5s13" n="13" type="Scene">
+          <head>SCÈNE XIII.</head>
+          <p><hi rend="italic">Les précédens</hi>, PATRICE, AGATHE.</p>
+          <sp>
+            <speaker>PATRICE, </speaker>
+            <stage type="business">
+              <hi rend="italic">tenant Agathe dans ses bras, paroît sur le pont-levis, dont les chaînes se sont rompues par une suite de l'explosion.</hi>
+            </stage>
+            <p>La voici, la voici. <stage type="business">(<hi rend="italic">Il l'amène à l'avant-scène, aidé par Charles, qui la reçoit dans ses bras où elle reste évanouie.</hi>)</stage> J'ai eu de la peine à la porter. La peur lui avoit fait perdre la connoissance ; Henri amenoit sa maîtresse et son père, il ne peuvoit tout faire. Je me suis saisi d'Agathe. II n'est pas aisé à présent de sortir de là, car le feu gagne par-tout. <stage type="business">(<hi rend="italic">Pendant ce couplet, on enlève le corps de Forsac.</hi>)</stage></p>
+          </sp>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Ma chère Agathe !</p>
+          </sp>
+          <sp>
+            <speaker>AGATHE, </speaker>
+            <stage type="business">
+              <hi rend="italic">revenant à elle.</hi>
+            </stage>
+            <p>Mon père !... Henri... mes amis, je vous vois.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI.</speaker>
+            <p>Ma chère Agathe, pardonne. Tout occupé de mon père, de ma Sophie, leur danger m'avoit troublé au point....</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE.</speaker>
+            <p>C'est bien naturel ça. Mais Patrice qui n'avoit que lui à sauver, croyez-vous qu'il auroit abandonné cette infortunée ? non : j'aurois plutôt péri avec elle.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Non, bon Patrice, ma vie ne pourra suffire à ma reconnoissance. Le sauveur de toute ma famille doit être mon frère, ne nous quittons jamais.</p>
+          </sp>
+          <pb n="65"/>
+          <sp>
+            <speaker>PATRICE.</speaker>
+            <p>Je le veux bien, je sens que j'ai besoin d'être avec d'honnêtes gens, pour être entiérement heureux ; cependant je ne suis pas mécontent de ma journée. D'abord je vous ai sauvés, et j'ai enfermé un coquin.</p>
+          </sp>
+          <sp>
+            <speaker>HENRIpère.</speaker>
+            <p>Comment ?</p>
+          </sp>
+          <sp>
+            <speaker>PATRICE.</speaker>
+            <p>Le père Anselme. Je mis à la place de Mademoiselle, Il vouloit l'enlever, disoit-il ; mais il l'a été, lui, d'une jolie manière. L'explosion s'est faite de son côté ; il a joliment sauté..... Il a tant fait de mal, que je ne puis le plaindre.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Le ciel est juste ; tôt ou tard il punit les monstres qui dégradent ainsi le nom d'homme.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE, </speaker>
+            <stage type="business">
+              <hi rend="italic">qui est revenue à elle par degré.</hi>
+            </stage>
+            <p>Ah ! mon père..... ma bonne, il n'est plus.....</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Ma Sophie, je vois tes larmes ; elles déchirent mon ame.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Ma fille, j'admire votre bon cœur. Vous pleurez votre bourreau, parce qu'il fut votre père. La nature demande une larme ; il est juste de la lui donner. Mais souvenez-vous que celui qui n'étoit que le tyran de tous ceux qui dépendoient de lui, étoit odieux à tous les cœurs sensibles. S'il n'eÛt opprimé que vous, il seroit beau de le pleurer ; mas la cause générale,  cet intérêt qui unit tous les hommes, doit calmer vos regrets. Oubliez que vous dÛtes le jour à celui qui fit tant de mal, et ne vous en rappellez jamais que pour réparer ses forfaits, et faire, s'il se peut, autant d'heureux qu'il fit d'infortunés.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Pardonnez si mes regrets.....</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Mes soins, mon amour sauront.....</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Sophie, depuis votre enfance je vous connois des vertus. Soyez ma fille ; vous le méritez. Henri, voilà celle qui t'es si chère ; reçois-la de ma main : sois heureux. Mais si j'accepte Sophie,</p>
+            <pb n="66"/>
+            <p>c'est à condition qu'elle ne m'apporte pour dot que ses vertus et ses graces, et qu'elle renoncera à jamais à l'héritage de ses pères. Je ne veux point d'un bien mal acquis : je ne pourrois dormir en repos. Je suis peu riche ; tant mieux. Va ma fille, ton Henri et ton père ne te laisseront jamais manquer du nécessaire. Quant au superflu, graces au ciel ! je ne sais pas ce que c'est, et ne le saurai jamais tant qu'il existera des malheureux.</p>
+          </sp>
+          <sp>
+            <speaker>SOPHIE.</speaker>
+            <p>Je renonce à tout. Mon trésor est votre amitié et l'amour de mon Henri.</p>
+          </sp>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Mon ami, nous ne ferons qu'une famille.</p>
+          </sp>
+          <sp>
+            <speaker>AGATHE.</speaker>
+            <p>O mon frère ! combien je jouis de ton bonheur.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI fils.</speaker>
+            <p>Ma sœur, Charles, mon père, mon amie, je vous dois le bonheur. Toute ma vie sera employée à vous chérir. Je pourrai perdre encore quelquefois la raison ; mais ce ne sera plus que d'amour et de joie.</p>
+          </sp>
+          <sp>
+            <speaker>CHARLES.</speaker>
+            <p>Mon père, quittons ces lieux ; retournons au village : tous nos amis brÛlent du desir de vous presser contre leur cœur, et de bénir avec vous l'heureux jour qui nous délivre du barbare Forsac.</p>
+          </sp>
+          <sp>
+            <speaker>HENRI père.</speaker>
+            <p>Oui, mes enfans, ce jour est glorieux pour nous : mais croyez que notre exemple sera suivi. Les crimes d'une Noblesse insolente, qui par-tout font gémir l'humanité, sont à leur comble et seront punis. Le flambeau de la raison éclairera les peuples abattus ; le fanatisme, les préjugés, les rois, ces fantômes vains, idoles des esclaves, tous ces fléaux seront détruits à jamais, et l'homme libre et bon va reprendre son énergie et les vertus du premier âge.</p>
+          </sp>
+          <p>FIN DU CINQUIÈME ET DERNIER ACTE.</p>
+        </div2>
+      </div1>
+    </body>
+    <back xml:id="crim_1003">
+      <div1 xml:id="crim_titres" type="Titres">
+        <pb n="67"/>
+        <note anchored="true">[Editor's note: the following is in table format, with the numbers to the right of each title]</note>
+        <p>On trouve chez le même Libraire, les pièces de théâtre ci-aprés : </p>
+        <list type="simple">
+          <item>Le Véritable Ami des Loix, ou, le Républicain à l'épreuve, comédie en quatre actes, en prose, par la citoyenne Villeneuve<lb/>
+..........I 10</item>
+          <item>Plus de Bâtards en France, comédie en trois actes, en prose, par la même<lb/>
+..........I 10</item>
+          <item>La Mort du jeune Barrat, drame en un acte, par le citoyen Briois<lb/>
+..........I 5</item>
+          <item>Les Dragons et les Bénédictines, comédie en deux actes, par le citoyen Pigault-Lebrun<lb/>
+..........I 5</item>
+          <item>Les Dragons en Cantonnement, comédie en un acte, par la même<lb/>
+..........I 5</item>
+          <item>Charles et Caroline, ou les Abus de l'ancien Régime, comédie en cinq actes, en prose, avec les changemens, par le même<lb/>
+..........I 10</item>
+          <item>Les Peuples et les Rois, allégorie dramatique en cinq actes, en prose, par le citoyen Cizos_Duplessis<lb/>
+..........I 10</item>
+          <item>La Folie de Georges, ou l'Ouverture du Parlement d'Angleterre, comédie en trois actes, en prose, par le citoyen Lebrun-Tossa<lb/>
+..........I 5</item>
+          <item>Le Vieux Célibataire, comédie en cinq actes, en vers, par le citoyen Collin-Harleville<lb/>
+..........2</item>
+          <item>Le Tu et Toi, ou la parfaite Egalité, comédie en trois actes, en prose, par le citoyen Dorvigny<lb/>
+..........I 10</item>
+          <item>La Mère coupable, ou l'autre Tartuffe drame intrigué en cinq actes, par le citoyen Beaumarchais<lb/>
+..........I 10</item>
+          <item>La Folle Journée, ou le Mariage de Figaro, par le même<lb/>
+..........2 10</item>
+          <item>Othello, ou le Maure de Venise, tragédie<lb/>
+..........2</item>
+          <item>Les Visitandines, opéra en trois actes<lb/>
+..........I 5</item>
+          <item>L'Ami du Peuple, comédie en trois actes, en vers<lb/>
+..........I 10</item>
+          <item>La Moisson, opéra comique en deux actes<lb/>
+..........I 5</item>
+          <item>Le Loups et les Brebis, vaudeville en un acte<lb/>
+..........I</item>
+          <item>L'Hiver, ou les Deux Moulins, <hi rend="italic">idem</hi><lb/>
+..........I</item>
+          <pb n="68"/>
+          <item>Philippe et George comédie en un acte ; avec ariettes, par le citoyen Monvel<lb/>
+..........I 10</item>
+          <item>Le Siége de Lille, opéra en trois actes<lb/>
+..........I 10</item>
+          <item>Catherine, ou la belle Fermière, comédie en trois actes, en prose, par la citoyenne Candeille
+comédie<lb/>
+..........I 10</item>
+          <item>La force de l'Habitude, ou le Mariage du Père Duchesne, comédie en trois actes, en prose<lb/>
+..........I 5</item>
+          <item>Départ de Volontaires villegeois, comédie en un acte, par le citoyen Lavallée<lb/>
+..........I</item>
+          <item>Brutus, tragédie de Voltaire<lb/>
+..........I 4</item>
+          <item>Fénélon, tragédie de Chénier<lb/>
+..........I 10</item>
+          <item>Jean Calas, tragédie du même<lb/>
+..........I 10</item>
+          <item>Henri VIII, tragédie par le même<lb/>
+..........I 10</item>
+          <item>Caïus-Craccus, tragédie, <hi rend="italic">ibid.</hi><lb/>
+..........I 5</item>
+          <item>La Soirée orageuse<lb/>
+..........I</item>
+          <item>Marat dans la Souterrain, comédie en deux actes<lb/>
+..........I</item>
+          <item>La Moitié du Chemin, comdie en trois actes, en vers par le citoyen Picard<lb/>
+..........I 10</item>
+          <item>Le Cousin de tout le monde, en un acte, en prose, par le même<lb/>
+..........I 5</item>
+          <item>Les Brigands de la Vendée, opéra en un acte<lb/>
+..........I 5</item>
+          <item>Cadet Roussel, ou le Café des Aveugles<lb/>
+..........I 10</item>
+          <item>Michel Servantes, opéra en trois actes<lb/>
+..........I 10</item>
+        </list>
+      </div1>
+    
+    <!-- <div1 id="r115n11figures">
+<p><figure entity="crim00" n="1"><figDesc>Image of Page 1</figDesc></figure></p>
+<p><figure entity="crim02" n="2"><figDesc>Image of Page 2</figDesc></figure></p>
+<p><figure entity="crim04" n="3"><figDesc>Image of Page 4</figDesc></figure></p>
+<p><figure entity="crim06" n="4"><figDesc>Image of Page 6</figDesc></figure></p>
+<p><figure entity="crim08" n="5"><figDesc>Image of Page 8</figDesc></figure></p>
+<p><figure entity="crim10" n="6"><figDesc>Image of Page 10</figDesc></figure></p>
+<p><figure entity="crim12" n="7"><figDesc>Image of Page 12</figDesc></figure></p>
+<p><figure entity="crim14" n="8"><figDesc>Image of Page 14</figDesc></figure></p>
+<p><figure entity="crim16" n="8"><figDesc>Image of Page 16</figDesc></figure></p>
+<p><figure entity="crim18" n="8"><figDesc>Image of Page 18</figDesc></figure></p>
+<p><figure entity="crim20" n="8"><figDesc>Image of Page 20</figDesc></figure></p>
+<p><figure entity="crim22" n="8"><figDesc>Image of Page 22</figDesc></figure></p>
+<p><figure entity="crim24" n="8"><figDesc>Image of Page 24</figDesc></figure></p>
+<p><figure entity="crim26" n="8"><figDesc>Image of Page 26</figDesc></figure></p>
+<p><figure entity="crim28" n="8"><figDesc>Image of Page 28</figDesc></figure></p>
+<p><figure entity="crim30" n="8"><figDesc>Image of Page 30</figDesc></figure></p>
+<p><figure entity="crim32" n="8"><figDesc>Image of Page 32</figDesc></figure></p>
+<p><figure entity="crim34" n="8"><figDesc>Image of Page 34</figDesc></figure></p>
+<p><figure entity="crim36" n="8"><figDesc>Image of Page 36</figDesc></figure></p>
+<p><figure entity="crim38" n="8"><figDesc>Image of Page 38</figDesc></figure></p>
+<p><figure entity="crim40" n="8"><figDesc>Image of Page 40</figDesc></figure></p>
+<p><figure entity="crim42" n="8"><figDesc>Image of Page 42</figDesc></figure></p>
+<p><figure entity="crim44" n="8"><figDesc>Image of Page 44</figDesc></figure></p>
+<p><figure entity="crim46" n="8"><figDesc>Image of Page 46</figDesc></figure></p>
+<p><figure entity="crim48" n="8"><figDesc>Image of Page 48</figDesc></figure></p>
+<p><figure entity="crim50" n="8"><figDesc>Image of Page 50</figDesc></figure></p>
+<p><figure entity="crim52" n="8"><figDesc>Image of Page 52</figDesc></figure></p>
+<p><figure entity="crim54" n="8"><figDesc>Image of Page 54</figDesc></figure></p>
+<p><figure entity="crim56" n="8"><figDesc>Image of Page 56</figDesc></figure></p>
+<p><figure entity="crim58" n="8"><figDesc>Image of Page 58</figDesc></figure></p>
+<p><figure entity="crim60" n="8"><figDesc>Image of Page 60</figDesc></figure></p>
+<p><figure entity="crim62" n="8"><figDesc>Image of Page 62</figDesc></figure></p>
+<p><figure entity="crim64" n="8"><figDesc>Image of Page 64</figDesc></figure></p>
+<p><figure entity="crim66" n="8"><figDesc>Image of Page 66</figDesc></figure></p>
+<p><figure entity="crim68" n="8"><figDesc>Image of Page 68</figDesc></figure></p>
+</div1> -->
+      </back>
+  </text>
+</TEI>

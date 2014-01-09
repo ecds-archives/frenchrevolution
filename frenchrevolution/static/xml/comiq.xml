@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="comiq_1005">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title> Scène comique entre le diable et un procureur: electronic edition</title>
+        <author>anonymous</author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Michael Kazanjian</name>
+        <name/></respStmt>
+      </titleStmt>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia  30322</addrLine>
+        </address><availability>
+          <p>2002 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</p>
+        </availability><date>2002</date><idno type="ark">http://pid.emory.edu/ark:/25593/125</idno></publicationStmt>
+      <seriesStmt>
+        <title>French Revolution Pamphlet Collection</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title> Scène comique entre le diable et un procureur.</title>
+          <pubPlace>Paris</pubPlace>
+          <date>1789</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p>This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</p>
+        <p>Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling. I also omitted the page signatures "A" from p. 1 and A2 from p. 3.  For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</p>
+      </editorialDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <date>1789</date>
+      </creation>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>2002</date><label>staff</label><name>Michael Kazanjian</name>Sgml tags inserted in compliance with TEI guidelines using TEI P3</change></revisionDesc></teiHeader>
+  <text xml:id="comiq_1004">
+    <front xml:id="comiq_1001">
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Scene comique entre le diable et un procureur.</titlePart>
+        </docTitle>
+        <docAuthor>Anonymous.</docAuthor>
+        <docDate>1789.</docDate>
+        <epigraph>
+          <p rend="rule center"/>
+          <p>Au sujet de Madame Chicane, chassée des<lb/>
+Terres de France ; &amp; revenant en Enfer.</p>
+        </epigraph>
+      </titlePage>
+    </front>
+    <body xml:id="comiq_1002">
+      <div1 xml:id="comiq_01" n="Scene comique entre le diable et un procureur" type="piece">
+        <pb n="1"/>
+        <p>
+          <stage type="setting">La scène se passe dans le vestibule du Palais du Souverain
+des Enfers.</stage>
+        </p>
+        <sp>
+          <speaker>LE DIABLE.</speaker>
+          <p>AH ! te voilà, <hi rend="italic">Grippe-fou</hi>, je suis bien charmé de te voir.  Tu étois à <hi rend="italic">Paris</hi> le plus fidele de mes serviteurs..... Mais qu'as-tu ? Tu me parois bien triste. Aurois-tu de fâcheuses nouvelles à m'annoncer ?</p>
+        </sp>
+        <sp>
+          <speaker>LE PROCUREUR.</speaker>
+          <p>Souverain des Enfers, les temps ont bien changé ! Il y a , dans le Pays d'où je sors un concert étonnant, pour parvenir au bien.  Les François, autrefois si frivoles,
+<pb n="2"/>
+si libertins, travaillent avec une ardeur incroyable à l'amélioration de la chose publique.</p>
+          <p>De toutes parts, on fait en France une guerre sanglante au crime.  Les frippons y sont poursuivis avec une ardeur qui n'a pas d'exemple. Dès qu'on s'y fait connoître par un trait de scélératesse, par un tour de Cartouche, enfin, par quelque <hi rend="italic">gentillesse diabolique</hi>, on est aussi-tôt menacé de la <hi rend="italic">lanterne de la Grêve</hi>.  Personne ne peut prononcer un mot anti-populaire, sans entendre aussi-tôt plusieurs voix s'écrier : <hi rend="italic"> à la lanterne, à la lanterne !</hi> Vous ne sauriez croire combien cette fatale <hi rend="italic">lanterne</hi> fait trembler vos amis les plus zèlés.  Seigneur <hi rend="italic">Satan</hi>, je crois que le temps de votre régne, en France, est passé.  Non-seulement on est occupé à bannir de ce Royaume la cohorte innombrable des abus que vous aviez eu l'adresse d'y introduire ; mais je vous apprendrai encore que l'Aristocratie est sur le point d'y pousser le dernier soupir, &amp; que Madame <hi rend="italic">Chicane</hi>, votre fille chérie, se dispose à partir pour son pays natal.  On ne veut plus la souffrir dans les terres de France.  C'en est fait, la troupe innombrable des Procureurs va perdre son unique espoir, sa protectrice, sa Souveraine.
+<pb n="3"/>
+Vous la verrez, sans doute, arriver bien-tôt ici avec un cortège considérable.  Pour moi, qui ai toujours été son courtisan, son favori, moi qui connoissois son allure insidieuse, ses ruses perfides, ses artifices de furies, ses finesses infernales, moi qui perds tout en perdant <hi rend="italic">la Chicane</hi>, je viens vous faire part de cet événement imprévu, &amp; me fixer dans votre Empire.</p>
+        </sp>
+        <sp>
+          <speaker>LE DIABLE.</speaker>
+          <p>Tu m'annonce là des choses fort désagréables.  Je vois que j'ai perdu une partie de l'influence que j'avois dans la Monarchie françoise.....  Comment, on veut chasser la <hi rend="italic">Chicane</hi> de toutes les terres de France !  Es-tu bien sÛr de cela ? Les Provinces du <hi rend="italic">Maine &amp; de Normandie</hi> n'ont-elles pas réclamé contre cette innovation ?  Cependant ma fille avoit un grand nombre de partisans dans ce Pays.  Les <hi rend="italic">Normands</hi> sur-tout lui faisoient une cour assidue.  Il faut, cher <hi rend="italic">Grippe-fou</hi>, que tu ne sois pas parfaitement instruit.  Je doute que le renvoi de la <hi rend="italic">Chicane</hi> soit pleinement décidé.  Elle faisoit vivre un trop grand nombre de frippons, pour qu'on se décide à l'exiler des terres France.</p>
+        </sp>
+        <pb n="4"/>
+        <sp>
+          <speaker>LE PROCUREUR.</speaker>
+          <p>Je ne vous dis pas, Seigneur Satan, que son bannissement sois entiérement décidé : mais , selon toute apparence, il le sera bientôt.  La plupart des François demandent à grands cris une réforme dans les Tribunaux de Justice.  On prétend que l'Assemblée Nationale va s'occuper incessamment de cet objet, &amp; qu'il ne sera plus question de Procureurs.</p>
+        </sp>
+        <sp>
+          <speaker>LE DIABLE.</speaker>
+          <p>Il faut convenir que l'Assemblée Nationale est bien contraire à mes intérêts ! Je crois fort que malgré tous mes projets elle parviendra à régénérer la France.</p>
+        </sp>
+        <sp>
+          <speaker>LE PROCUREUR.</speaker>
+          <p>Vous avez donc essayé d'empêcher cette régénération ?</p>
+        </sp>
+        <sp>
+          <speaker>LE DIABLE.</speaker>
+          <p>Peux-tu en douter ? Crois-tu que je sois bien bien aise de voir ma puissance s'affoiblir ?  Crois-tu que je puisse voir , sans un noir chagrin, l'autel de la Liberté s'élever sur les ruines de celui de l'Aristocratie ? Oui, mon ami <hi rend="italic">Grippe-fou</hi>, j'ai essayé plusieurs fois de retarder les succès
+<pb n="5"/>
+du Patriotisme. C'est moi qui ai donné l'idée de sa fameuse séance Royale. C'est moi qui ai rempli du poison qui circule dans mes veines, le c¦ur de la......., du Comte d'......, du Prince de C.....  C'est moi qui avois imaginé la coalition formidable de la majorité de la Noblesse , du haut Clergé, &amp; des douze Parlemens. C'est moi qui présidois au Comité anti-populaire de la Polignac. C'est moi qui trompai les regards de <hi rend="italic">Louis XVI</hi>, par un tableau illusoire. C'est moi qui formai derniérement le plan de la fameuse conspiration contre le Peuple, &amp; qui demandai le renvoi du Ministre <hi rend="italic">Necker</hi>. Tu vois encore en moi celui qui donna la liste des Ministres qui devoient remplacer les partisans de cet ami de la Nation.  Tu vois celui qui suscita le violent <hi rend="italic">Broglie</hi>, &amp; qui remplis son ame des vapeurs enivrantes de l'ambition.  Tu vois en <hi rend="italic">Satan</hi> celui qui, la veille du jour où le complot destructeur devoit s'exécuter, présida aux danses bachiques des favoris de la......, du Comte d'......., &amp; tous les suppots de l'Aristocratie, avec les <hi rend="italic">Pandours</hi> &amp; les <hi rend="italic">Hussards</hi>.  Tu vois dans le Roi des Enfers celui qui poussa le fougueux <hi rend="italic">Lambesc</hi> dans le jardin des <hi rend="italic">Thuileries</hi>, &amp; qui guida le sabre de ce
+<pb n="6"/>
+Prince cruel ; c'est moi qui animois la voix de <hi rend="italic">Desp</hi> ......, lorsque dans l'Assemblée Nationale il parloit du Peuple avec tant de mépris, &amp; qu'il comparoit les Communes de France aux Communes d'Angleterre qui conduisirent leur Roi sur l'échafaud.  C'est moi qui excitois ce <hi rend="italic">Parlementaire</hi> à s'écrier dans la Chambre de la Noblesse, <hi rend="italic">que certains Membres de l'Assemblée Nationale étoient coupables de haute trahison, &amp; qu'il falloit faire leur procès</hi>.  C'est moi qui ai versé le venin des Furies dans le c¦ur du Seigneur de <hi rend="italic">Quincey</hi>.  Enfin, c'est moi qui, ces jours-ci, ai trouvé le moyen de rallentir pour un moment le Patriotisme de l'Abbé <hi rend="italic">Sieyes</hi>, &amp; qui l'ai porté à s'élever contre l'entiere abolition des dîmes Ecclésiastiques.</p>
+        </sp>
+        <sp>
+          <speaker>LE PROCUREUR.</speaker>
+          <p>Voilà , Seigneur <hi rend="italic">Satan</hi>, des exploits dignes du Souverain des Enfers.  Je vois que vous êtes toujours d'une activité incomparable.  Cependant l'Assemblée Nationale continue ses opérations ; &amp; le <hi rend="italic">Génie</hi> du bien acquiert tous les jours de nouveaux partisans , vous vous ralentissez donc , Seigneur <hi rend="italic">Satan</hi>. Vous serez obligé d'avouer votre défaite.... Vous m'avez fait mention de plusieurs personnages que
+<pb n="7"/>
+vous avez employés pour l'exécution de vos projets....  Et le Comte de M.... vous n'en dites rien ?  Néanmoins vous le connoissez particuliérement, il a été même en commerce de lettres avec vous <ref target="#comiq_comique.n01">(1)</ref>.</p>
+        </sp>
+        <sp>
+          <speaker>LE DIABLE.</speaker>
+          <p>Oh pour celui-là, je ne peux pas compter sur lui.  Je serois tenté de croire qu'il m'oublie entiérement ; cependant autrefois nous étions bons amis, &amp; vous savez que pour <hi rend="italic">sa Correspondance de Prusse</hi>, je lui servis de Secrétaire. Maintenant il renonce à moi, il ne parle que de <hi rend="italic">Liberté</hi>, de <hi rend="italic">Patrie</hi>, de <hi rend="italic">Constitution</hi>.  J'espere cependant que dans la suite j'en tirerai quelque parti....  Je vais tenter de nouveaux moyens pour empêcher les progrès du <hi rend="italic">Génie</hi>du bien sur les terres de France.  Et vous, sieur <hi rend="italic">Grippe-fou</hi>, allez vous amuser, si vous le pouvez, dans mon Empire.  Vous pouvez entrer là-bas dans ce grouppe qui danse à la lueur du flambeau des <hi rend="italic">Furies</hi>, au son d'une musique infernale, à-peu-près comme celle de <hi rend="italic">l'Opéra</hi>.  Ce grouppe est
+<seg><note anchored="true" xml:id="comiq_comique.n01"><p rend="rule center"/><p>(1) Il y a quelque tems qu'on a vu au Palais Royal une lettre du Diable à M. de M...., dont nous ne connaissons point l'Auteur.</p></note></seg><pb n="8"/>
+composé de gens qui sympatiseront trés-bien avec vous, ce sont des Greffiers, des Procureurs, des Tailleurs , des Braconniers, des Corsaires , des Commis aux barrieres, d'accapareurs de bled, de Commissaires de quartier, d'Huissiers Royaux, de Conseillers au Parlement, de Rats-de-cave, de femmes du monde, de Filous, de Mouchards , &amp; de M. &amp;c. &amp;c. &amp;c.</p>
+        </sp>
+        <signed>Par J. B. S.</signed>
+        <trailer>FIN</trailer>
+      </div1>
+    </body>
+    <back xml:id="comiq_1003">
+      <div1 xml:id="comiq_colophon" type="Colophon">
+        <p>A PARIS, chez NYON le jeune, Libraire , Pavillon des quatre Nations ; &amp; de l'Imprimerie de N. H. NYON , <hi rend="italic">rue Mignon</hi>, I789.</p>
+      </div1>
+    
+    <!-- <div1 id="comiq_figures">
+<p><figure entity="comiq01" n="1"><figDesc>Image of Page 1</figDesc></figure></p>
+<p><figure entity="comiq02" n="2"><figDesc>Image of Page 2</figDesc></figure></p>
+<p><figure entity="comiq03" n="3"><figDesc>Image of Page 3</figDesc></figure></p>
+<p><figure entity="comiq04" n="4"><figDesc>Image of Page 4</figDesc></figure></p>
+<p><figure entity="comiq05" n="5"><figDesc>Image of Page 5</figDesc></figure></p>
+<p><figure entity="comiq06" n="6"><figDesc>Image of Page 6</figDesc></figure></p>
+<p><figure entity="comiq07" n="7"><figDesc>Image of Page 7</figDesc></figure></p>
+<p><figure entity="comiq08" n="8"><figDesc>Image of Page 8</figDesc></figure></p>
+</div1> -->
+      </back>
+  </text>
+</TEI>

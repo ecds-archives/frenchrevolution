@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<p>Search results for '{{keyword}}' :</p>
+
+{% if server_error %}{{ server_error }}{% endif %}
+
+{% if searchform.is_valid %}
+   {% for item in pamphlet_list %}
+     {% for pamphlet in pamphlets %}
+       {% if item.0 == pamphlet.id %}
+    <p><a href="{% url "pamphlet_display" pamphlet.id %}{% if keyword %}?keyword={{ keyword }}{% endif %}">{{pamphlet.author}}, {{pamphlet.title}}</a>
+    <br>
+      {{item.1}}
+    {% if item.1 = 1 %}
+      match
+    {% else %}
+      matches
+    {% endif %}
+   {% endif %}
+   {% endfor %}
+    </p>
+  {% endfor %}
+{% endif %} 
+
+{% endblock %}

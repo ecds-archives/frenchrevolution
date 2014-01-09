@@ -1,0 +1,65 @@
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <title>French Revolution Pamphlet Collection</title>
+   <link rel="stylesheet" type="text/css" href="{{ STATIC_URL }}css/index.css">
+<?xml version="1.0"?>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/"/>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/"/>  
+<meta name="DC.title" content="French Revolution Pamphlet Collection"/>
+<meta name="DC.identifier" content="http://beck.library.emory.edu/frenchrevolution/"/>
+<meta name="DC.contributor" content="Lewis H. Beck Center for Electronic Collections &amp; Services."/>
+<meta name="DC.contributor" content="Manuscript, Archives, and Rare Book Library, Emory University."/>
+<meta name="DC.contributor" content="Texts compiled and edited by Michael Kazanjian"/>
+<meta name="DC.publisher" content="Lewis H. Beck Center, Emory University. 2002: Atlanta, Georgia 30322."/>
+<meta name="DC.description" content="These text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H.  Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship."/>
+<meta name="DC.language" content="English"/>
+<meta name="DC.language" content="French"/>
+<meta name="DC.subject" scheme="DCTERMS.LCSH" content="France--History--Revolution, 1789-1799--Pamphlets."/>
+<meta name="DC.subject" scheme="DCTERMS.LCSH" content="France--Politics and government--1789-1799."/>
+<meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text"/>
+<meta name="DC.format" scheme="DCTERMS.IMT" content="text/xml"/>
+</head>
+
+<body>
+
+<div id="index">
+
+   
+   <p id="overview" class="link"><a href={% url "overview" %}><img src="{{ STATIC_URL }}images/select-off.gif" alt=""> Overview</a></p>
+   <p id="list" class="link"><a href={% url "pamphlet_list" %}><img src="{{ STATIC_URL }}images/select-off.gif" alt=""> Pamphlet List</a></p>
+   <p id="guide" class="link"><a href={% url "research_guide" %}><img src="{{ STATIC_URL }}images/select-off.gif" alt=""> Research Guide</a></p> 
+
+   
+    <p id="title">French Revolution</p>
+    <p id="page">Pamphlet Collection</p>
+
+   
+</div>
+
+<div id="search">
+<form action={% url "searchform" %} method="get">
+   Keyword search: <input type="text" name="keyword"/>
+   <input type="submit" value="Go"/>
+   </form>
+</div>
+
+
+<div id="footer">
+  <a href="http://beck.library.emory.edu/">Lewis H. Beck Center</a>
+  | <a href="http://marbl.library.emory.edu/">MARBL</a> 
+  | <a href="http://www.emory.edu">Emory University</a><br/>
+<a href="http://www.tei-c.org/"><img src="http://www.tei-c.org/About/Badges/powered-by-TEI.png" alt="Powered by TEI" border="0"/></a>
+</div><div class="tracker">
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11023816-5");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</div>
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <title>French Revolution Pamphlet Collection Overview</title>
+   <link rel="stylesheet" type="text/css" href="{{STATIC_URL}}css/fr.css">
+</head>
+<body>
+<div id="overDiv" style="position:absolute; visibility:hide;z-index:1;"></div>
+<SCRIPT LANGUAGE="JavaScript" SRC="overlib.js"></SCRIPT>
+
+<div id="header">
+
+  <div class="image">
+    <p id="title">French Revolution</p>
+<p id="page">Pamphlet Collection Overview</p>
+  </div>
+
+  <p class="links">
+    <a href={% url "index" %}>Home</a> 
+    | <a href={% url "overview" %}>Overview</a> 
+    | <a href={% url "pamphlet_list" %}>Pamphlet List</a>
+    | <a href={% url "research_guide" %}>Research Guide</a>
+ </p>
+
+<div id="search">
+<form action={% url "searchform" %} method="get">
+   Keyword search: <input type="text" name="keyword"/>
+   <input type="submit" value="Go"/>
+   </form>
+</div>
+</div>
+
+{% block content %}
+{% endblock %}
+
+<div id="footer">
+  <a href="http://beck.library.emory.edu/">Lewis H. Beck Center</a>
+  | <a href="http://marbl.library.emory.edu/">MARBL</a> 
+  | <a href="http://www.emory.edu">Emory University</a><br/>
+<a href="http://www.tei-c.org/"><img src="http://www.tei-c.org/About/Badges/powered-by-TEI.png" alt="Powered by TEI" border="0"/></a>
+</div>
+
+<div class="tracker">
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11023816-5");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</div>

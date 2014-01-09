@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="nostra_1005">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Arrivée á Paris du petit neveu de Nostradamus, es ses grandes prophéties sur le sor de la république: electronic edition</title>
+        <author>Guillaume</author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Michael Kazanjian</name>
+        <name/></respStmt>
+      </titleStmt>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia  30322</addrLine>
+        </address><availability>
+          <p>2003 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</p>
+        </availability><date>2003</date><idno type="ark">http://pid.emory.edu/ark:/25593/2dbx</idno></publicationStmt>
+      <seriesStmt>
+        <title>French Revolution Pamphlet Collection</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Arrivée á Paris du petit neveu de Nostradamus, es ses grandes prophéties sur le sor de la république.</title>
+          <pubPlace/>
+          <date>1799</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p>This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</p>
+        <p>Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling.  For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</p>
+      </editorialDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <date>1799</date>
+      </creation>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>2003</date><label>staff</label><name>Michael Kazanjian</name>Sgml tags inserted in compliance with TEI guidelines using TEI P3</change></revisionDesc></teiHeader>
+  <text xml:id="nostra_1004">
+    <front xml:id="nostra_1001">
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">ARRIVEE A PARIS DU PETIT NEVEU DE NOSTRADAMUS,<lb/>
+Et ses grandes Prophéties sur le sort de la République.</titlePart>
+        </docTitle>
+      </titlePage>
+    </front>
+    <body xml:id="nostra_1002">
+      <div1 xml:id="nostra_01" type="misc">
+        <p>LE VOILA! LE VOILA, CITOYENS ! LE
+PETIT NEVEU DE NOSTRADAMUS,
+AVEC SES LORGNETTES DE TROIS
+METTRES DE LONG !</p>
+        <p>ÉCOUTEZ, AUJOURD'HUI, SA GRANDE
+FUREUR ET VOUS VERREZ, QUE SANS
+TRENTE-SIX CHANDELLES, IL Y VOIT
+PLUS CLAIR QU'EN PLEIN MIDI.</p>
+        <p>&gt;REPUBLICAINS, Garde à vous ! j'ai vu de loin sourire les ennemis de notre patrie, au récit des revers que la seule scéleratesse des Triumvirs nous a fait éprouver ; mais mes amis, prenez courage, triple moustache d'un petit bouhomme de bois !</p>
+        <pb n="2"/>
+        <p>mon grand oncle, le fameux NOSTRADAMUS, ne s'est jamais trompé dans ses prédictions, (honneur et gloire soit rendue au grand homme), il m'a laissé, en mourant, tous ses secrets pour lire à Livre ouvert dans le cœur humain : Oui, mes amis les républicains de tous les départements, écoutez, et frémissez d'horreur ! que chacun apprête son rin-tin-tin, le mien est prêt, triple moustache d'un bon hussard, pour exterminer toute l'infernale clique, (soit dit sans médire) ; anglico-russo, autrichienne ; si elle s'avise jamais de mettre les pattes sur notre territoire, où qu'elle veuille seulement, morbleu, essayer de nous manigancer le moindre boucan dans l'intérieur..... je vous vois rire d'ici, mes fricassauds, avec vos laides figures, vous avez l'air en relevant vos grosses lèvres, et en secouant vos mesquines têtes, de vous amuser de mes prédictions : eh bien ! mes cousins de loin, (soit entre deux parenthèses), rira bien qui rira le dernier, c'est un vieux proverbe de mon village, qui se vérifiera, ventrebleu ! comme je l'annonce ; vous avez mis dans votre calcul que les vrais républicains ces fameux lurons, mes amis, qui haïssent toute espèce de tyranie, étoient des fesse-MATHIEU, qui se laissoient abattre par le malheur, eh bien soit dit sans vous déplair, vous n'avez jamais connu ces braves, il faut les examiner (mille et une bombarde), dans les dangers : c'est-là qu'on voit les hommes, ah mordieu ! vous croyez, lâches ennemis de la France, nous maquignonner à votre aise : eh bien, paroissez. Nous jurons de vous prendre mesures d'escarpins et de vous tailler des croupières ; essayez de souiller le sol de la Liberté, et vous verrez si nous sommes des bougres à
+<pb n="3"/>
+tenir parole. Ah, ah, hé, hé, oh, oh ! Messieurs les Anglico, Russo-Autrichiens, vous vous  pavanez déjà, vos sensibles cœurs, vos bonnes ames savourent d'avance le doux plaisir de voir chaque Français attelé à une charrue, inonder la terre de ses larmes et de ses sueurs. Quelle jouissance ! quel moment délicieux, pour votre humanité, de nous relever à coups de fouet et de bâton, lorsque nous nous laisserions tomber, accablés par la faim et la fatigue. A ce récit je vous vois sourir, mes plats jean-fout es : comme votre front seroit encore plus serein, si, vous pouviez voir ces dignes Représentans, ces fameux Législateurs, tel que Lucien Bonaparte, digne frère de ce sage et vaillant héros, la terreur et l'admiration de tout l'Univers, pendus et  étranglés à vos yeux en place de Grève, pour avoir osé, (bravant la scélératesse, et déjoué les belles menées de Merlino suspect, 17 septembre, et de ses dignes associés) dire au peuple, voilà les fripons qui sont la cause de tous nos maux ; ce sont ces vauriens qui ont fait égorger nos frères, destitués nos bons généraux, pour les remplacer par des ivrognes, des imbeciles, des voleurs et des plats jean-foutres qui leurs étoient vendus ; ce sont eux qui ont épuisé le trésor public, qui ont cherché 'a avilir la Représentation Nationale ; ce sont ces monstres qui avoient formé l'infâme projet de faire arrêter les Représentans du peuple qui ont montré de l'énergie, de les déporter, et de foutre la pelle au cul aux autres, afin de s'approprier toute puissance.</p>
+        <p>Mais grace au ciel et au courage de nos braves Représentans, messieurs les Triumvirs,
+<pb n="4"/>
+vous voilà donc à veau-l'eau pour notre bonheur : et mille bombe, à votre grand regret ; mais morbleu, Représentans le petit neveu Nostradamus doit vous avertir que ce n'est pas assez que d'avoir renverse le trône Triumviral, il n'est pas un Français qui ne soit intimement convaincu, et ils ont parbleu raison, qu'il existe de grands coupables : la loi est la même partout, soit qu'elle protège, soit qu'elle punisse. C'est donc dans la circonstance avantageuse où nous nous trouvons, que vous devez déployer la plus grande énergie et poursuivre le crime dans tous les antres où il se cache, pour méditer de nouveaux forfaits. Oui : lâches tyrans, Ministres infidèles, vils fripons , tas de voleurs, d'égorgeurs..... Tremblez, le petit neveu de Nostradamus, qui ne se trompe jamais, vous annonce que le jour de la justice et de la vengeance nationale est arrivé..... Ni or, ni argent, ni protections ne sauroient vous soustraire à ses coups.</p>
+        <p>Républicains, mes amis, gard à vous, je le répète, l'on conspire contre la République. Que chacun de vous s'arme de son rin-tin-tin pour voler au premier signal où les dangers de la patrie l'appelleront. C'est alors que vous verrez beaux jeux, tas de plats jean-foutres qui demandez à grands cris un maître, et qui voulez nous en donner un .....</p>
+        <p>Républicains, mes amis, je vois avec mes lorgnettes tous ses fesses-matieux d'aristocrates se visiter l'un l'autre, rire à gorge déployé lors-qu'ils apprennent que nous avons essuyez quelques revers.... Mille bombes : tonnerre et demi, que ne les voyez-vous comme moi courir, se
+<pb n="5"/>
+démener de toute manière pour nous manigancer quelques coups fourrés de leurs façons. Ils grossissent nos pertes, nos dangers pour intimider les foibles, décourager les Conscrits. Les bonnes ames promettent leur protection à un tas d'imbéciles qu'ils ont effrayés par leurs fables. S'ils veulent se prononcer pour le bon parti , c'est-à-dire, pour la chienne de cause royale. Aussi il ne faut pas être surpris si des noyaux de nouvelles Vendée sont déjà organisés dans plusieurs Départemens, et si la rébellion, le meurtre, le massacre, les assassinats royaux sont prêts à s'organiser dan toute la République.</p>
+        <p>Mille bombe, triple bombarde, tout mon corps s'érisse, mon sourcil se fronce, mon sang s'enflamme : non, morbleu, non, il n'est plus de salut républicains, si nous ne nous réunissons, notre perte est certaine. Déjà le Midi est souillé par les lâches satellites de Louis XVIII. Oui, Messieurs les bougres, vous vous foutez des tons de crier tout haut : vive l'esclavage, vive l'archiduc Charles, tas d'imbéciles, de fanatiques et et de brigands, vous insultez , vous assassinez les pauvres bougres de Républicains isolément ; allez, allez, on veux vous foutre une salade sans sel ni oignons, dont vous vous souviendrez long-temps. Français, mes amis, ô vous tous braves lurons qui avez résolus de vivre libre, voilà le moment où il faut se rallier, au diable tous les peureux, qu'ils prennent le large comme le chien de Jean de Nivel, et qu'ils nous laissent en repos. C'est nous, braves Républicains, qui devons sauver notre Patrie : oui, mille bombe, tonnerre et
+<pb n="6"/>
+demi, je jure par ma pipe et mes lunettes que nous serons libre si nous le voulons.</p>
+        <p>Républicains, mes amis, mes voisins, imitons ces bons bougres du Département du Puy-de-Dôme, ces descendans de ces fameux Gaulois qui foutirent de si jolies tournées à César et à toute son armée. Ah ! mille bombes, messieurs les Muscadins de Lyon, vous devez vous rappeler de la descente des rochers du Puy-de-Dôme dans le faubourg de Veze , lorsque vous vous avisâtes de vous révolter pour nous fouttre un maître. Aujourd'hui ces mêmes Républicains, ces fameux bougres qui ont foutu Lyon à la raison une foi, viennent de se rallier et de jurer tous ensemble d'exterminer tous nos ennemis s'ils s'avisent de souiller le sol de la République de leur hydeuse présence. Hé bien ! messieurs les chouans, les compagnons de Jésus et du Soleil, retournez dans le département du Puy-de-Dôme assassiner les Gendarmes et voler la recette comme vous l'avez fait, plats coquins, il n'y a pas longtemps, on vous y attend, on vous fera courrir encore plus vite que la première fois.</p>
+        <p>Parisiens, et vous surtout fameux bougres des Faubourgs, reprenez cette attitude fière, cette héroïque énergie que vous avez montrez au commencement de la Révolution. Triple moustaches, mes amis, il n'y a plus à tortiller des fesses, il faut montrer les dents à l'infernale clique Anglico-Russe-Autrichien, ou devenir ses esclaves, et porter en plat couyons vos têtes sous leur fer assassin. Triple bombe, tonnerre et demi, comment mes camarades, vous pourriez voir, en plats jean-foutres, égorger vos femmes, vos enfans,
+<pb n="7"/>
+violer vos filles, piller, brÛler vos maisons : non morbleu, non, je vois vos cœurs frisonner de rage à ce récit cruel. Oui, quoique quelques brigands, foutre, ils sont connus, aient été ingrats à votre égard, la République vous est toujours chère, vous ne lui imputez pas les crimes de quelques scélérats, vous la défendrez ; oui, triple nom d'un escadron, on vous attends, messieurs les Russes, vous verrez bientôt de quel bois se chauffent ces fameux lurons des Faubourgs.</p>
+        <p>Mes amis, les Républicains de tous les Départmens, du courage, de l'énergie, tous les brigands se sont coalisés pour foutre la République en déroute ; mes amis rassurez-vous, tous les efforts de cette clique infeinale seront anéantis, la liberté triomphera, et le temps n'est pas éloignés où nous pouvons tous goÛter à l'ombre des oliviers de la paix et au sein de l'abondance, les fruits de tous les sacrifices que nous avons faits pour conquérir notre liberté.</p>
+        <p>Adieu mes amis, mes cousins, je vous souhaite le bon jour pour aujourd'hui, je vais braquer mes lunettes sur ce scélérat de Schérer, sur ce vil caméleon, qui étant major dans une légion Brabançone, livra plusieurs postes aux Autrichiens, passa ensuite chez l'ennemi pour recevoir le fruit ces honteuses trahisons, vint en France au commencement de la révolution pour nous diviser et nous trahir, fut l'ami, l'espion des émigrés le persécuteur des officiers patriotes. Enfin, le lâche qui le croiroit, il changea en 1793 de forme et de figure pour mieux nous tromper et nous trahir. II se livra à tous les excès révolutionnaires. Nommé Ministre de la guerre par l'intrigue de Rapinat,
+<pb n="8"/>
+de Revvbel, ce monstre entrava la marche des généraux patriotes, persécuta l'immortel Hoche, que dis-je, il te persécuta, il jura ton trepas. Retenez ma fureur jusqu'au moment où mes lorgnettes aurons pu trouver dans les entrailles de malheureux Hoche les causes de son trépas..... Exécrable, cruel barbare et ambitieux Schérer, tremble, il ne me faudroit pas trente-six chandelles pour analyser ta conduite : le même Républicain qui t'a démasqué en 1794 aux yeux de tous les habitans d'Uningue, dévoilera aujourd'hui les moyens inique que tu as employé pour dilapider le trésor public ; il prouvera à toute la France que, d'accord avec des fournisseurs aux fripons que toi, tu acceptoit leur soumission tandis que tu réfusoit celles de l'homme honnête qui se présentoit pour fournir, à nos braves défenseurs ce dont ils avoient besoin, à 50 p. 100 de meilleur marché que les premiers. Vas, lâche fripon, si tu as partagé nos dépouilles avec des hommes aussi pervers que toi, tremble, le jour de la vengeance est arrivé, le sang de nos braves frères d'armes que tu as fait égorger en Italie, celui de ces braves et malheureux Polonais qui tu as impitoyablement livré aux poignads Russo-Autrichien, demande vengeance : le momemt à la justice est arrivé.</p>
+        <p>Demain Schérer tu m'entendra ; si tous Républicains doit désirer de trouver des innocents, la patrie lui fait un devoir de dénoncer les Coupables.</p>
+      </div1>
+    </body>
+    <back xml:id="nostra_1003">
+      <docAuthor>GUILLAUME</docAuthor>
+    
+    <!-- <div1 id="nostra_figures">
+<p><figure entity="nostra01" n="1"><figDesc>Image of page 1</figDesc></figure></p>
+<p><figure entity="nostra02" n="2"><figDesc>Image of page 2</figDesc></figure></p>
+<p><figure entity="nostra03" n="3"><figDesc>Image of page 3</figDesc></figure></p>
+<p><figure entity="nostra04" n="4"><figDesc>Image of page 4</figDesc></figure></p>
+<p><figure entity="nostra05" n="5"><figDesc>Image of page 5</figDesc></figure></p>
+<p><figure entity="nostra06" n="6"><figDesc>Image of page 6</figDesc></figure></p>
+<p><figure entity="nostra07" n="7"><figDesc>Image of page 7</figDesc></figure></p>
+<p><figure entity="nostra08" n="8"><figDesc>Image of page 8</figDesc></figure></p>\
+</div1> -->
+      </back>
+  </text>
+</TEI>

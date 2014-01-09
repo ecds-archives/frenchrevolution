@@ -1,0 +1,15 @@
+<dc xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:dcterms="http://purl.org/dc/terms/">
+  <dc:title>French Revolution Pamphlet Collection</dc:title>
+  <dc:identifier>http://beck.library.emory.edu/frenchrevolution/</dc:identifier>
+  <dc:contributor>Lewis H. Beck Center for Electronic Collections &amp; Services.</dc:contributor>
+  <dc:contributor>Manuscript, Archives, and Rare Book Library, Emory University.</dc:contributor>
+  <dc:contributor>Texts compiled and edited by Michael Kazanjian</dc:contributor>
+  <dc:publisher>Lewis H. Beck Center, Emory University. 2002: Atlanta, Georgia 30322.</dc:publisher>
+  <dc:description>These text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H.  Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</dc:description>
+  <dc:language>English</dc:language>
+  <dc:language>French</dc:language>
+  <dc:subject scheme="DCTERMS.LCSH">France--History--Revolution, 1789-1799--Pamphlets.</dc:subject>
+  <dc:subject scheme="DCTERMS.LCSH">France--Politics and government--1789-1799.</dc:subject>
+  <dc:type>Text</dc:type>
+  <dc:format>text/xml</dc:format>
+</dc>

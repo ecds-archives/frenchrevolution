@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% if pamphlet %}
+  {% if format %}
+    {{ format|safe }}
+  {% else %}
+    <p>No format</p>
+  {% endif %}
+{% else %}
+    <p>Nothing found</p>
+{% endif %}
+
+{% endblock %}

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rablu_1005">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title> Lettre de l'honorable Jean Rablu: electronic edition</title>
+        <author>anonymous</author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name xml:id="MK">Michael Kazanjian</name>
+        <name/></respStmt>
+      </titleStmt>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia  30322</addrLine>
+        </address><availability>
+          <p>2002 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</p>
+        </availability><date>2002</date><idno type="ark">http://pid.emory.edu/ark:/25593/101</idno></publicationStmt>
+      <seriesStmt>
+        <title>French Revolution Pamphlet Collection</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title>Lettre de l'honorable Jean Rablu.</title>
+          <pubPlace>Paris?</pubPlace>
+          <date>1790</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p>This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</p>
+        <p>Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>In the original text, the sentence marked by the marker "l" appears in the notes as both "i" and "l".  Also, footnotes "j" and "k" do not exist.  I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling.  I also omitted page signatures: A2 from p. 3, A3 from p. 5, and A4 from p. 7.  For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</p>
+      </editorialDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <date>1790</date>
+      </creation>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>2002</date><label>staff</label><name>Michael Kazanjian</name>Sgml tags inserted in compliance with TEI guidelines using TEI P3</change></revisionDesc></teiHeader>
+  <text xml:id="rablu_1004">
+    <front xml:id="rablu_1001">
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Lettre de l'Honorable Jean Rablu, Maitre Crocheteur, et Caporal-Major de la Milice de Céna, a l'Honorable Pierre Tubeuf, Garçon Boucher de Poissy.</titlePart>
+        </docTitle>
+        <docAuthor>Anonymous.</docAuthor>
+        <docDate>1790.</docDate>
+        <pb n="1"/>
+        <epigraph>
+          <q>
+            <l>
+              <hi rend="italic">Les premiers seront les derniers,</hi>
+            </l>
+            <l>
+              <hi rend="italic"> Et les derniers seront les premiers.</hi>
+            </l>
+          </q>
+          <bibl> Evangile sélon S. Luc.</bibl>
+          <p rend="rule center"/>
+        </epigraph>
+        <docDate>1790</docDate>
+      </titlePage>
+      <div1 xml:id="rablu_editorial" type="Note_de_l_Éditeur">
+        <pb n="2"/>
+        <p>QUATRE LIGNÉS<lb/>
+DE L'ÉDITEUR.<lb/><hi rend="italic"> Il y a quelque temps que cette lettre me fut communiquée par l'honorable Jean Rablu, qui me fait l'honneur de me protéger un peu. J'en ai été si frappé, que je l'ai engagé à la rendre publique ; j'y ai seulement ajouté quelques notes pour les amateurs, &amp; je profite de l'occasion pour offrir mes respectueux hommages à tous les honorables camarades de Jean Rablu, qui, comme on fait, menent la brouette de Céna.</hi></p>
+      </div1>
+    </front>
+    <body xml:id="rablu_1002">
+      <div1 xml:id="rablu_01" type="misc">
+        <pb n="3"/>
+        <p>LETTRE DE L'HONORABLE JEAN RABLU,<lb/><hi rend="italic"> Maître Crocheteur, &amp; Caporal-Major de la
+Milice de Céna,</hi><lb/>
+A L'HONORABLE PIERRE TUBEUF,<lb/><hi rend="italic"> Garçon Boucher à Poissi.</hi></p>
+        <p>Eh ! bon jour notre ami Tubeuf ; comment va la joie ? à merveille chez moi, gai comme pinson ; je ne pese pas une once depuis que je suis de la Nation. <ref target="#rablu_notea">(a)</ref> Vive la liberté, morbleu ! vivent les enfants de la Balle ! Je vous salue, honorables personnes, Garçons Bouchers, Brouettiers, Crocheteurs, porte-chaises, Marchands de Merlans, &amp;c. ; sans<pb n="4"/>
+vous oublier, Dames de la Halle, qui vous êtes si bien montrées. A genoux, mes amis, &amp; remercions 89. Il y a six mois que nous n'étions rien ici ; à présent nous sommes tout : nous voilà devenus Comtes, Marquis, Barons ; nous avons droit de chasse, de pêche, de colombier, &amp; nous prenons notre revanche avec ces gens à parchemins, qui faisoient toujours blanc de leur épée, &amp; nous traitoient de Turc à More. La corde étoit trop tendue, Tubeuf, il falloit bien qu'elle cassât ; chacun à son tour dans ce monde ; entendez-vous les Aristocrates ? c'est Jean Rablu qui vous le dit, le Capitan Rablu !qui est remonté sur sa bête, &amp; qui vous chante ce petit air :</p>
+        <lg type="stanza">
+          <l>Je vous méprise, </l>
+          <l>Et le vous prise, </l>
+          <l>Moins qu'une prise</l>
+          <l>De tabac.</l>
+        </lg>
+        <p>Répete, Tubeuf.</p>
+        <p>Il y a mille ans que tu dois venir à Céna. Eh ! arrive donc ; tu me verras dans toute ma gloire. Oh ! comme tu seras ébahi ! comme tu ouvriras tes grandes oreilles , lorsque
+<pb n="5"/>
+qu'entre la poire &amp; le fromage, le pied sur les chenets, le coude sur la table, je te raconterai nos exploits, car, tiens, ce n'est pas pour nous vanter, mais <hi rend="italic"> c'est à nous seuls que Céna doit toute sa bonne renomée,</hi> nous y avons tout culbuté, tout refondu ; nous en avons tellement changé la face, qu'on n'y reconnoît plus rien : bref, nous avons fait des choses ! des choses qui passent toute croyance ; <ref target="#rablu_noteb">(b)</ref> on en parlera long-temps. Ils en ont tous été si ébaubis, qu'ils en font demeurés les bras pendants, la bouche béante, comme des statues d'<hi rend="italic"> in exitu.</hi> Ils nous ont regardé faire, &amp; n'oseroient plus souffler le mot. Eh ! ma foi il n'y feroit pas bon, <ref target="#rablu_notec">(c)</ref> nous avons le haut du pavé, nous tenons la queue de la poële, &amp; c'est nous qui faisons la pluie &amp; le beau temps.</p>
+        <p>La police est au diable. Nous avons détroussé le Général, &amp; l'avons envoyé paître avec ses quatre renards, <ref target="#rablu_noted">(d)</ref> qui n'ayant plus rien à croquer font carême &amp; vivent de régime. Leurs robes sont chez les Frippiers, en attendant celles des Avocats &amp; des Procureurs ; car la bonne Dame Justice est bien malade, &amp; ses vieilles balances ne servent
+<pb n="6"/>
+plus que pour quelques petites affaires de chicane que nous lui laissons par charité. Tout le reste est sur nos crochets, &amp; nous faisons ce qu'on appelle la grande police &amp; l'almanach du Comité. Tu ne fais pas ce qu'on entend par ce mot <hi rend="italic"> Comité</hi> ? ni moi non plus, ni personne. C'est un tas de gens pris de tous côtés, qui se sont assemblés, je ne sais comment, qui jugent je ne sais quoi, &amp; à qui l'on obéit je ne sais quand. Le plus comique de tous les Comités est bien celui de Céna, <ref target="#rablu_notee">(e)</ref> &amp; quand ils sont réunis, je les défie de se regarder sans rire. Ce Comité est une girouette dont nous sommes les vents : nous le menons d'un leste ! &amp; nous lui disons : allez-là, &amp; il y va : faites ceci, &amp; il le fait ; &amp; malheur à lui s'il regimboit, nous le casserions net comme un verre. Il y a quelques mois que le drôle y fut pris, <ref target="#rablu_notef">(f)</ref> il fut obligé de grimper sur le toit comme un chat, &amp; de se sauver par les gouttieres. Notre maniere d'agir est toute simple. Nous ne nous amusons pas à faire de belles phrases ; nous mettons un canon à la place d'un raisonnement ; nous nous présentons tambour battant , méche
+<pb n="7"/>
+allumée , &amp; nous n'avons que trois mots à la bouche, <hi rend="italic"> Nation, Liberté, Réverbere :</hi> ces trois mots bien appliqués sont des prodiges, c'est comme une baguette de sorcier.</p>
+        <p>Attention, Tubeuf, sois toute oreille. J'ai à te parler de notre belle Milice perlim-pinpin, dont nous sommes la cheville ouvriere. Oh ! mon ami, quelle milice ! il n'y en a pas de pareille en France, &amp; il n'y en aura jamais. Il faut la voir, c'est la piece curieuse.</p>
+        <p>Exceptons parmi les épaulettes, quelques Messieurs qui ne font pas tout-à-fait de notre genre, <ref target="#rablu_noteg">(g)</ref> mais que par honnêteté nous n'avons pas voulu éconduire : tout le reste est bien, admirablement bien. Nous y avons poussé tous nos parents, tous nos amis <ref target="#rablu_noteh">(h).</ref> Moi, je ne suis que Caporal-Major ; Officier demain si je vouloir tinter ; mais j'aime mieux mon poste, à cause du pot au feu ; &amp; puis ce sont les Caporaux qui donnent le branle à tout. C'est-là, mon ami, qu'on peut voir le grand effet de la révolution ! tout y eft pêle-mêle, &amp; c'est une merveille de voir l'habit bleu, l'épaulette &amp; l'épée au derriere à tel homme qui vient de vous
+<pb n="8"/>
+faire la barbe, de faire rôtir votre poulet, de vous verser une bavaroise, de vous prendre la mesure d'une culotte<ref target="#rablu_notei">(i)</ref> ou d'une paire de souliers <ref target="#rablu_notel">(l)</ref> Eh bien ! à la parade cela ne se reconnoît plus ; il semble que ce soient d'autres gens. Je conviendrai cependant que parmi ces maîtres Jacques, tout franchement mis au bleu, il y en a quelques-uns qui ont l'air un peu neufs, un peu gauches, même commé sortant de leur coque ; mais, patience, tout vient avec le temps, &amp; dans une soixantaine d'années, je réponds qu'ils seront presque tous d'excellents mililitaires. Tu aime à rire, Tubeuf, moi de même ; ainsi , à propos de ces gens tout neufs, je vais te régaler d'une petite histoire. J'étois un de ces matins chez un ancien ami , Rôtisseur depuis trente ans, &amp; Officier depuis deux jours. C'étoit un grand jour pour lui, jour de garde &amp; de cuisson. En attendant la parade, il étoit devant sa cheminée dans son costume de léchefrite, arrosant, quelques pieces de viande qui tournoient lentement ; dans un coin de la cuisine étoit une petite broche de remplacement , &amp; tout à côté reposoit sa rapiere, fabriquée du
+<pb n="9"/>
+temps de Charlemagne, &amp; de la longueur de la broche. Elle sortoit du garde-meuble d'un Frippier, qui i'avoit tout récemment troquée avec lui contre un canard.</p>
+        <p>La parade arrive, &amp; voilà mon homme qui quitte l'arrosoir endosse l'habit bleu, arbore la cocarde, attache le hosse-col &amp; passe le baudrier ; il ne lui manquoit que l'épée pour étre armé de pied-en-cap. Il se méconnoissoit déjà ; mais il eut beau se prendre pour un guerrier, le naturel revint au galop, &amp; le cuisinier reparut. Au moment de se saisir de sa redoutable flamberge, il se trompe de lamme, empoigne la brochette, la passe dans le baudrier, &amp; sort. Fort heuresement pour lui, je me trouve à sa rencontre ; des éclats de rire, à me fendre le crâne, l'éveille comme en sursaut ; il se contemple, apperçoit la méprise, rentre brusquement chez lui, se désembroche, &amp; ressort enfin la rapiere au côté, au grand désagrément des rieurs de Céna, qui regretteront long-temps de ne l'avoir pas vu à la parade, armé de maniere à faire trembler la volaille.</p>
+        <p>Revenons bien vite à nos moutons de la
+<pb n="10"/>
+milice perlimpinpin, je ne me lasse point d'en parler. Tu ne saurois croire quel zèle nous y mettons, quelle importance, quelle dignité ; une noble fierté même, que les gens qui ne s'y connoissent pas prennent pour de l'insolence. Quand il est question du service, nous ne respectons rien, &amp; il falloit nous voir dans nos belles campagnes, contre les granges, entrant chez le Fermier, comme chez l'ennemi , le sabre à la main, la mine haute, l'air de Sacripans &amp; de Rodomonts, déclarant la guerre.... à des facs de bled. Nosseigneurs de l'Assemblée, un petit mot, s'il vous plaît ; nous comptons ma foi bien que vous aurez égard à tant de services, &amp; que vous nous sanctionnerez pour nos étrennes ; vous sçavez que nous sommes un peu bâtards, &amp; que pour nous êtablir, nous avons été obligés d'étrangler toutes les formes ; n'allez pas au moins nous soussler au manche. La gloire est une belle chose, Nosseigneurs, mais toute seule, c'est une viande bien creuse.</p>
+        <p>Nous avons, Tubeuf, les plus beaux projets du monde, nous voulons mettre cette Milice sur le plus grand pied de la guerre.
+<pb n="11"/>
+Exercice soir &amp; matin, inspection tous les Dimanches &amp; exercice à feu ; grande revue tous les quinze jours, &amp; puis les parafernaux : Colonel-Général, Colonel-Commandant, Colonel-Lieutenant, quatre Lieutenant-Cololonels, six Majors, douze Adjudents, grand Commissaire, Inspecteurs, enfin, toutes les prétentailles. Je suis chargé de montrer l'exercice à tout cela. Ce printemps il y aura un camp, j'en faute d'aise quand j'y pense. Ah! Tubeuf, quel beau coup-d'œil que cela fera. En attendant, il y a un très-beau Réglement sur le chantier militaire, c'est un homme très-connu qui s'en mêle, M. <hi rend="italic"> Buche,</hi> Membredu Comité ; ce Règlement sera fait dans le goÛt de celui de Rouen <ref target="#rablu_notem">(m)</ref> fabriqué par MM. <hi rend="italic"> Butord, Lourdis, Faquinville &amp; compagnie,</hi> qui depuis quelques mois sont le pivot de la Ville ; ce sera le Catéchisme de nos Soldats. Ils ont la tête si dure ! Je crois que nous ferons obligés d'en expédier quelques douzaines, pour servir d'exemple aux autres, car le Service se ralentit, la discipline se perd. Dans les commencements, c'étoit une rage que cette Garde, une maladie épidémique : tout nouveau tout beau. L'hyver
+<pb n="12"/>
+est venu , &amp; a mis de l'eau dans le vin bourgeois ; ils alloient comme des lévriers &amp; ne vont plus que comme des écrevisses :mais voici une bonne recette pour leur dégourdir les jambes <ref target="#rablu_noten">(n).</ref> Nous allons les trouver au nombre d'une demi-douzaine ; nous enfonçons la porte, nous nous jettons tous ensemble sur notre homme, nous le happons au collet &amp; le menons à la Garde, par les oreilles. A la fin nous en viendrons à bout, &amp; nous ferons jouer toutes nos machines, pour ratifer le feu &amp; soutenir ce bel édifice. C'est le Comité qui en est la grue : &amp; nous venous de l'embabouïner encore ; &amp; coup sur coup nous lui avons soufflé dans l'oreille deux terribles Décrets, qu'il faut lire pour s'en faire une idée. C'est aussi beau que Barbe-bleue : quelques impertinents prétendent qu'il n'y a pas le sens commun <ref target="#rablu_noteo">(o),</ref> que c'est de la bouillie pour les chats ; que ces gens du Comité sont des intrus qui n'ont ni principes ni mission, &amp; qu'il ne leur convient pas de monter sur de si grands chevaux.... Tout cela m'est fort égal, pourvu que la besogne se fasse &amp; que l'eau vienne au moulin ; ou le mousquet sur l'épaule, ou un petit écu,
+<pb n="13"/>
+&amp; ce petit écu tombera en grande partie dans notre gousset, car nous soummes abonnés à vingt-quatre sols par homme <ref target="#rablu_notep">(p).</ref> Les honnêtes tiens ne sont point taxés, mais rien à moins d'un petit écu ; &amp; criez tant que vous voudrez, nos bons amis les Aristocrates, écrivez, imprimez, pour tâcher de nous couler à fonds. Parole en l'air, papier perdu, du canon pour vous répondre, des culottes de liége à notre service : &amp; toujours mon refrain.</p>
+        <p rend="rule center"/>
+        <lg type="stanza">
+          <l>Je vous méprise</l>
+          <l>Et je vous prise</l>
+          <l>Moins qu'une prise</l>
+          <l>De tabac. </l>
+        </lg>
+        <p>Toujours <hi rend="italic"> chorus,</hi>Tubeuf ; ce petit air me plaît infiniment.</p>
+        <p>Je dirai par parenthése, que nos habits bleus ne nous coutent pas un sol, ce sont les Canonniers Gardes-Côtes qui nous ont habillés. Leurs habits , qu'ils ne portoient que quelques jours par an, d'périssioient au magasin ; de peur que le ver ne s'y mette, nous les portons. Autant d'épargne pour la ville qui auroit été obligée d'habiller la plus grande
+<pb n="14"/>
+partie de nos camarades, gueux comme des rats d'Eglise, &amp; dont le derriere demandoit la charité. Cette prise d'habit est une excellente idée, dont on m'a fait honneur dans le monde ; mais pourquoi se parer des plumes du paon ? A tout Seigneur tout honneur ; ainsi j'avouerai que c'est un nouveau trait de génie de notre, Major <hi rend="italic"> Soliveau </hi><ref target="#rablu_noteq">(q),</ref> bonne tête, s'il en fÛt jamais ; brave comme un César, de l'esprit comme un livre, &amp; sachant la tactique comme la Coutume. Si tu veux un couple d'habits bleus, tu n'as qu'à parler ; j'en ai attrappé une pacotille, &amp; me voilà habillé pour la vie.
+J'ai aussi des carottes de tabac à ton service, car mes amis &amp; moi nous nous sommes chargés d'en fournir la Ville, ainsi que de sel. Nous avons prévenu l'intention de l'assemblée Nationale, qui, dit-on, doit simplifier les Impôts &amp; rendre le sel &amp; le tabac marchands. Nous vendons publiquement le sel six liards la livre, <ref target="#rablu_noter">(r)</ref> &amp; le tabac tout rapé trente sols, &amp; du bon ; si tu en prends un certain nombre de livres , je te le passerai à vingt-huit sols, parce que c'est toi ; tu vois que l'Etat nous a de grandes obligations,
+<pb n="15"/>
+&amp; que si cela continue &amp; que par-tout on nous imite, les dettes seront bientôt payées,</p>
+        <p>Adrien Tubeuf, j'aurois encore mille choses à te dire ; mais je garde cela pour une autre Epître qui ne tardera pas. Il faut que j'aille au Comité. Je finirai la présente par te demander un petit service ; tu vas toutes les semaines à Paris : passe, je te prie, chez un certain M. <hi rend="italic"> Gorsas,</hi> qui demeure rue Galande. C'est lui qui fait le Courier, &amp; je lis ce Courier tous les jours, depuis que je me mêle des affaires publiques. Il y a quelque temps, j'y ai vu une infàme lettre signée, J.J. <hi rend="italic">Cadom</hi> ; se disant journalier de Céna ; &amp; demeurant rue Saint-Jean. Ce coquin nous traite d'Aristocrates, &amp; se donne le bal à nos dépens ; nous avons couru sur le champ dans la rue pour en faire bonne justice, &amp; point de J.J. <hi rend="italic">Cadom,</hi>  nous avons arpenté toute la Ville, demandant à tout le monde : ne connoissez-vous pas J.J. <hi rend="italic">Cadom</hi>, journalier de Céna ? &amp; point de J.J. <hi rend="italic">Cadom.</hi> Le frippon a pris un nom de contrebande pour nous attrapper, mais, patience, nous le déterrerons, nos furets sont en campagne. Toi, tâche d'en avoir quelque révélation par ce bon M. Gorsas &amp; de lui tirer les vers du nez ; tu nous feras
+<pb n="16"/>
+un grand coup ; nous avons à l'Hôtel-de-Ville un très-beau réverbere, qui n'a pas encore étrenné ; il ne manque plus que cela à notre gloire. Tubeuf ! nous n'avons encore pendu personne !</p>
+        <p>Adieu, l'ami ; donne-nous de tes nouvelles ; tout à toi ; je t'embrasse au nom de la Nation.</p>
+        <signed>JEAN RABLU, avec paraphe.</signed>
+      </div1>
+      <div1 xml:id="rablu_postscript" type="P.S.">
+        <p>P. S.  Mon fils qui a fait un petit brin d'études, &amp; qui depuis la révolution me sert de Secrétaire, te fait bien ses complimens ; c'est un gars qui ne manque pas d'esprit : s'il continue, &amp; que les choses ne changent pas, je le pousserai dans le ministere.</p>
+        <p>J'oubliois parbleu de te dire que nous avons reçu ces jours passés parmi dés hausse-cols, M. <unclear><hi rend="italic">Moka</hi></unclear><ref target="#rablu_notet">(s)</ref> mon beau frere, galant homme, qui a fait ses premieres armes dans le Régiment du Roi, &amp; qui a fait une petite fortune par les grands services qu'il a rendus. Il est le seul qui les ait oubliés ; &amp; quand tu viendras a Céna, je te le recommande, comme faisant d'excellent café ; je te demande aussi ta pratique pour le Capitaine <hi rend="italic">Toupet, </hi>mon cousin Remué de germain ; il raze très proprement, &amp;
+a un grand air sous les armes.  NOTES</p>
+      </div1>
+    </body>
+    <back xml:id="rablu_1003">
+      <div1 xml:id="rablu_notes" type="Notes">
+        <head> NOTES TRÈS-INTÉRESSANTES.</head>
+        <pb n="17"/>
+        <note anchored="true" xml:id="rablu_notea" n="a">
+          <p>
+            <hi rend="bold">(a)</hi>
+            <hi rend="italic"> Depuis que je suis de la Nation.</hi>
+          </p>
+          <p><hi rend="italic">Nation, </hi> grand mot qui retentit dans toutes les bouches, &amp; qu'on emploie à tout, ainsi que celui de liberté ; ils sont comme les effets publics, ils haussent ou baissent sélon les agioteurs.</p>
+        </note>
+        <note anchored="true" xml:id="rablu_noteb" n="b">
+          <p>
+            <hi rend="bold">(b)</hi>
+            <hi rend="italic"> Qui passoit toute croyance. </hi>
+          </p>
+          <p>Comme a dit quelque part le bon M. <hi rend="italic"> Gorsas, </hi> il n'y avoit que le bon Dieu qui pouvait sçavoir cela. L'honorable Rablu m'a avoué qu'il ne s'attendoit pas à tant d'honneurs, &amp; que si tous ceux qui pouvoient contrecarrer ses grandes opérations eussent bien voulu s'entendre, ils auroient donné du <hi rend="italic">fil </hi> à retordre à l'<hi rend="italic"> honorable bande, </hi> &amp; peut-être n'aurions-nous pas ce grand homme. Mais il sembloit qu'il avoit un esprit de vertige qui couroit toute la Ville : toutes les têtes étoient perdues ici comme ailleurs ; elles ne sont pas encore bien remises, &amp; l'on peut dire du bon sens comme de Malbroug,</p>
+          <q>On ne fait quand il reviendra.</q>
+        </note>
+        <note anchored="true" xml:id="rablu_notec" n="c">
+          <p>
+            <hi rend="bold">(c)</hi>
+            <hi rend="italic">Et, ma foi, il n'y seroit pas bon.</hi>
+          </p>
+          <p>Ceci me rappelle une petite aventure arrivée à un grand Orateur nommé M. de Saint S..... c'étoit lors de la bagarre du bled. M. de Saint S...... indigné se mit en devoir deharanguer la populace ; M. de Saint S.... disoit d'or ; mais au milieu d'une très-belle phrase, quelques voisines de M. de Saint s.... lui couperont la parole, &amp; lui <hi rend="italic">apostropherent</hi> une demi-douzaine de soufflets. M. de Saint S...... tout <hi rend="italic">éberlué,</hi> &amp; la mine toute rouge, dénicha bien vite, &amp; a juré que de sa vie il ne mettroit son nez dans de pareilles affaires.</p>
+        </note>
+        <pb n="18"/>
+        <note anchored="true" xml:id="rablu_noted" n="d">
+          <p>
+            <hi rend="bold">(d)</hi>
+            <hi rend="italic">Les quatre renards.</hi>
+          </p>
+          <p>Tout le monde sait qu'il y a quelques mois, la Police est morte subitement, &amp; que les quatre Conmmissaires ont été obligés de faire leurs paquets : c'est M. Bar.... de glorieuse mémoire qui en a hérité, &amp; qui a endossé les quatre robes.</p>
+        </note>
+        <note anchored="true" xml:id="rablu_notee" n="e">
+          <p>
+            <hi rend="bold">(e)</hi>
+            <hi rend="italic">Le plus cornique de tous Ics Comités ef bien celui de Céna.</hi>
+          </p>
+          <p>C'est un vrai pot-pourri. Calot y eÛt trouvé de quoi s exercer. Rendons cependant justice aux gens de bon sens &amp; de mérite, qui s'y sont trouvés ou qui s'y trouvent encore ; mais comme dit Virgile :</p>
+          <q>Apparent tari nantes in gurgite vasto.</q>
+          <p>Du reste, plat orgueil, imbécille entêtement, lourde sottise, craisse ignorance..... Voilà les voix au Chapitre, &amp; l'insolent Stentor qui crie le plus haut, est toujours sÛr d'avoir raison. On y diftingue entr'autres M. l'Apothicaire <hi rend="italic">Salourdin, </hi> qui, suivant le Décret de l'Assemblée, ne devroit être admis nulle part, attendu qu'il est banqueroutier : à la bonne heure qu'il ait la pratique du Comité, &amp; qu'il lui prête son petit ministere dans les fréquentes crises que ce pauvre Comité éprouve : mais que jamais il ne le regarde en face. Entendez-vous, <hi rend="italic">Salourdin ? </hi> Vous vous mêlez de tout, mon ami &amp; vous n'êtes bon à rien. Vous allez, vous venez, vous vous démenez, vous bourdonnez...... Sçavez-vous à quoi vous ressemblez ? à la mouche du coche.</p>
+        </note>
+        <note anchored="true" xml:id="rablu_notef" n="f">
+          <p>
+            <hi rend="bold">(f)</hi>
+            <hi rend="italic"> Il y a quelques mois que le drôle y fut pris.</hi>
+          </p>
+          <p>C'est à cette fameuse nuit du 12 <hi rend="italic"> Avril, </hi> &amp; c'est de tous les Comités celui qui a été le mieux composé ; mais il avoit eu le malheur de déplaire aux honorables camarades du grand Rablu : eh ! que répondre à du Canon ?</p>
+        </note>
+        <pb n="19"/>
+        <note anchored="true" xml:id="rablu_noteg" n="g">
+          <p>
+            <hi rend="bold">(g)</hi>
+            <hi rend="italic">Exceptons parmi les épaullettes quelques Messieurs qui ne sont pas de notre genre.</hi>
+          </p>
+          <p>Rablu a bien raison ; ces Messieurs devroient bien s'appercevoir qu'ils sont là fort déplacés, &amp; qu'ils déparent toute cette belle Milicie ; une partie s'est déjà rendu justice, &amp; est décampé ; le reste devroit bien en faire autant, &amp; profiter de la judicieuse réflexion de Rablu. Cela fait une si plaisante Caricature !</p>
+        </note>
+        <note anchored="true" xml:id="rablu_noteh" n="h">
+          <p>
+            <hi rend="bold">(h)</hi>
+            <hi rend="italic"> Nous y avons pensé ; tous nos parents, tous nos amis.......</hi>
+          </p>
+          <p>En admirant la composition de cette Milice, j'ai été un peu scandalisé d'y voir des banqueroutiers qui ne sont pas là plus de mise qu'au Comité ; cela répand une très-mauvaise odeur, &amp; suffit pour rendre tout illégal. Entr'autres personnages, nous citerons l'honnêté M. L. dont la <hi rend="italic">Barque</hi> a tant de fois fait naufrage, agioteur, insigne fabricateur de fausses lettres-de-change, &amp; qui a déjà eu quelques démêlés avec la Justice pour de fréquentes distractions qui lui font arrivées ; voilà, grand Dieu ! les hommes qu'on met à la tête d'honnêtes gens. Je n'ai pu m'empêcher d'en témoigner tout mon étonnement à J. R. qui m'a avoué que sa religion avoit été surprise ; mais m'a donné sa parole d'honneur qu'il feroit sauter ces faquins au premier jour.</p>
+        </note>
+        <note anchored="true" xml:id="rablu_notei" n="i">
+          <p>
+            <hi rend="bold">(i)</hi>
+            <hi rend="italic">La mesure d'une Culotte.</hi>
+          </p>
+          <p>Il y a un Tailleur dans l'État-Major ; il ne sçauroit être mieux placé.</p>
+        </note>
+        <note anchored="true" xml:id="rablu_notel" n="l">
+          <p>
+            <hi rend="bold">(l)</hi>
+            <hi rend="italic">D'une paire de Souliers.</hi>
+          </p>
+          <q>"Vous n'allez pas, disoit, il y a quelque-tems, à un de ses Soldats, le Capitain <hi rend="italic">Tirebotte</hi>..... pardon, mon Capitain  mais vous m'avez fait des soulliers si étroits, que je ne sçaurois marcher"</q>
+        </note>
+        <pb n="20"/>
+        <note anchored="true" xml:id="rablu_notem" n="m">
+          <p>
+            <hi rend="bold">(m)</hi>
+            <hi rend="italic">Ce réglement sera dans le goÛt de celui de Rouen.</hi>
+          </p>
+          <p>C'est un chef-d'¦uvre que ce règlement ! je travaille à le mettre en vers, pour rompre en visiere à certains plaisans qui prétendent qu'il n'a ni rime ni raison ; j'en ai déjà quatre-vingt couplets de faits, sur l'air : <hi rend="italic"> sans devant derriere, sans dessus dessous</hi> ; il m'en reste encore douze à faire ; car je consacre un couplet à chaque article. Quand j`aurai fini, j'immortaliserai chacun des 0fficiers. C'est dommage que le Colonel-Général, qui, au sortir de la coque, se croyoit déjà un Général d'Armée, n'ait pas réussi à avoir des <hi rend="italic">Aydes-de-Camp</hi>, comme il les demandoit ; j'aurois eu quelques Messieurs de plus à chansonner.</p>
+        </note>
+        <note anchored="true" xml:id="rablu_noten" n="n">
+          <p>
+            <hi rend="bold">(n)</hi>
+            <hi rend="italic"> Mais voici une bonne recette pour leur dégourdir les jambes. </hi>
+          </p>
+          <p>On assure que l'Assemblée Nationale a proscrit cette recette, quelque bonne qu'elle soit ; mais le grand Rablu qui n'a pas <hi rend="italic"> de froid aux yeux, </hi> doit en écrire à l'Assemblée, &amp; aller toujours son petit train.</p>
+        </note>
+        <note anchored="true" xml:id="rablu_noteo" n="o">
+          <p>
+            <hi rend="bold">(o)</hi>
+            <hi rend="italic"> Certains insolents prétendent qu'il n'y a pas le sens commun. </hi>
+          </p>
+          <p>Effectivement j'ai entendu dire à cet insolent, que cette Garde n est qu'un épouvantail de cheneviere ; que le poste du Comité est fort ridicule, puisque la troupe n'est qu'à un pas &amp; que le Comité, composé comme il est, ne vaut pas la peine d'être gardé, &amp; ne mérite pas le coup de fusil ; que le poste du Chateau est une sotte gloriole &amp; une desobéissance journaliere aux vues du Roi &amp; de l'Assemblée ;qu'on n'a tout au plus besoin de patrouille que le jour &amp; la nuit ; que le servce ne devroit être fait que par ceux qui peuvent se passer de leur travail, parce qu'il n'y a pas de garde qui ne coÛte deux journées au Soldat National, sans compter les autres frais, ce qui est une perte immense pour la Ville  que d'ailleurs<pb n="21"/>
+cette Milice, composée comme elle est, est un monstre qui ne peut exister, &amp; qu'il faut anéantir, comme illégal, illusoire &amp; tyrannique ; qu'enfin, en supposant la Milice Nationale utile , on ne peut en recueillir le fruit qu'autant que tout le monde se prêtera , &amp; que tout se sera de bonne amitié ; qu'on ne doit &amp; qu'on ne peut forcer personne, &amp; que tout Citoyen opprimé a le droit de réclamer aux pieds de la Justice contre les vexations qu'il éprouve, &amp;c., &amp;c., &amp;c., &amp; quatre pages. <hi rend="italic"> d'&amp; cetera........ </hi> grands mots que tout cela ! mais <hi rend="italic">paroles en l'air,</hi> comme dit le grand Rablu. II sçait bien à qui il a affaire ; ils crient contre le joug, &amp; tous baissent honteusement la tête. Je m'imagine voir le conseil des rats : aucun ne se presse d'attacher le grelot. Oh ! mes amis !</p>
+        </note>
+        <note anchored="true" xml:id="rablu_notep" n="p">
+          <p>
+            <hi rend="bold">(p)</hi>
+            <hi rend="italic"> Nous sommes abonnés à vingt-quatre sols par homme. </hi>
+          </p>
+          <p>On appelle ces gens-là des <hi rend="italic"> Locatis</hi> ; il est des jours ou presque toute la Garde en est composée, cela lui donne un grand air.</p>
+        </note>
+        <note anchored="true" xml:id="rablu_noteq" n="q">
+          <p>
+            <hi rend="bold">(q)</hi>
+            <hi rend="italic"> Le Major Soliveau.</hi>
+          </p>
+          <p>Une note est fort inutile ici. Le nom dit tout.</p>
+        </note>
+        <note anchored="true" xml:id="rablu_noter" n="r">
+          <p>
+            <hi rend="bold">(r)</hi>
+            <hi rend="italic"> Nous vendons publiquement le sel à six liards la livre...... </hi>
+          </p>
+          <p>Non - seulement à six liards, mais à un sol : on crie le sel dans les rues comme les autres denrées, &amp; à tous les marchés on voit des petites boutiques de Marchands de sel &amp; de tabac. Tous les nés de Céna sont approvisionnés pour six ans. <hi rend="italic"> Vive la liberté, </hi> comme dit le grand Rablu. Ces jours derniers un garçon Perruquier vient de s'établir à la barbe de la Communauté. Il a pris pour enseigne <hi rend="italic">la liberté</hi>  ; en vain lui a-t-on parlé de Statuts, de Regles, de Lettres de .Maîtrise ; il a répondu bravement : <hi rend="italic"> cela fait rasoir.</hi></p>
+        </note>
+        <note anchored="true" xml:id="rablu_notet" resp="MK" n="t">
+          <p><hi rend="bold">(s)</hi>Note from editor: the typeset of the name in italics <hi rend="italic">Moka</hi> is unclear in the original text.  Please see the page image.</p>
+        </note>
+      </div1>
+      <div1 xml:id="rablu_postface" type="postface">
+        <pb n="22"/>
+        <p>
+          <title>POST-FACE</title>
+        </p>
+        <p>Il y a un mois que la Lettre de <hi rend="italic">l'honorable </hi>devoit paroître, mais <hi rend="italic"> l'homme propose, &amp; Dieu dispose</hi> : de fâcheux contre-temps ont jusqu'ici privé le public de ce chef-d'œuvre..... Au moment où l'impression s'achevé, hélas ! nous apprenons l'accablante nouvelle de la mort de J. Rablu. Ce grand homme est parti subitement pour l'autre monde. Depuis quinze jours il ne se sentoit pas bien : il avoit beaucoup travaillé depuis six mois, &amp; il avoit sur-tout sué sang &amp; eau pour amener à bien sa chere &amp; rare Milice Perlimpinpin... Il avoit pour elle des entrailles de pere ; mais il n'étoit pas trop payé de reconnoissance ; &amp; l'auguste Assemblée lui avoit manqué de garantie, en ne lui envoyant pas la Sanction pour ses étrennes. Cette mortification, à laquelle il étoit bien loin de s'attendre, lui a donné un fond de chagrin qu'il tâchoit en vain de dissimuler ; (il est des momens où le plus grand philosophe échoue.) Ensuite est venu le combat des cochons : tout le monde sçait qu'un Caporal de Perlimpinpin étant de gardé au Château, a été saisi du plus bel enthousiasme patriotique, &amp; qu'il a pour-fendu d'un coup de sabre, un cochon du Major, qu'il a pris pour un Aristocrate... Les deux parties ont été traduites devant leurs Pairs : c'est le cochon qui a gagné, &amp; quoique le Caporal se fÛt comporté en brave homme, il n'en a pas moins été dégalonné, &amp; mis à la queue de la Compagnie, attendu qu'étant dégradé, il ne lui convenoit pas de se trouver en combat singulier.</p>
+        <p>Cette histoire de cochon a vivement affecté J. Rablu, jaloux comme un tigre de l'honneur de sa Milice, &amp; qui craignoit que le sang du cochon ne rejaillit sur tout le corps ; mais ce qui l'a achevé, c'est la nouvelle de ces Municipalités prêtes à se former ; changement de décoration qui peut influer sur la Milice Perlimpinpin  : c'est lorsque Rablu a<pb n="23"/>
+appris que tous ces personnages qu'il croyoit morts &amp; enterrés, n'étoient qu'engourdis, &amp; qu'après avoir dormi fix mois comme les marmotes, ils venoient enfin de se réveiller, qu'ils commençoient à se frotter les yeux, &amp; que leur dessein étoit de montrer leurs nés aux districts, &amp; peut-être de le réunir pour secouer le joug des <hi rend="italic"> honorables. </hi> A cette nouvelle, le grand Rablu est entré dans une colere terrible; il a jetté feu &amp; flamme, &amp; en sortant du Comité, l'honorable a été frappé d'apopléxie, &amp; est mort en vingt-quatre heures entre les bras de ses amis. Peut-être auroit-on pu le conserver à l'Etat, si on l'eÛt saigné ses quatre membres sur le champ ; mais dans ce moment fatal, il n'y avoit qu'un Chirurgien à portée, &amp; ce misérable étoit <hi rend="italic"> Aristocrate...</hi> La perte d'un si grand homme, est vraiment irréparable, &amp; la plume nous tombe des mains !.....</p>
+        <p rend="rule center"/>
+      </div1>
+      <div1 xml:id="rablu_chanson" type="poeme">
+        <p>
+          <title>CHANSON.</title>
+        </p>
+        <p>Air : <hi rend="italic"> C'est ce qui vous console.</hi></p>
+        <lg type="stanza">
+          <l>Sergents, Caporaux, Comité,</l>
+          <l>Trois fléaux pour l'humanité,</l>
+          <l>C'est ce qui la désole ; <hi rend="italic align-right">bis.</hi></l>
+          <l>Mais bientôt ils seront réduits</l>
+          <l>Au néant dont ils sont sortis,</l>
+          <l>C'est ce qui la console. <hi rend="italic align-right">bis.</hi></l>
+        </lg>
+        <lg type="stanza">
+          <l>Caporaux, braves en commun,</l>
+          <l>Vont toujours marchant dix contre un,</l>
+          <l>C'est ce qui nous désole ; <hi rend="italic align-right">bis.</hi></l>
+          <l>Mais à l'un d'eux tâtons le pouls,</l>
+          <l>Nous le voyons fuir devant nous,</l>
+          <l>C'est ce qui nous console. <hi rend="italic align-right">bis.</hi></l>
+        </lg>
+        <pb n="24"/>
+        <lg type="stanza">
+          <l>Sabre en main, les yeux menaçants, </l>
+          <l>Chez les fermiers ils vont jurants, </l>
+          <l>C'est ce qui les désole ; <hi rend="italic align-right">bis.</hi></l>
+          <l>Mais l'or, le vin sont des raisons</l>
+          <l>Qui de ces loups font des moutons, </l>
+          <l>C'est ce qui les console. <hi rend="italic align-right">bis.</hi></l>
+        </lg>
+        <lg type="stanza">
+          <l>Enfin, Caporaux, Comité,</l>
+          <l>Tout honnête homme ont tourmenté,</l>
+          <l>C'est ce qui nous désole ; <hi rend="italic align-right">bis.</hi></l>
+          <l>Mais la Municipalité</l>
+          <l>En va purger notre Cité,</l>
+          <l>C'est ce qui nous console. <hi rend="italic align-right">bis.</hi></l>
+        </lg>
+        <trailer rend="center">FIN</trailer>
+      </div1>
+    
+    <!-- <div1 id="rablu_figures">
+<p><figure entity="rablu01" n="1"><figDesc>Image of page 1></figDesc></figure></p>
+<p><figure entity="rablu02" n="2"><figDesc>Image of page 2></figDesc></figure></p>
+<p><figure entity="rablu03" n="3"><figDesc>Image of page 3></figDesc></figure></p>
+<p><figure entity="rablu04" n="4"><figDesc>Image of page 4></figDesc></figure></p>
+<p><figure entity="rablu05" n="5"><figDesc>Image of page 5></figDesc></figure></p>
+<p><figure entity="rablu06" n="6"><figDesc>Image of page 6></figDesc></figure></p>
+<p><figure entity="rablu07" n="7"><figDesc>Image of page 7></figDesc></figure></p>
+<p><figure entity="rablu08" n="8"><figDesc>Image of page 8></figDesc></figure></p>
+<p><figure entity="rablu09" n="9"><figDesc>Image of page 9></figDesc></figure></p>
+<p><figure entity="rablu10" n="10"><figDesc>Image of page 10></figDesc></figure></p>
+<p><figure entity="rablu11" n="11"><figDesc>Image of page 11></figDesc></figure></p>
+<p><figure entity="rablu12" n="12"><figDesc>Image of page 12></figDesc></figure></p>
+<p><figure entity="rablu13" n="13"><figDesc>Image of page 13></figDesc></figure></p>
+<p><figure entity="rablu14" n="14"><figDesc>Image of page 14></figDesc></figure></p>
+<p><figure entity="rablu15" n="15"><figDesc>Image of page 15></figDesc></figure></p>
+<p><figure entity="rablu16" n="16"><figDesc>Image of page 16></figDesc></figure></p>
+<p><figure entity="rablu17" n="17"><figDesc>Image of page 17></figDesc></figure></p>
+<p><figure entity="rablu18" n="18"><figDesc>Image of page 18></figDesc></figure></p>
+<p><figure entity="rablu19" n="19"><figDesc>Image of page 19></figDesc></figure></p>
+<p><figure entity="rablu20" n="20"><figDesc>Image of page 20></figDesc></figure></p>
+<p><figure entity="rablu21" n="21"><figDesc>Image of page 21></figDesc></figure></p>
+<p><figure entity="rablu22" n="22"><figDesc>Image of page 22></figDesc></figure></p>
+<p><figure entity="rablu23" n="23"><figDesc>Image of page 23></figDesc></figure></p>
+<p><figure entity="rablu24" n="24"><figDesc>Image of page 24></figDesc></figure></p>
+</div1> -->
+      </back>
+  </text>
+</TEI>

@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<p>Displaying {{doc_count}} pamphlets sorted by {{sort}}.
+<br/>
+Sort by: <a href={% url "digital_editions" sort='title' %}>title</a> | <a
+href={% url "digital_editions" sort='author' %}>author</a> | <a href={% url "digital_editions" sort='date' %}>date</a>
+<br/>
+View: <a href={% url "pamphlet_list" %}>all pamphlets</a> | digital editions
+<br/>
+</p>
+
+{% for pamphlet in doc_list %}
+<p>{{pamphlet.author}}
+
+{% if pamphlet.id %}
+<a href={% url "pamphlet_display" pamphlet.id %}>{{pamphlet.title}}</a>
+{% else %}
+{{pamphlet.title}}
+{% endif %}
+
+{{pamphlet.date}}</p>
+{% endfor %}
+
+{% endblock %}
+

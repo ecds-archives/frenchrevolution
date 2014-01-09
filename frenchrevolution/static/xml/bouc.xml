@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="bouc_1005">
+  <teiHeader><fileDesc>
+      <titleStmt>
+        <title>Rendez-moi mes boucles: electronic edition</title>
+        <author>anonymous</author>
+        <respStmt>
+          <resp>Compiled and edited by</resp>
+          <name>Michael Kazanjian</name>
+        <name/></respStmt>
+      </titleStmt>
+      <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
+          <addrLine>Atlanta, Georgia  30322</addrLine>
+        </address><availability>
+          <p>2002 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Director, Special Collections, Woodruff Library, Emory University, Atlanta, Georgia  30322</p>
+        </availability><date>2002</date><idno type="ark">http://pid.emory.edu/ark:/25593/113</idno></publicationStmt>
+      <seriesStmt>
+        <title>French Revolution Pamphlet Collection</title>
+      </seriesStmt>
+      <sourceDesc>
+        <bibl>
+          <title> Rendez-moi mes boucles.</title>
+          <pubPlace>[Paris]</pubPlace>
+          <date>[1790]</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc><encodingDesc>
+      <projectDesc>
+        <p>This text derives from the French Revolution Pamphlet Collection in the Special Collections Department of Woodruff Library, Emory University, and was produced in collaboration with the Lewis H. Beck Center for Electronic Collections and Services as part of a Woodruff Library Graduate Fellowship.</p>
+        <p>Digital capture details: I digitized the pamphlet pages using a PhaseOne PowerPhase FX digital camera copy stand and Adobe PhotoShop (5.5 and 6.0).  I saved the digital files as 300 dpi 8 bit color TIFF images with 2.2 gamma, in PC format. I used an embedded color profile: Adobe RGB (1998).  To create the text files, I used ScanSoft Omni Page Pro Version 11.0, and then proofread the resulting text file before encoding it. For display purposes, I cropped and reduced the accompanying images using Adobe PhotoShop</p>
+      </projectDesc>
+      <editorialDecl>
+        <p>I deleted the single space separating text from commas per modern French usage.  I consolidated word breaks due to typesetting (line- and page-breaks).  I recorded italics without interpretation.  I corrected neither spelling errors, nor inconsistencies, nor did I modernize the spelling. I also omitted the page signature "A" from p. 1.  For reasons of consistency across the project, I have marked up the text to display the title, author and date of the document at the beginning of the e-text, regardless of how this information appeared (or didn't appear) in the original text (please see the accompanying page images).</p>
+      </editorialDecl>
+    </encodingDesc><profileDesc>
+      <creation>
+        <date>[1790]</date>
+      </creation>
+    </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change xmlns="http://www.tei-c.org/ns/1.0"><date>2002</date><label>staff</label><name>Michael Kazanjian</name>Sgml tags inserted in compliance with TEI guidelines using TEI P3</change></revisionDesc></teiHeader>
+  <text xml:id="bouc_1004">
+    <front xml:id="bouc_1001">
+      <titlePage>
+        <docTitle>
+          <titlePart type="main">Rendez-moi mes boucles.  A Messieurs de l'Assemblée Nationale.</titlePart>
+        </docTitle>
+        <docAuthor>Anonymous.</docAuthor>
+        <docDate>[1790].</docDate>
+      </titlePage>
+    </front>
+    <body xml:id="bouc_1002">
+      <div1 xml:id="bouc_01" n="Rendez-moi mes boucles" type="misc">
+        <pb n="1"/>
+        <epigraph>
+          <p rend="rule center"/>
+          <q>Faites-moi la charité, je n'y vois goutte.</q>
+        </epigraph>
+        <p>J'étois aveugle lorsque les comices de l'empire français se renouvellèrent.  On me dit que tout étoit dans le désordre, qu'il n'y avoit plus d'argent pour payer les pensions des grands seigneurs, leurs maîtresses, leurs valets, leurs menins ; qu'il étoit plus juste que je donnasse mes boucles <ref target="#bouc_boucles.n01">[1]</ref>, sous le prétexte qu'elles
+<note anchored="true" xml:id="bouc_boucles.n01"><p rend="rule center"/><p>[Note 1, page 1] Je ne peux concevoir comment la nation française s'est abusée &amp; s'abuse encore jusqu'au point de se défaire de ses boucles &amp; bijoux. On ne fait de tels sacrifces que lorsque toutes les ressources font épuisées, à la fuite d'une guerre désastreuse ; &amp; si nous venons à en essuyer une, d'où en ferons-nous, donc ? quels moyens emploierons-nous pour la soutenir ? Depuis cette époque du patriotisme français le numéraire devient plus rare de jour en jour.  Mais, me répond un plaisant, il faut bien entretenir dans le luxe nos princes &amp; seigneurs, dans le pays étranger ; d'ailleurs, en échange de votre or, l'on vous fabrique de bonne monnoie en beau papier ; vous n'aurez à craindre pour celle-là que le feu &amp; l'eau.  Vous pourrez encore comparer ces billets à des billets de mort, parce qu'ils annocent l'extinction totale de la France.</p></note><pb n="2"/>
+serviroient à la patrie, qui n'a cependant besoin que de courage, que de bras &amp; d'hommes vertueux : je le crus. L'on accaparoit les grains &amp; les farines ; nous manquions de pain ; le fus néanmoins ébahi quand j'entendis de beaux discours ; l'on m'ajouta que je ferois riche, si je donnois mes boucles ; je les donnai ; mais comme l'on m'a trompé, que je n'ai pas de pain, <hi rend="italic">rendez-moi mes Boucles.</hi></p>
+        <pb n="3"/>
+        <p>L'on me dit que les Français avoient conquis leur liberté ; je le crus, parce que je n'y vois pas.  Mais pour assurer cette liberté, il falloit en boucler les enemis ; je donnai donc mes Boucles aux Représentans de la Nation ; quel usage en ont-ils fait ? nous le verrons. Mais je croyais être libre ; je courus â tàton ; je tombai dans un fossé ; j'appelai à mon secours, &amp; l'on me répondit que j'étois libre , que je devois être content. Je me désespérois : alors on me demanda un louis d'or pour me retirer ; je ne l'avois pas.  On exigea le quart de mon revenu, accompagné de plusieurs autres ; j'y consentis , &amp; m'apperçus que l'on m'avoit retiré du précipice.  Ah ! m'écriai-je, j'en ferois forti à meilleur marché, si j'avois eu mes Boucles. <hi rend="italic">rendez-moi donc mes Boucles !</hi></p>
+        <p>Un maître imprimeur (M. Knapen fils) a été le premier à faire le sacrifice de ses Boucles pour la patrie ( grand effort vraie-
+<pb n="4"/>
+ment de patriotisme pour un jeune homme qui doit être un jour affligé de 15000 liv. de rente !) ; &amp; à conseiller, d'après un calcul bien raisonné , à tous les bons citoyens de marcher sur ses traces, que dans ce seul moyen la patrie trouveroit de grandes ressources pour s'acquitter de sa dette. Ses confreres, plus prudens, quoique cependant très aisés, (hé ! quel est celui d'entr'eux qui ne l'est pas, à moins qu'il n'ait manqué de conduite) ont prévu qu'ils alloient en faire un bien plus grand, &amp; en conséquence n'ont pas résolu de suivre son avis. ( Aussi ont-ils été mal reçus de l'Assemblée, lorsqu'ils ont réclamé contre l'abolition des anciens privileges typographico - despotiques !)  Les Députés, au contraire, voyant dans ce sublime plan une grande spéculat ion d'intérêt personnel, n'ont pas tardé à prendre les Boucles de cuivre, <ref target="#bouc_boucles.n02">(1)</ref> dites
+<note anchored="true" xml:id="bouc_boucles.n02"><p rend="rule center"/><p>(Note 1, page 4) Comment les restaurateurs de la  monarchie française n'ont-ils pas prévu qu'en adoptant les boucles de cuivre, ils alloient mettre sur le peuple un impôt tout à la fois désastreux &amp; dèshonorant, en tirant de chez l'étranger, à notre propre détriment, toutes ces matières, boucles &amp; montures. Combien de milliers en avons-nous fait venir d'Angleterre ? &amp; combien de millions en especes leur avons-nous envoyés pour ce seul objet de caprice ? Voilà, en vérité , ce qu'on peut appeler de grandes vues de spéculation !</p></note><pb n="5"/><hi rend="italic">Boucles à la Nation...</hi> Mais moi qui n'ai pas quinze mille livres de rente, qui ne suis pas imprimeur, qui n'ai pas l'honneur d'être Député ni d'avoir dix-huit liv. par jour, &amp; qui au contraire ai des enfans &amp; pas de pain à leur donner, j'ai grand besoin de mes Boucles, monnoyées ou non.  Ainsi <hi rend="italic">rendez-moi donc mes Boucles,</hi> telles qu'elles sont.</p>
+        <p>Des barbiers, des perruquiers ,des etuvistes, des chapeliers, à qui j'avois vendu des marchandises, ont refusé de me payer, parce qu'ils n'avoient pas d'argent, &amp; qu'ils avoient donné leurs Boucles ; l'on m'a rit au nez.  J'ai dit qu'il falloit être juste avant d'être bienfaisant.
+<pb n="6"/>
+Tout le monde s'est moqué de moi ; mais pour m'en consoler, <hi rend="italic">rendez-moi mes Boucles.</hi></p>
+        <p>Les coëffeurs &amp; coëffeuses, les marchandes de modes, les fabricands de gazes &amp; de linons, &amp; tous ces ouvriers que ces fabriques emploient, ont cru que leur commerce alloit fleurir ; ils se sont dépouillés, comme moi, de leurs Boucles &amp; de leurs bijoux : mais comme ils ont songé creux, chacun mourant de faim, &amp; se trouvant sans travail, vous dit, à mon exemple, <hi rend="italic">rendez-moi mes Boucles.</hi></p>
+        <p>Manufacturiers de draps &amp; de soye, horlogers, plumassiers, éventaillistes, sondeurs, doreurs, médaillonistes, tapissiers, miroitiers, orfèvres, jouailliers, peintres, sculpteurs, ébénistes, papetiers, enlumineurs, tireurs d'or &amp; graveurs, ont donné leurs Boucles, croyant qu'elles leurs rapporteroient du bénéfice au centuple, que le commerce languissant reprendroit des forces ; les imbéciles se
+<pb n="7"/>
+sont trompés ; ils ont dit que la folie du jour les avoit aveuglés. Mais leurs mériers sont au diable ; leurs bijoux &amp; leurs Boucles sont <hi rend="italic">ad apostolos</hi> ; ils n'en ont plus de nouvelles, &amp; sont réduits à la plus affreuse misere ; &amp; s'ils avoient leurs Boucles, le boulanger ne leur feroit pas la grimace ; il me la feroit pas non plus : <hi rend="italic">rendez-moi donc mes Boucles.</hi></p>
+        <p>Le monarque, les princes, leurs ministres, le maire, les administrateurs, ont donné leur argenterie, leurs bijoux &amp; leurs Boucles, pour faire de la monnoie.  Le peuple, toujours singe des grands &amp; de ses Députés, les a imités.  Cependant le numéraire devient rare de plus en plus.  Les Députés n'ont point renoncé à leurs appointemens, malgré leurs gros revenus ; ils n'ont fait le sacrifice que d'une mauvaise paire de boucles.  Dites-moi, je vous en prie, qui a la clef de la monnoie &amp; du trésor ; car des objets, aussi considérables
+<pb n="8"/>
+ne sont pas invisibles ou ne doivent pas 1'être.  Je sais que le district des Cordeliers a saisi &amp; arrêté des voitures chargées de lingots d'or, qu'on transportoit dans escorte à Limoges, tandis qu'on affectoit le plus grand soin pour escorter la monnoie qu'on portoit au trésor royal, quoiqu'il n'y eÛt pas de danger ni de risque.  Pourquoi cette affectation ?  Je ne suis pas devin : cela m'est indifférent ;  mais <hi rend="italic">rendez-moi mes Boucles !</hi></p>
+        <p>Un de mes amis me disoit, au sujet de ce transport de lingots d'or, qu'on faisoit clandestinement :  Ce sont nos boucles &amp; nos bijoux que l'on envoie en purgatoire, pour les purifier, parce qu'elles ont été infectée s par les mains des Aristocrates qui les ont touchées ; mais pour le billon, c'est la monnoie des gueux &amp; des pauvres qu'on porte en parade dans le paradis du trésor royal.  Quant à moi, j'aimerois mieux être dans le purgatoire des riches &amp; y avoir tout en abondance,
+<pb n="9"/>
+que d'être en paradis avec des gueux, &amp; manquer de tout ; mais pour parvenir à l'île de la félicité, il faut un viatique ; ainsi <hi rend="italic">rendez-moi mes Boucles.</hi></p>
+        <p>Ma femme avoit balayé à sept heures &amp; demie du matin , selon les réglemens de police ; il faisoit une pluie du diable ; des voitures passerent pardevant ma porte, &amp; répandirent les boues que la pluie avoit délayées.  Ainsi , pour récompenser ma femme du don patriotique quelle avoit généreusement fait de ses boucles &amp; bijoux, aux dépens de notre pot-au-feu, on l'a assignée &amp; condamnée à l'amende, comme si elle pouvoit disposer des élémens.  Elle n'avoit pas six francs pour payer l'amende ; on l'a donc mise en prison : mais pour la faire sortir, <hi rend="italic">rendez-moi mes Boucles.</hi></p>
+        <p>Les traiteurs, les rotisseurs, les pâtissiers, les cuisiniers, ont donné leurs boucles &amp; leurs bijoux à l'Assemblée Nationale ; &amp; par un enthousiasme patrio-
+<pb n="10"/>
+tique ils ont donné leurs casseroles , leur chaudieres , &amp; tous leurs utensiles, pour faire des boucles de cuivre.  Comme les princes, les ducs, les nobles &amp; les riches financiers se sont retirés chez l'etranger ou dans leurs terres, y ont fait transporter ou enfouir leurs trésors ; tous ces traiteurs,  rôtisseurs , patissiers, cuisiniers, ont été forcés de plier bagage.  Ils meurent de faim, &amp; moi je suis encore plus malheureux qu'eux.  Ainsi <hi rend="italic">rendez-moi mes Boucles.</hi></p>
+        <p>Les prélats, les abbés ont restitué les biens de l'église à la nation ; les Députés les vendront, en feront un emploi à leur volonté ; mais les pauvres, de force ou d'autre, en feron privés, n'auront plus de ressources ; on aura écorché &amp; même dévoré le mouton au lieu de rendre seulement la laine.  N'importe la régéneration  ne sera point parfaite, ou <hi rend="italic">rendez-moi mes Boucles.</hi></p>
+        <p>Quand j'ai vu les abbés ce cour en
+<pb n="11"/>
+règne, tous les présidens, conseillers, &amp; seigneurs ou militaires , portoient leurs cheveux &amp; le manteau en abbés de cour ; quand on ne permettoit qu'aux militaires &amp; gentilshommes l'entré des maisons royalles, tous les Français portoient l'épée.  Quand on a permis au menu peuple d'y entrer sans épée, alors les militaires ont quitté l'épée ; mauvais présage.  Quand on a parlé des montgolfiers, des ballons, tous les Français étoient physiciens.  Quand on a parlé des États généraux, tous les Français sont devenus politiques.  Quand on a parlé de dons patriotiques, tous les Français n'ont eu qu'un même esprit.  Quand on a parlé de liberté, tous les Français se sont crus libres ; &amp; courant confusément &amp; sans ordre, se sont tous donné du nez à terre.  Quand on a parlé de soldat citoyen, tout le monde a voulu être garde-nationia1, &amp; chacun a abdiqué en effet son état, quoiqu'il
+<pb n="12"/>
+en ait conservé l'apparence chez lui.  Le Français est une véritable girouette; mais quand on demandera compte de tous les dons patriotiques, de l'emploi des recettes, le rendra-t-on ? fera-t-on fidele ? cette manie fera-t-elle imitée, si quelqu'un en donne l'exemple ?  Au surplus cela ne me regarde pas ; mais <hi rend="italic">rendez-moi mes Boucles.</hi></p>
+        <p>Tout le peuple du bas étage, ruiné par les largesses patriotiques, parce qu'il est imprudent, inconséquent &amp; mauvais spéculateur, tombe à la charge des riches ; mais les gros richards, geoliers de leurs coffres-forts, ont recours à des quêtes qu'ils font pour les malheureux, à la réserve de la façon &amp; du contrôle qu'ils estiment à leur gré.  Les impositions tombent sur les foibles, &amp; font un revenu aux grands ; car l'on fait que ceux qui ont le maniement des deniers des pauvres, se sont toujours enrichis aux dépens des pauvres.  Mais si l'on avoit
+<pb n="13"/>
+laissé les boucles &amp; les métiers battans des artisans, ils auroient des ressources ; C'est pourquoi <hi rend="italic">rendez-moi mes Boucles.</hi></p>
+        <p>Les magistrats, les procureurs, les huissiers, les notaires, les commissaires, qui ont acheté des charges à un prix exorbitant, ont trouvé le secret de s'emparer de l'administration des municipalités, &amp; de toutes les places lucratives, civiles &amp; militaires, pour se dédommager de leur premiere profession.  Ils ont porté leur esprit de rapine dans celle-ci ; tant mieux pour eux, tant pis pour les Français : c'est une source de bonheur pour les uns, &amp; de destruction pour les autres. Mais moi qui n'ai aucune ressource... soyez justes &amp; <hi rend="italic">rendez-moi mes Boucles.</hi></p>
+        <p>J'ai été condamné injustement &amp; par défaut, à une amende de vingt livres. Je me suis adressé à un avocat pour revenir par opposition ; mais j'avois donné tous mes bijoux ; je n'avois plus
+<pb n="14"/>
+le fou. Il n'a pas voulu me défendre sans argent. Je fuis obligé de me cacher pour n'être pas arrêté ; &amp; si je n'eusse pas été si bon patriote,ou si sot, j'aurois de d'argent, je me défendrois : c'est pourquoi <hi rend="italic">rendez-moi mes Boucles.</hi></p>
+        <p>Eh bien ! Meissieurs, ou Messeigneurs ; car je ne suis pas chiche de titres, que ne me dites-vous, que ne dites-vous aux Français ; vous nous avez donné votre argenterie, votre or, vos bijoux &amp; vos boucles. Nous avons fait battre aussi-tôt la monnoie ; &amp; pour vous convaincre de notre franchise &amp; de notre fidélité ; nous avons fait apposer le mois &amp; l'an 1789, avec la légende de Louis XVI, Roi des Français, afin que les citoyens ne puissent point confondre l'ancienne monnoie avec la nouvelle. Nous vous donnons des écus &amp; des louis ee notre façon, en especes &amp; non en papier. Nos especes formantes ne font point équivoques ; elles circulent dans toutes les
+<pb n="15"/>
+bourses, les places publiques, les banques &amp; les comptoirs ; mais si vous n'êtes pas encore contents &amp; satisfaits, <hi rend="italic">nous vous rendront vos Boucles.</hi></p>
+      </div1>
+    </body>
+    <back xml:id="bouc_1003"><!-- <div1 id="bouc_figures">
+<p><figure entity="boucl01" n="1"><figDesc>Image of Page 1</figDesc></figure></p>
+<p><figure entity="boucl02" n="2"><figDesc>Image of Page 2</figDesc></figure></p>
+<p><figure entity="boucl03" n="3"><figDesc>Image of Page 3</figDesc></figure></p>
+<p><figure entity="boucl04" n="4"><figDesc>Image of Page 4</figDesc></figure></p>
+<p><figure entity="boucl05" n="5"><figDesc>Image of Page 5</figDesc></figure></p>
+<p><figure entity="boucl06" n="6"><figDesc>Image of Page 6</figDesc></figure></p>
+<p><figure entity="boucl07" n="7"><figDesc>Image of Page 7</figDesc></figure></p>
+<p><figure entity="boucl08" n="8"><figDesc>Image of Page 8</figDesc></figure></p>
+<p><figure entity="boucl09" n="9"><figDesc>Image of Page 9</figDesc></figure></p>
+<p><figure entity="boucl10" n="10"><figDesc>Image of Page 10</figDesc></figure></p>
+<p><figure entity="boucl11" n="11"><figDesc>Image of Page 11</figDesc></figure></p>
+<p><figure entity="boucl12" n="12"><figDesc>Image of Page 12</figDesc></figure></p>
+<p><figure entity="boucl13" n="13"><figDesc>Image of Page 13</figDesc></figure></p>
+<p><figure entity="boucl14" n="14"><figDesc>Image of Page 14</figDesc></figure></p>
+<p><figure entity="boucl15" n="15"><figDesc>Image of Page 15</figDesc></figure></p>
+</div1> --></back>
+  </text>
+</TEI>

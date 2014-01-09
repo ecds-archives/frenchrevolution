@@ -1,0 +1,89 @@
+@import "fr.css";
+
+body { 
+  text-align:center;
+}
+
+div#index { 
+  background-image:url("images/title.jpg");
+  background-repeat:no-repeat;
+  width:415px;
+  height:366px;
+  position:relative;
+  margin:auto;
+/*  padding:0px;*/
+  padding-bottom:0.75in;
+}
+
+/* position title within the image div */
+p#title { 
+  position:absolute;
+  top:225px;
+  left:0px;
+  margin:0px;
+
+}
+
+p#page { 
+  position:absolute;
+  top:270px;
+  left:8px;
+  margin:0px;
+}
+
+p#overview { 
+  position:absolute;
+  top:62px;
+  left:35px;
+  margin:0px;
+}
+
+p#list { 
+  position:absolute;
+  top:95px;
+  left:17px;
+  margin:0px;
+}
+
+p#guide { 
+  position:absolute;
+  top:130px;
+  left:7px;
+  margin:0px;
+}
+
+p.link { 
+  font-size:18pt;
+  font-family:Helvetica,Arial Narrow;
+  padding:0px;
+  
+}
+
+p.link img { 
+/*  display:none;*/
+  border:0px;
+  width:13px;
+  height:13px;
+  vertical-align:middle;
+}
+p.link a { 
+  text-decoration:none;
+  color:#000000;
+}
+
+p.link a:hover { 
+  color:#004080;
+}
+
+p.link a:hover img { 
+/*  display:inline; */
+   background-image:url("images/select.gif");
+}
+
+div.select { 
+  width:13px;
+  height:13px;
+}
+
+p.link a:hover { 
+}
