@@ -91,7 +91,6 @@ def pamphlet_list(request, sort='title'):
   return render_to_response('pamphlet_list.html', {'sort': sort, 'doc_list': doc_list, 'doc_count': doc_count}, context_instance=RequestContext(request))
 
 def digital_editions(request, sort='title'):
-  # This really should be combined with the pamphlet_list view.  The view kept mixing up the two optional arguments so I just made separate views.
   doc = xmlmap.load_xmlobject_from_file(filename=os.path.join(settings.BASE_DIR, 'static', 'xml', 'pamphletlist.xml'), xmlclass=Pamphlet)
   doc_list = []
   for doc.pamphlet in doc.pamphlets:
@@ -122,6 +121,15 @@ def pamphlet_display(request, doc_id):
   pamphlet = Text.objects.filter(**filter).get(id__exact=doc_id)
   format = pamphlet.xsl_transform(filename=os.path.join(settings.BASE_DIR, '..', 'frenchrevolution_app', 'xslt', 'view.xsl'))
   return render_to_response('pamphlet_display.html', {'pamphlet': pamphlet, 'format': format.serialize()}, context_instance=RequestContext(request)) 
+
+def pamphlet_xml(request, doc_id):
+  "Display xml of a single issue."
+  try:
+    doc = Text.objects.get(id__exact=doc_id)
+  except:
+    raise Http404
+  tei_xml = doc.serializeDocument(pretty=True)
+  return HttpResponse(tei_xml, mimetype='application/xml')
   
 
 #Research Guide

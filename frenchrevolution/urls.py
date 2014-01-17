@@ -21,6 +21,7 @@ urlpatterns = patterns('frenchrevolution_app.views',
     url(r'^list/digital$', 'digital_editions', name='digital_editions'),
     url(r'^list/digital/(?P<sort>[^/]+)/$', 'digital_editions', name='digital_editions'),
     url(r'^view/(?P<doc_id>[^/]+)$', 'pamphlet_display', name='pamphlet_display'),
+    url(r'^view/(?P<doc_id>[^/]+)/xml$', 'pamphlet_xml', name='pamphlet_xml'),
     #research guide
     url(r'^revguide$', 'research_guide', name='research_guide'),
     url(r'^biblioguide$', 'bibliography', name='bibliography'),
