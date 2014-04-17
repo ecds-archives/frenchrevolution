@@ -39,23 +39,14 @@ def searchform(request):
     keyword = form.cleaned_data['keyword']
     if 'keyword' in form.cleaned_data and form.cleaned_data['keyword']:
       search_opts['fulltext_terms'] = '%s' % form.cleaned_data['keyword']          
-      pamphlets = Text.objects.filter(**search_opts)
-      pamphlet_dict = {}
-      pamphlet_list = []
-
+      pamphlets = Text.objects.filter(**search_opts).also('match_count').order_by('-match_count')
       for pamphlet in pamphlets:
-        word_list = re.findall(r'\b%s\b' % keyword, pamphlet.text_string.lower())
-        keyword_count = len(word_list)
-        pamphlet_dict[pamphlet.id] = (keyword_count)
-        pamphlet_list = [(k,v) for v,k in sorted([(v,k) for k,v in pamphlet_dict.items()], reverse=True)]
-        
+        count = pamphlet.match_count
+              
       context['pamphlets'] = pamphlets
       context['keyword'] = keyword
-      context['keyword_count'] = keyword_count
       context['form'] = form
-      context['pamphlet_dict'] = pamphlet_dict
-      context['pamphlet_list'] = pamphlet_list
-
+      context['count'] = 'count'
            
   return render_to_response('search_results.html', context, context_instance=RequestContext(request))
 
