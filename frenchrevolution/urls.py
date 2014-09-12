@@ -28,6 +28,7 @@ urlpatterns = patterns('frenchrevolution_app.views',
     url(r'^vols1-3$', 'vol_set1', name='vol_set1'),
     url(r'^vols4-7$', 'vol_set2', name='vol_set2'),
     url(r'^vols8-13$', 'vol_set3', name='vol_set3'),
+    (r'^sitemap\.xml$', 'django.contrib.sitemaps.views.sitemap', {'sitemaps': sitemaps}),
     )
    
 

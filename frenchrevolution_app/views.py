@@ -11,6 +11,7 @@ from django.shortcuts import render, render_to_response
 from django.http import HttpResponse, Http404
 from django.core.paginator import Paginator, InvalidPage, EmptyPage
 from django.template import RequestContext
+from django.contrib.sites.models import Site
 
 from frenchrevolution_app.models import Pamphlet, Text
 from frenchrevolution_app.forms import SearchForm
@@ -22,6 +23,7 @@ from eulexistdb.query import escape_string
 from eulexistdb.exceptions import DoesNotExist, ReturnedMultiple
 
 logger = logging.getLogger(__name__)
+
 
 #Home
 def index(request):
