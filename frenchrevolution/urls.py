@@ -1,7 +1,5 @@
-from django.conf.urls.defaults import *
+from django.conf.urls import patterns, include, url
 from django.conf import settings
-from django.conf.urls.static import static
-from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 
 from django.contrib import admin
 admin.autodiscover()
@@ -28,11 +26,13 @@ urlpatterns = patterns('frenchrevolution_app.views',
     url(r'^vols1-3$', 'vol_set1', name='vol_set1'),
     url(r'^vols4-7$', 'vol_set2', name='vol_set2'),
     url(r'^vols8-13$', 'vol_set3', name='vol_set3'),
-    (r'^sitemap\.xml$', 'django.contrib.sitemaps.views.sitemap', {'sitemaps': sitemaps}),
+    #(r'^sitemap\.xml$', 'django.contrib.sitemaps.views.sitemap', {'sitemaps': sitemaps}),
     )
    
 
-#if settings.DEBUG:
-  #urlpatterns += staticfiles_urlpatterns(
-       #url(r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root': settings.STATIC_ROOT } ),
-    #)
+if settings.DEBUG:
+  urlpatterns += patterns(
+    url(r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root': settings.STATIC_ROOT } ),
+)
+
+
