@@ -9,6 +9,7 @@ href={% url "digital_editions" sort='author' %}>author</a> | <a href={% url "dig
 <br/>
 View: <a href={% url "pamphlet_list" %}>all pamphlets</a> | digital editions
 <br/>
+Download: <a href={% url "send_file" "pamphlets" %}>digital editions in plain text</a>
 </p>
 
 {% for pamphlet in doc_list %}

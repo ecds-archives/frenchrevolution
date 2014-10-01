@@ -4,7 +4,7 @@ from django.conf import settings
 from django.contrib import admin
 admin.autodiscover()
 
-from frenchrevolution_app.views import index, overview, tag_guide, handbook, pamphlet_list,  pamphlet_display, digital_editions, research_guide, bibliography, vol_set1, vol_set2, vol_set3, searchform
+from frenchrevolution_app.views import index, overview, tag_guide, handbook, pamphlet_list,  pamphlet_display, digital_editions, research_guide, bibliography, vol_set1, vol_set2, vol_set3, searchform, send_file
 
 urlpatterns = patterns('frenchrevolution_app.views',
     url(r'^$', 'index', name='index'),
@@ -26,6 +26,7 @@ urlpatterns = patterns('frenchrevolution_app.views',
     url(r'^vols1-3$', 'vol_set1', name='vol_set1'),
     url(r'^vols4-7$', 'vol_set2', name='vol_set2'),
     url(r'^vols8-13$', 'vol_set3', name='vol_set3'),
+    url(r'^(?P<basename>[^/]+)/download$', 'send_file', name='send_file'),
     #(r'^sitemap\.xml$', 'django.contrib.sitemaps.views.sitemap', {'sitemaps': sitemaps}),
     )
    

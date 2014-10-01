@@ -5,6 +5,9 @@ from urllib import urlencode
 import logging
 from collections import OrderedDict
 from operator import itemgetter
+import tempfile, zipfile
+from django.core.servers.basehttp import FileWrapper
+import mimetypes
 
 from django.conf import settings
 from django.shortcuts import render, render_to_response
@@ -141,4 +144,17 @@ def vol_set2(request):
 def vol_set3(request):
   return render_to_response('vol_set3.html', context_instance=RequestContext(request))
 
-
+def send_file(request, basename):
+    if basename == 'pamphlets':
+        extension = '.zip'
+    else:
+        extension = '.txt'
+    filepath = 'static/txt/' + re.sub(r'_\d\d\d\d', '', basename ) + extension
+    filename  = os.path.join(settings.BASE_DIR, filepath )
+    download_name = basename + extension
+    wrapper      = FileWrapper(open(filename))
+    content_type = mimetypes.guess_type(filename)[0]
+    response     = HttpResponse(wrapper,content_type=content_type)
+    response['Content-Length']      = os.path.getsize(filename)    
+    response['Content-Disposition'] = "attachment; filename=%s"%download_name
+    return response

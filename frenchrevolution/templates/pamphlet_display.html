@@ -20,4 +20,9 @@
 
 <p><a href={% url "pamphlet_xml" pamphlet.id %}>View XML</a></p>
 
+<div class="downloads">
+<p><a href={% url "send_file" pamphlet.id %}>Download Pamphlet as Plain
+  Text</a></p>
+  </div>
+
 {% endblock %}
