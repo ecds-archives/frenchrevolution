@@ -5,11 +5,19 @@
    {% block meta %} {% endblock %}
    <title>French Revolution Pamphlet Collection Overview</title>
    <link rel="stylesheet" type="text/css" href="{{STATIC_URL}}css/fr.css">
+   <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 </head>
 <body>
 <div id="overDiv" style="position:absolute; visibility:hide;z-index:1;"></div>
 <SCRIPT LANGUAGE="JavaScript" SRC="overlib.js"></SCRIPT>
-
+<div class="container">
 <div id="header">
 
   <div class="image">
@@ -24,7 +32,7 @@
     | <a href={% url "research_guide" %}>Research Guide</a>
  </p>
 
-<div id="search">
+<div id="search"  style="height:40px"> 
 <form action={% url "searchform" %} method="get">
    Keyword search: <input type="text" name="keyword"/>
    <input type="submit" value="Go"/>
@@ -52,4 +60,5 @@ try {
 var pageTracker = _gat._getTracker("UA-11023816-5");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+</div>
 </div>

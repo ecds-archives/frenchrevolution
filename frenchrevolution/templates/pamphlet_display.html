@@ -6,6 +6,7 @@
 {% endblock %}
 
 {% block content %}
+<div class="container">
 {% if pamphlet %}
   {% if format %}
     {{ format|safe }}
@@ -24,5 +25,5 @@
 <p><a href={% url "send_file" pamphlet.id %}>Download Pamphlet as Plain
   Text</a></p>
   </div>
-
+</div>
 {% endblock %}

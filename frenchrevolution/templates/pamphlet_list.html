@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 
 {% block content %}
-
+<div class="container">
 <p>Displaying {{doc_count}} pamphlets sorted by {{sort}}.
 <br/>
 Sort by: <a href={% url "pamphlet_list" sort='title' %}>title</a> | <a
@@ -21,8 +21,23 @@ href={% url "digital_editions" %}>digital editions</a>
 {{pamphlet.title}}
 {% endif %}
 
-{{pamphlet.date}}</p>
-{% endfor %}
+{{pamphlet.date}}
+{% if pamphlet.id == "epid_1005" %}
+<img src="http://beck.library.emory.edu/frenchrevolution/image-content/{{pamphlet.id|cut:"_1005"}}001.jpg" style="width:70px;height:70px"
+     class="img-thumbnail" 
+ 	 alt="{{pamphlet.title}}"></img>
+{% elif pamphlet.id == "bouc_1005" %}
+<img src="http://beck.library.emory.edu/frenchrevolution/image-content/{{pamphlet.id|cut:"_1005"}}l01.jpg" style="width:70px;height:70px"
+     class="img-thumbnail" 
+ 	 alt="{{pamphlet.title}}"></img>
+{% elif pamphlet.figure == "" %}
+<img src="http://beck.library.emory.edu/frenchrevolution/image-content/{{pamphlet.id|cut:"_1005"}}01.jpg" style="width:70px;height:70px"
+     class="img-thumbnail" 
+ 	 alt="{{pamphlet.title}}"></img>
+{% endif %}
 
+</p>
+{% endfor %}
+</div>
 {% endblock %}
 
