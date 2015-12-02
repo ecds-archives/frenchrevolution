@@ -125,7 +125,7 @@ def pamphlet_xml(request, doc_id):
   except:
     raise Http404
   tei_xml = doc.serializeDocument(pretty=True)
-  return HttpResponse(tei_xml, content_type='application/xml')
+  return HttpResponse(tei_xml, mimetype='application/xml')
   
 
 #Research Guide

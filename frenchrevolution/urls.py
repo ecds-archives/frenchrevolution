@@ -14,7 +14,7 @@ urlpatterns = patterns('frenchrevolution_app.views',
     url(r'^tagguide$', 'tag_guide', name='tag_guide'),
     url(r'^frevhdbk$', 'handbook', name='handbook'),
     #pamphlet list
-    url(r'^list$', 'pamphlet_list', name='pamphlet_list'),
+    url(r'^list/$', 'pamphlet_list', name='pamphlet_list'),
     url(r'^list/(?P<sort>[^/]+)/$', 'pamphlet_list', name='pamphlet_list'),
     url(r'^list/digital$', 'digital_editions', name='digital_editions'),
     url(r'^list/digital/(?P<sort>[^/]+)/$', 'digital_editions', name='digital_editions'),
