@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-
+{% load staticfiles %}
 {% block content %}
 <div class="container">
 <p>Displaying {{doc_count}} pamphlets sorted by {{sort}}.
@@ -22,18 +22,18 @@ href={% url "digital_editions" %}>digital editions</a>
 {% endif %}
 
 {{pamphlet.date}}
-{% if pamphlet.id == "epid_1005" %}
-<img src="http://beck.library.emory.edu/frenchrevolution/image-content/{{pamphlet.id|cut:"_1005"}}001.jpg" style="width:70px;height:70px"
+{% if pamphlet.id == "epid_1005" %}<a href="{{STATIC_URL}}image-content/{{pamphlet.id|cut:"_1005"}}001.jpg">
+<img src="{{STATIC_URL}}image-content/{{pamphlet.id|cut:"_1005"}}001.jpg" style="width:70px;height:70px"
      class="img-thumbnail" 
- 	 alt="{{pamphlet.title}}"></img>
-{% elif pamphlet.id == "bouc_1005" %}
-<img src="http://beck.library.emory.edu/frenchrevolution/image-content/{{pamphlet.id|cut:"_1005"}}l01.jpg" style="width:70px;height:70px"
+ 	 alt="{{pamphlet.title}}"></img></a>
+{% elif pamphlet.id == "bouc_1005" %}<a href="{{STATIC_URL}}image-content/{{pamphlet.id|cut:"_1005"}}l01.jpg">
+<img src="{{STATIC_URL}}image-content/{{pamphlet.id|cut:"_1005"}}l01.jpg" style="width:70px;height:70px"
      class="img-thumbnail" 
- 	 alt="{{pamphlet.title}}"></img>
-{% elif pamphlet.figure == "" %}
-<img src="http://beck.library.emory.edu/frenchrevolution/image-content/{{pamphlet.id|cut:"_1005"}}01.jpg" style="width:70px;height:70px"
+ 	 alt="{{pamphlet.title}}"></img></a>
+{% elif pamphlet.figure == "" %}<a href="{{STATIC_URL}}image-content/{{pamphlet.id|cut:"_1005"}}01.jpg">
+<img src="{{STATIC_URL}}image-content/{{pamphlet.id|cut:"_1005"}}01.jpg" style="width:70px;height:70px"
      class="img-thumbnail" 
- 	 alt="{{pamphlet.title}}"></img>
+ 	 alt="{{pamphlet.title}}"></img></a>
 {% endif %}
 
 </p>
