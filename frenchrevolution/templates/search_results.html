@@ -2,7 +2,17 @@
 
 {% block content %}
 
+{% if messages %}
+<ul class="messages">
+    {% for message in messages|slice:":1" %}
+    <li{% if message.tags %} class="{{ message.tags }}"{% endif %}><font color="red">{{ message }}</font></li>
+    {% endfor %}
+</ul>
+{% endif %}
+
+{%if keyword%}
 <p>Search results for '{{keyword}}' :</p>
+{% endif %}
 
 {% if server_error %}{{ server_error }}{% endif %}
 

@@ -15,6 +15,7 @@ from django.http import HttpResponse, Http404
 from django.core.paginator import Paginator, InvalidPage, EmptyPage
 from django.template import RequestContext
 from django.contrib.sites.models import Site
+from django.contrib import messages
 
 from frenchrevolution_app.models import Pamphlet, Text
 from frenchrevolution_app.forms import SearchForm
@@ -24,6 +25,7 @@ from eulxml.xmlmap.teimap import Tei, TeiDiv, _TeiBase, TEI_NAMESPACE, xmlmap
 from eulcommon.djangoextras.http.decorators import content_negotiation
 from eulexistdb.query import escape_string
 from eulexistdb.exceptions import DoesNotExist, ReturnedMultiple
+from eulexistdb.db import ExistDBException
 
 logger = logging.getLogger(__name__)
 
@@ -34,6 +36,7 @@ def index(request):
 
 #Keyword Search
 def searchform(request):
+  query_error = False
   "Search by keyword"
   form = SearchForm(request.GET)
   context = {'searchform': form}
@@ -44,16 +47,30 @@ def searchform(request):
     keyword = form.cleaned_data['keyword']
     if 'keyword' in form.cleaned_data and form.cleaned_data['keyword']:
       search_opts['fulltext_terms'] = '%s' % form.cleaned_data['keyword']          
-      pamphlets = Text.objects.filter(**search_opts).also('match_count').order_by('-match_count')
-      for pamphlet in pamphlets:
-        count = pamphlet.match_count
-              
-      context['pamphlets'] = pamphlets
-      context['keyword'] = keyword
-      context['form'] = form
-      context['count'] = 'count'
-           
-  return render_to_response('search_results.html', context, context_instance=RequestContext(request))
+
+      try:
+          pamphlets = Text.objects.filter(**search_opts).also('match_count').order_by('-match_count')
+          for pamphlet in pamphlets:
+            count = pamphlet.match_count
+                  
+          context['pamphlets'] = pamphlets
+          context['keyword'] = keyword
+          context['form'] = form
+          context['count'] = 'count'
+          
+          response = render_to_response('search_results.html', context, context_instance=RequestContext(request))
+      except ExistDBException as e:
+          query_error = True
+          if 'Cannot parse' in e.message():
+              messages.error(request, 'Your search query could not be parsed.  ' + 'Please revise your search and try again.')
+          else:
+              # generic error message for any other exception
+              messages.error(request, 'There was an error processing your search.')
+          response = render(request, 'search_results.html',{'searchform': form, 'request': request})
+      if query_error:
+          response.status_code = 400
+          
+      return response
 
 #Overview
   
